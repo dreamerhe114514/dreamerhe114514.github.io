@@ -1,3 +1,5 @@
 body{
-background:url(http://dreamerhe.qianxun7747.eu.org/baapi)
+    background: url(http://dreamerhe.qianxun7747.eu.org/baapi) no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
