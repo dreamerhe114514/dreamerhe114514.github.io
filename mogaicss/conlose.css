@@ -2618,24 +2618,6 @@ a:hover {
     max-width: none!important
 }
 
-@media screen and (min-width: 1000px) {
-    .cf-article {
-        width:31%!important
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .cf-article {
-        width:100%
-    }
-}
-
-@media screen and (min-width: 600px) {
-    .cf-article {
-        width:48%
-    }
-}
-
 #article-container .tabs>.nav-tabs>.tab.active button {
     border-color: var(--story-theme)!important
 }
