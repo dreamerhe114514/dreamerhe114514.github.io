@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4434450 */
-  src: url('iconfont.woff2?t=1714880616538') format('woff2'),
-       url('iconfont.woff?t=1714880616538') format('woff'),
-       url('iconfont.ttf?t=1714880616538') format('truetype');
+  src: url('iconfont.woff2?t=1714883144720') format('woff2'),
+       url('iconfont.woff?t=1714883144720') format('woff'),
+       url('iconfont.ttf?t=1714883144720') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tongji:before {
+  content: "\ec62";
 }
 
 .icon-shejiaotubiao-02:before {
