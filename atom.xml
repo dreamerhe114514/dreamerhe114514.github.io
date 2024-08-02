@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>追梦幻境·梦想之都</title>
+  
+  <subtitle>朝着梦想前进!</subtitle>
+  <link href="https://hexo.dreamerhe.cn/atom.xml" rel="self"/>
+  
+  <link href="https://hexo.dreamerhe.cn/"/>
+  <updated>2024-08-02T07:30:09.430Z</updated>
+  <id>https://hexo.dreamerhe.cn/</id>
+  
+  <author>
+    <name>何星梦</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>系统究竟能极致精简到什么程度？</title>
+    <link href="https://hexo.dreamerhe.cn/posts/14897/"/>
+    <id>https://hexo.dreamerhe.cn/posts/14897/</id>
+    <published>2024-08-01T12:26:05.000Z</published>
+    <updated>2024-08-02T07:30:09.430Z</updated>
+    
+    <content type="html"><![CDATA[<p>起因就是在最近装系统的时候，发现了一款名为不忘初心的系统镜像，win10的64位，也是目前自己所使用的~<br>当我看到时，一脸震惊！居然只要1.2G！甚至还有更精简的还有950mb的</p><h1 id="系统占用"><a href="#系统占用" class="headerlink" title="系统占用"></a>系统占用</h1><p>这是我自己的占用哦~<br><img src="https://jsd.dreamerhe.cn/gh//dreamerhe114514/blogimg@main/img/Snipaste_2024-08-02_15-28-12.png" alt="Snipaste_2024-08-02_15-28-12.png"></p><h1 id="系统所精简的"><a href="#系统所精简的" class="headerlink" title="系统所精简的"></a>系统所精简的</h1><p>从这里开始就是一篇水文章了，可看可不看了QWQ<br>🌕 2024.4.19更新记录</p><h1 id="修复安装照片APP后，编辑照片功能。"><a href="#修复安装照片APP后，编辑照片功能。" class="headerlink" title="修复安装照片APP后，编辑照片功能。"></a>修复安装照片APP后，编辑照片功能。</h1><h1 id="更新安装包-MicrosoftEdgeX64-123-0-2420-81-msi"><a href="#更新安装包-MicrosoftEdgeX64-123-0-2420-81-msi" class="headerlink" title="更新安装包 MicrosoftEdgeX64_123.0.2420.81.msi"></a>更新安装包 MicrosoftEdgeX64_123.0.2420.81.msi</h1><h1 id="更新安装包-微软常用运行库合集-2024-04-11-exe"><a href="#更新安装包-微软常用运行库合集-2024-04-11-exe" class="headerlink" title="更新安装包 微软常用运行库合集 2024.04.11.exe"></a>更新安装包 微软常用运行库合集 2024.04.11.exe</h1><h1 id="KB5036892（19044-4291）微软官方更新如下："><a href="#KB5036892（19044-4291）微软官方更新如下：" class="headerlink" title="KB5036892（19044.4291）微软官方更新如下："></a>KB5036892（19044.4291）微软官方更新如下：</h1><p>此更新解决了 Windows 操作系统的安全问题<br>🌕 2024.2.29更新记录</p><h1 id="更新安装包-MicrosoftEdgeX64-122-0-2365-59-msi"><a href="#更新安装包-MicrosoftEdgeX64-122-0-2365-59-msi" class="headerlink" title="更新安装包 MicrosoftEdgeX64_122.0.2365.59.msi"></a>更新安装包 MicrosoftEdgeX64_122.0.2365.59.msi</h1><h1 id="更新安装包-微软常用运行库合集-2024-02-01"><a href="#更新安装包-微软常用运行库合集-2024-02-01" class="headerlink" title="更新安装包 微软常用运行库合集 2024.02.01"></a>更新安装包 微软常用运行库合集 2024.02.01</h1><h1 id="KB5034763（19044-4046）微软官方更新如下："><a href="#KB5034763（19044-4046）微软官方更新如下：" class="headerlink" title="KB5034763（19044.4046）微软官方更新如下："></a>KB5034763（19044.4046）微软官方更新如下：</h1><pre><code>此更新解决了 Windows 操作系统的安全问题。</code></pre><p>2023.12.15更新记录</p><h1 id="防止自动更新补丁，设置Windows-Update暂停更新到2099年5月28日。【查看效果图】"><a href="#防止自动更新补丁，设置Windows-Update暂停更新到2099年5月28日。【查看效果图】" class="headerlink" title="防止自动更新补丁，设置Windows Update暂停更新到2099年5月28日。【查看效果图】"></a>防止自动更新补丁，设置Windows Update暂停更新到2099年5月28日。【查看效果图】</h1><h1 id="删除资源管理的3D对象。"><a href="#删除资源管理的3D对象。" class="headerlink" title="删除资源管理的3D对象。"></a>删除资源管理的3D对象。</h1><h1 id="修复有时遇到的ToDesktop-cmd错误。"><a href="#修复有时遇到的ToDesktop-cmd错误。" class="headerlink" title="修复有时遇到的ToDesktop.cmd错误。"></a>修复有时遇到的ToDesktop.cmd错误。</h1><h1 id="更新安装包-微软常用运行库合集-2023-11-13-exe"><a href="#更新安装包-微软常用运行库合集-2023-11-13-exe" class="headerlink" title="更新安装包 微软常用运行库合集 2023.11.13.exe"></a>更新安装包 微软常用运行库合集 2023.11.13.exe</h1><h1 id="更新安装包-MicrosoftEdgeX64-120-0-2210-61-msi"><a href="#更新安装包-MicrosoftEdgeX64-120-0-2210-61-msi" class="headerlink" title="更新安装包 MicrosoftEdgeX64_120.0.2210.61.msi"></a>更新安装包 MicrosoftEdgeX64_120.0.2210.61.msi</h1><h1 id="禁用计划任务-Windows更新服务以执行计划的操作"><a href="#禁用计划任务-Windows更新服务以执行计划的操作" class="headerlink" title="禁用计划任务 Windows更新服务以执行计划的操作"></a>禁用计划任务 Windows更新服务以执行计划的操作</h1><h1 id="禁用计划任务-更新相关-Report-policies"><a href="#禁用计划任务-更新相关-Report-policies" class="headerlink" title="禁用计划任务 更新相关 Report policies"></a>禁用计划任务 更新相关 Report policies</h1><h1 id="禁用计划任务-更新相关-Schedule-Scan"><a href="#禁用计划任务-更新相关-Schedule-Scan" class="headerlink" title="禁用计划任务 更新相关 Schedule Scan"></a>禁用计划任务 更新相关 Schedule Scan</h1><h1 id="禁用计划任务-更新相关-Schedule-Maintenance-Work"><a href="#禁用计划任务-更新相关-Schedule-Maintenance-Work" class="headerlink" title="禁用计划任务 更新相关 Schedule Maintenance Work"></a>禁用计划任务 更新相关 Schedule Maintenance Work</h1><h1 id="禁用计划任务-更新相关-Schedule-Scan-Static-Task"><a href="#禁用计划任务-更新相关-Schedule-Scan-Static-Task" class="headerlink" title="禁用计划任务 更新相关 Schedule Scan Static Task"></a>禁用计划任务 更新相关 Schedule Scan Static Task</h1><h1 id="禁用计划任务-更新相关-Schedule-Work"><a href="#禁用计划任务-更新相关-Schedule-Work" class="headerlink" title="禁用计划任务 更新相关 Schedule Work"></a>禁用计划任务 更新相关 Schedule Work</h1><h1 id="禁用计划任务-更新相关-UpdateModelTask"><a href="#禁用计划任务-更新相关-UpdateModelTask" class="headerlink" title="禁用计划任务 更新相关 UpdateModelTask"></a>禁用计划任务 更新相关 UpdateModelTask</h1><h1 id="禁用计划任务-更新相关-USO-UxBroker"><a href="#禁用计划任务-更新相关-USO-UxBroker" class="headerlink" title="禁用计划任务 更新相关 USO_UxBroker"></a>禁用计划任务 更新相关 USO_UxBroker</h1><p>此版不能正常更新补丁。<br>纯净 无任何第三方软件。<br>追求稳定、没有过度优化，可以正常办公。<br>总共优化150多项系统内容，系统流畅更胜一筹。<br>优化后台进程首次开机大约50个进程左右；<br>禁用后台40多项系统不常用服务<br>需要用到指纹的，请用自建账户，Admin不支持;<br>彻底阻止IE浏览器跳转Micosoft Edge。<br>修复精简后常见的 “A字出现了问题,无法安装功能” 的问题。<br>提升自建账户权限，自建账户将拥有和 “Administrator”管理员账号一样的权限。<br>离线集成Microsoft.WindowsCalculator UWP版计算器，原版没有。<br>离线集成Microsoft.WebpImageExtension 可以打开 .web图片文件了，原版不可以打开。<br>离线集成Microsoft.DesktopAppInstaller 可以双击安装Appx离线包了，原版没有。<br>避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;<br>提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;<br>优化共享打印服务，避免局域网共享打印错误。<br>系统恢复界面添加高级启动选项<br>使用Compact OS释放空间，C盘占用空间可减少2G左右<br>电源模式新增 卓越模式<br>高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电<br>禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on<br>默认关闭7G预留空间;<br>恢复要 “使用此计算机必须输入用户密码”的勾选框，原版给隐藏了;<br>IE主页默认设置为百度，原版是先打开微软再跳转百度;<br>由于集成了补丁，DISM++ 不可以正常清理被取代的SXS组件;<br>提供 Windows store商店安装包，可以随意安装卸载;<br>提供 WindowsCamera相机APP安装包，可以随意安装卸载;<br>提供 Microsoft Edge程序安装包;<br>提供 Xbox完整安装包，可以随意安装卸载;<br>提供 OneDrive程序安装包;<br>右键添加 用记事本打开;<br>右键添加 管理员取得所有权<br>右键添加 复制文件路径;<br>右键添加 复制文件夹路径;<br>其它优化项目共130项</p><h1 id="启用系统管理员账户（仅Admin版）"><a href="#启用系统管理员账户（仅Admin版）" class="headerlink" title="启用系统管理员账户（仅Admin版）"></a>启用系统管理员账户（仅Admin版）</h1><h1 id="隐藏小娜图标"><a href="#隐藏小娜图标" class="headerlink" title="隐藏小娜图标"></a>隐藏小娜图标</h1><h1 id="隐藏任务栏搜索"><a href="#隐藏任务栏搜索" class="headerlink" title="隐藏任务栏搜索"></a>隐藏任务栏搜索</h1><h1 id="锁定任务栏"><a href="#锁定任务栏" class="headerlink" title="锁定任务栏"></a>锁定任务栏</h1><h1 id="任务栏时间显示秒数"><a href="#任务栏时间显示秒数" class="headerlink" title="任务栏时间显示秒数"></a>任务栏时间显示秒数</h1><h1 id="当任务栏被占满时从不合并"><a href="#当任务栏被占满时从不合并" class="headerlink" title="当任务栏被占满时从不合并"></a>当任务栏被占满时从不合并</h1><h1 id="隐藏任务视图按钮"><a href="#隐藏任务视图按钮" class="headerlink" title="隐藏任务视图按钮"></a>隐藏任务视图按钮</h1><h1 id="隐藏任务栏上的人脉"><a href="#隐藏任务栏上的人脉" class="headerlink" title="隐藏任务栏上的人脉"></a>隐藏任务栏上的人脉</h1><h1 id="隐藏语言栏上的帮助按钮"><a href="#隐藏语言栏上的帮助按钮" class="headerlink" title="隐藏语言栏上的帮助按钮"></a>隐藏语言栏上的帮助按钮</h1><h1 id="在务栏上显示所有通知区域图标"><a href="#在务栏上显示所有通知区域图标" class="headerlink" title="在务栏上显示所有通知区域图标"></a>在务栏上显示所有通知区域图标</h1><h1 id="账户控制UAC调整为从不通知"><a href="#账户控制UAC调整为从不通知" class="headerlink" title="账户控制UAC调整为从不通知"></a>账户控制UAC调整为从不通知</h1><h1 id="关闭Smartscreen应用筛选器"><a href="#关闭Smartscreen应用筛选器" class="headerlink" title="关闭Smartscreen应用筛选器"></a>关闭Smartscreen应用筛选器</h1><h1 id="禁用Windows-Defender"><a href="#禁用Windows-Defender" class="headerlink" title="禁用Windows Defender"></a>禁用Windows Defender</h1><h1 id="优化视觉效果以及开关机动画效果"><a href="#优化视觉效果以及开关机动画效果" class="headerlink" title="优化视觉效果以及开关机动画效果"></a>优化视觉效果以及开关机动画效果</h1><h1 id="不允许在开始菜单显示建议"><a href="#不允许在开始菜单显示建议" class="headerlink" title="不允许在开始菜单显示建议"></a>不允许在开始菜单显示建议</h1><h1 id="关闭“突出显示新安装的程序”"><a href="#关闭“突出显示新安装的程序”" class="headerlink" title="关闭“突出显示新安装的程序”"></a>关闭“突出显示新安装的程序”</h1><h1 id="关闭商店应用推广"><a href="#关闭商店应用推广" class="headerlink" title="关闭商店应用推广"></a>关闭商店应用推广</h1><h1 id="禁止自动安装推荐的应用程序"><a href="#禁止自动安装推荐的应用程序" class="headerlink" title="禁止自动安装推荐的应用程序"></a>禁止自动安装推荐的应用程序</h1><h1 id="关闭锁屏时的Windows-聚焦推广"><a href="#关闭锁屏时的Windows-聚焦推广" class="headerlink" title="关闭锁屏时的Windows 聚焦推广"></a>关闭锁屏时的Windows 聚焦推广</h1><h1 id="关闭Windows-Ink推广应用"><a href="#关闭Windows-Ink推广应用" class="headerlink" title="关闭Windows Ink推广应用"></a>关闭Windows Ink推广应用</h1><h1 id="关闭游戏录制"><a href="#关闭游戏录制" class="headerlink" title="关闭游戏录制"></a>关闭游戏录制</h1><h1 id="关闭“当我玩游戏时在后台录制”，开启此功能会影响游戏质量"><a href="#关闭“当我玩游戏时在后台录制”，开启此功能会影响游戏质量" class="headerlink" title="关闭“当我玩游戏时在后台录制”，开启此功能会影响游戏质量"></a>关闭“当我玩游戏时在后台录制”，开启此功能会影响游戏质量</h1><h1 id="登陆界面默认打开小键盘"><a href="#登陆界面默认打开小键盘" class="headerlink" title="登陆界面默认打开小键盘"></a>登陆界面默认打开小键盘</h1><h1 id="在桌面显示“此电脑”"><a href="#在桌面显示“此电脑”" class="headerlink" title="在桌面显示“此电脑”"></a>在桌面显示“此电脑”</h1><h1 id="在桌面显示“控制面板”"><a href="#在桌面显示“控制面板”" class="headerlink" title="在桌面显示“控制面板”"></a>在桌面显示“控制面板”</h1><h1 id="桌面上显示Internet-Explorer图标"><a href="#桌面上显示Internet-Explorer图标" class="headerlink" title="桌面上显示Internet Explorer图标"></a>桌面上显示Internet Explorer图标</h1><h1 id="打开资源管理器时显示此电脑”"><a href="#打开资源管理器时显示此电脑”" class="headerlink" title="打开资源管理器时显示此电脑”"></a>打开资源管理器时显示此电脑”</h1><h1 id="显示所有文件扩展名"><a href="#显示所有文件扩展名" class="headerlink" title="显示所有文件扩展名"></a>显示所有文件扩展名</h1><h1 id="显示隐藏的文件"><a href="#显示隐藏的文件" class="headerlink" title="显示隐藏的文件"></a>显示隐藏的文件</h1><h1 id="创建快捷方式时不添快捷方式文字"><a href="#创建快捷方式时不添快捷方式文字" class="headerlink" title="创建快捷方式时不添快捷方式文字"></a>创建快捷方式时不添快捷方式文字</h1><h1 id="默认关闭7G预留空间"><a href="#默认关闭7G预留空间" class="headerlink" title="默认关闭7G预留空间"></a>默认关闭7G预留空间</h1><h1 id="关闭应用自动备份"><a href="#关闭应用自动备份" class="headerlink" title="关闭应用自动备份"></a>关闭应用自动备份</h1><h1 id="禁止自动播放"><a href="#禁止自动播放" class="headerlink" title="禁止自动播放"></a>禁止自动播放</h1><h1 id="禁用NTFS链接跟踪服务"><a href="#禁用NTFS链接跟踪服务" class="headerlink" title="禁用NTFS链接跟踪服务"></a>禁用NTFS链接跟踪服务</h1><h1 id="在单独的进程中打开文件夹窗口"><a href="#在单独的进程中打开文件夹窗口" class="headerlink" title="在单独的进程中打开文件夹窗口"></a>在单独的进程中打开文件夹窗口</h1><h1 id="资源管理器快速访问不显示常用文件夹"><a href="#资源管理器快速访问不显示常用文件夹" class="headerlink" title="资源管理器快速访问不显示常用文件夹"></a>资源管理器快速访问不显示常用文件夹</h1><h1 id="隐藏资源管理器导航窗口中的收藏夹"><a href="#隐藏资源管理器导航窗口中的收藏夹" class="headerlink" title="隐藏资源管理器导航窗口中的收藏夹"></a>隐藏资源管理器导航窗口中的收藏夹</h1><h1 id="隐藏资源管理器导航窗口中的可移动设备"><a href="#隐藏资源管理器导航窗口中的可移动设备" class="headerlink" title="隐藏资源管理器导航窗口中的可移动设备"></a>隐藏资源管理器导航窗口中的可移动设备</h1><h1 id="资源管理器快速访问不显示最近使用的文件"><a href="#资源管理器快速访问不显示最近使用的文件" class="headerlink" title="资源管理器快速访问不显示最近使用的文件"></a>资源管理器快速访问不显示最近使用的文件</h1><h1 id="资源管理器窗口最小化时显示完整路径"><a href="#资源管理器窗口最小化时显示完整路径" class="headerlink" title="资源管理器窗口最小化时显示完整路径"></a>资源管理器窗口最小化时显示完整路径</h1><h1 id="隐藏资源管理器窗口中的库"><a href="#隐藏资源管理器窗口中的库" class="headerlink" title="隐藏资源管理器窗口中的库"></a>隐藏资源管理器窗口中的库</h1><h1 id="隐藏资源管理器窗口中的可移动设备"><a href="#隐藏资源管理器窗口中的可移动设备" class="headerlink" title="隐藏资源管理器窗口中的可移动设备"></a>隐藏资源管理器窗口中的可移动设备</h1><h1 id="禁用可执行文件的“兼容性疑难解答”右键菜单"><a href="#禁用可执行文件的“兼容性疑难解答”右键菜单" class="headerlink" title="禁用可执行文件的“兼容性疑难解答”右键菜单"></a>禁用可执行文件的“兼容性疑难解答”右键菜单</h1><h1 id="禁用磁盘的“以便携方式打开“右键菜单"><a href="#禁用磁盘的“以便携方式打开“右键菜单" class="headerlink" title="禁用磁盘的“以便携方式打开“右键菜单"></a>禁用磁盘的“以便携方式打开“右键菜单</h1><h1 id="禁用新建的“联系人”右键菜单"><a href="#禁用新建的“联系人”右键菜单" class="headerlink" title="禁用新建的“联系人”右键菜单"></a>禁用新建的“联系人”右键菜单</h1><h1 id="禁用文件、磁盘以及属性的“还原以前版本”右键菜单"><a href="#禁用文件、磁盘以及属性的“还原以前版本”右键菜单" class="headerlink" title="禁用文件、磁盘以及属性的“还原以前版本”右键菜单"></a>禁用文件、磁盘以及属性的“还原以前版本”右键菜单</h1><h1 id="禁用所有对象的“共享”右键菜单"><a href="#禁用所有对象的“共享”右键菜单" class="headerlink" title="禁用所有对象的“共享”右键菜单"></a>禁用所有对象的“共享”右键菜单</h1><h1 id="禁用文件、目录、桌面、磁盘以及库的“授予访问权限”右键菜单"><a href="#禁用文件、目录、桌面、磁盘以及库的“授予访问权限”右键菜单" class="headerlink" title="禁用文件、目录、桌面、磁盘以及库的“授予访问权限”右键菜单"></a>禁用文件、目录、桌面、磁盘以及库的“授予访问权限”右键菜单</h1><h1 id="禁用图片文件的“使用-3D画图编辑”右键菜单"><a href="#禁用图片文件的“使用-3D画图编辑”右键菜单" class="headerlink" title="禁用图片文件的“使用 3D画图编辑”右键菜单"></a>禁用图片文件的“使用 3D画图编辑”右键菜单</h1><h1 id="禁用MediaPlaye首次使用对话框"><a href="#禁用MediaPlaye首次使用对话框" class="headerlink" title="禁用MediaPlaye首次使用对话框"></a>禁用MediaPlaye首次使用对话框</h1><h1 id="禁用MediaPlaye自动更新"><a href="#禁用MediaPlaye自动更新" class="headerlink" title="禁用MediaPlaye自动更新"></a>禁用MediaPlaye自动更新</h1><h1 id="禁用MediaPlaye播放时屏保"><a href="#禁用MediaPlaye播放时屏保" class="headerlink" title="禁用MediaPlaye播放时屏保"></a>禁用MediaPlaye播放时屏保</h1><h1 id="禁用MediaPlaye媒体共享"><a href="#禁用MediaPlaye媒体共享" class="headerlink" title="禁用MediaPlaye媒体共享"></a>禁用MediaPlaye媒体共享</h1><h1 id="Internet-Explorer-关闭多个选项卡时不发出警告"><a href="#Internet-Explorer-关闭多个选项卡时不发出警告" class="headerlink" title="Internet Explorer 关闭多个选项卡时不发出警告"></a>Internet Explorer 关闭多个选项卡时不发出警告</h1><h1 id="Internet-Explorer-当创建新选项卡时，始终切换到新选项"><a href="#Internet-Explorer-当创建新选项卡时，始终切换到新选项" class="headerlink" title="Internet Explorer 当创建新选项卡时，始终切换到新选项"></a>Internet Explorer 当创建新选项卡时，始终切换到新选项</h1><h1 id="Internet-Explorer-其他程序从当前窗口的新选项卡打开连接"><a href="#Internet-Explorer-其他程序从当前窗口的新选项卡打开连接" class="headerlink" title="Internet Explorer 其他程序从当前窗口的新选项卡打开连接"></a>Internet Explorer 其他程序从当前窗口的新选项卡打开连接</h1><h1 id="Internet-Explorer-关闭建议的网站"><a href="#Internet-Explorer-关闭建议的网站" class="headerlink" title="Internet Explorer 关闭建议的网站"></a>Internet Explorer 关闭建议的网站</h1><h1 id="Internet-Explorer-跳过IE首次运行自定义设置"><a href="#Internet-Explorer-跳过IE首次运行自定义设置" class="headerlink" title="Internet Explorer 跳过IE首次运行自定义设置"></a>Internet Explorer 跳过IE首次运行自定义设置</h1><h1 id="Internet-Explorer-不保存附件的区域信息"><a href="#Internet-Explorer-不保存附件的区域信息" class="headerlink" title="Internet Explorer 不保存附件的区域信息"></a>Internet Explorer 不保存附件的区域信息</h1><h1 id="Internet-Explorer-启用增强保护模式"><a href="#Internet-Explorer-启用增强保护模式" class="headerlink" title="Internet Explorer 启用增强保护模式"></a>Internet Explorer 启用增强保护模式</h1><h1 id="Internet-Explorer-针对增强保护模式启用64位进程"><a href="#Internet-Explorer-针对增强保护模式启用64位进程" class="headerlink" title="Internet Explorer 针对增强保护模式启用64位进程"></a>Internet Explorer 针对增强保护模式启用64位进程</h1><h1 id="Internet-Explorer-锁定工具栏"><a href="#Internet-Explorer-锁定工具栏" class="headerlink" title="Internet Explorer 锁定工具栏"></a>Internet Explorer 锁定工具栏</h1><h1 id="Internet-Explorer-将同时可用下载数目调整到-10"><a href="#Internet-Explorer-将同时可用下载数目调整到-10" class="headerlink" title="Internet Explorer 将同时可用下载数目调整到 10"></a>Internet Explorer 将同时可用下载数目调整到 10</h1><h1 id="Internet-Explorer-遇到弹出窗口时始终在新选项卡中打开弹出窗口"><a href="#Internet-Explorer-遇到弹出窗口时始终在新选项卡中打开弹出窗口" class="headerlink" title="Internet Explorer 遇到弹出窗口时始终在新选项卡中打开弹出窗口"></a>Internet Explorer 遇到弹出窗口时始终在新选项卡中打开弹出窗口</h1><h1 id="Internet-Explorer-关闭自动更新"><a href="#Internet-Explorer-关闭自动更新" class="headerlink" title="Internet Explorer 关闭自动更新"></a>Internet Explorer 关闭自动更新</h1><h1 id="Internet-Explorer-隐藏IE笑脸帮助按钮"><a href="#Internet-Explorer-隐藏IE笑脸帮助按钮" class="headerlink" title="Internet Explorer 隐藏IE笑脸帮助按钮"></a>Internet Explorer 隐藏IE笑脸帮助按钮</h1><h1 id="禁用客户体验改善计划"><a href="#禁用客户体验改善计划" class="headerlink" title="禁用客户体验改善计划"></a>禁用客户体验改善计划</h1><h1 id="微软拼音默认为英文输入"><a href="#微软拼音默认为英文输入" class="headerlink" title="微软拼音默认为英文输入"></a>微软拼音默认为英文输入</h1><h1 id="记事本启用自动换行"><a href="#记事本启用自动换行" class="headerlink" title="记事本启用自动换行"></a>记事本启用自动换行</h1><h1 id="记事本始终显示状态栏"><a href="#记事本始终显示状态栏" class="headerlink" title="记事本始终显示状态栏"></a>记事本始终显示状态栏</h1><h1 id="关闭远程协助"><a href="#关闭远程协助" class="headerlink" title="关闭远程协助"></a>关闭远程协助</h1><h1 id="禁用程序兼容性助手"><a href="#禁用程序兼容性助手" class="headerlink" title="禁用程序兼容性助手"></a>禁用程序兼容性助手</h1><h1 id="禁用休眠"><a href="#禁用休眠" class="headerlink" title="禁用休眠"></a>禁用休眠</h1><h1 id="Windows更新不包括恶意软件删除工具"><a href="#Windows更新不包括恶意软件删除工具" class="headerlink" title="Windows更新不包括恶意软件删除工具"></a>Windows更新不包括恶意软件删除工具</h1><h1 id="Windows更新不包括驱动程序"><a href="#Windows更新不包括驱动程序" class="headerlink" title="Windows更新不包括驱动程序"></a>Windows更新不包括驱动程序</h1><h1 id="更新挂起时如果有用户登录不自动重启计算机"><a href="#更新挂起时如果有用户登录不自动重启计算机" class="headerlink" title="更新挂起时如果有用户登录不自动重启计算机"></a>更新挂起时如果有用户登录不自动重启计算机</h1><h1 id="将Windows-Update自动更新调整为从不推荐"><a href="#将Windows-Update自动更新调整为从不推荐" class="headerlink" title="将Windows Update自动更新调整为从不推荐"></a>将Windows Update自动更新调整为从不推荐</h1><h1 id="启用-Windows-照片查看器"><a href="#启用-Windows-照片查看器" class="headerlink" title="启用 Windows 照片查看器"></a>启用 Windows 照片查看器</h1><h1 id="蓝屏时自动重启"><a href="#蓝屏时自动重启" class="headerlink" title="蓝屏时自动重启"></a>蓝屏时自动重启</h1><h1 id="禁用-当注销时自动保存我的重启的应用-APP，在我再次登录时重新打开这些-应用-APP"><a href="#禁用-当注销时自动保存我的重启的应用-APP，在我再次登录时重新打开这些-应用-APP" class="headerlink" title="禁用 当注销时自动保存我的重启的应用 APP，在我再次登录时重新打开这些 应用 APP"></a>禁用 当注销时自动保存我的重启的应用 APP，在我再次登录时重新打开这些 应用 APP</h1><h1 id="关闭传递优化该功能可以把下载的更新文件发送到局域网其他电脑上，没什么大作用。"><a href="#关闭传递优化该功能可以把下载的更新文件发送到局域网其他电脑上，没什么大作用。" class="headerlink" title="关闭传递优化该功能可以把下载的更新文件发送到局域网其他电脑上，没什么大作用。"></a>关闭传递优化该功能可以把下载的更新文件发送到局域网其他电脑上，没什么大作用。</h1><h1 id="关闭咨询和兴趣"><a href="#关闭咨询和兴趣" class="headerlink" title="关闭咨询和兴趣"></a>关闭咨询和兴趣</h1><h1 id="优化局域网连接"><a href="#优化局域网连接" class="headerlink" title="优化局域网连接"></a>优化局域网连接</h1><h1 id="优化网络参数设置，提高网络连接稳定性"><a href="#优化网络参数设置，提高网络连接稳定性" class="headerlink" title="优化网络参数设置，提高网络连接稳定性"></a>优化网络参数设置，提高网络连接稳定性</h1><h1 id="优化网络快速转发机制，提高上网速"><a href="#优化网络快速转发机制，提高上网速" class="headerlink" title="优化网络快速转发机制，提高上网速"></a>优化网络快速转发机制，提高上网速</h1><h1 id="关闭系统自动调试功能，提高系统运行速度"><a href="#关闭系统自动调试功能，提高系统运行速度" class="headerlink" title="关闭系统自动调试功能，提高系统运行速度"></a>关闭系统自动调试功能，提高系统运行速度</h1><h1 id="加大系统的图标缓冲，提高系统开机速度"><a href="#加大系统的图标缓冲，提高系统开机速度" class="headerlink" title="加大系统的图标缓冲，提高系统开机速度"></a>加大系统的图标缓冲，提高系统开机速度</h1><h1 id="禁止系统自动生成错误报告，加快系统反应速度"><a href="#禁止系统自动生成错误报告，加快系统反应速度" class="headerlink" title="禁止系统自动生成错误报告，加快系统反应速度"></a>禁止系统自动生成错误报告，加快系统反应速度</h1><h1 id="关闭计算器后台运行"><a href="#关闭计算器后台运行" class="headerlink" title="关闭计算器后台运行"></a>关闭计算器后台运行</h1><h1 id="关闭设置后台运行"><a href="#关闭设置后台运行" class="headerlink" title="关闭设置后台运行"></a>关闭设置后台运行</h1><h1 id="关闭设置-系统-通知-完成设备设置以充分利用Windows-的建议方式"><a href="#关闭设置-系统-通知-完成设备设置以充分利用Windows-的建议方式" class="headerlink" title="关闭设置-系统-通知-完成设备设置以充分利用Windows 的建议方式"></a>关闭设置-系统-通知-完成设备设置以充分利用Windows 的建议方式</h1><h1 id="关闭设置-系统-通知-在锁屏界面上显示提醒和-VolP-来电"><a href="#关闭设置-系统-通知-在锁屏界面上显示提醒和-VolP-来电" class="headerlink" title="关闭设置-系统-通知-在锁屏界面上显示提醒和 VolP 来电"></a>关闭设置-系统-通知-在锁屏界面上显示提醒和 VolP 来电</h1><h1 id="关闭设置-系统-通知-更新后向我显示“欢迎使用-Windows”体验，并在我登录时显示新增内容和建议的内容"><a href="#关闭设置-系统-通知-更新后向我显示“欢迎使用-Windows”体验，并在我登录时显示新增内容和建议的内容" class="headerlink" title="关闭设置-系统-通知-更新后向我显示“欢迎使用 Windows”体验，并在我登录时显示新增内容和建议的内容"></a>关闭设置-系统-通知-更新后向我显示“欢迎使用 Windows”体验，并在我登录时显示新增内容和建议的内容</h1><h1 id="禁用Windows-Defender-安全中心-所有通知"><a href="#禁用Windows-Defender-安全中心-所有通知" class="headerlink" title="禁用Windows Defender 安全中心 - 所有通知"></a>禁用Windows Defender 安全中心 - 所有通知</h1><h1 id="禁用Windows-Defender-安全中心-非重要通知"><a href="#禁用Windows-Defender-安全中心-非重要通知" class="headerlink" title="禁用Windows Defender 安全中心 - 非重要通知"></a>禁用Windows Defender 安全中心 - 非重要通知</h1><h1 id="禁用Windows-Defender-篡改保护"><a href="#禁用Windows-Defender-篡改保护" class="headerlink" title="禁用Windows Defender 篡改保护"></a>禁用Windows Defender 篡改保护</h1><h1 id="禁用Windows-Defender-警告用户使用微软账号的-Defender-账号保护"><a href="#禁用Windows-Defender-警告用户使用微软账号的-Defender-账号保护" class="headerlink" title="禁用Windows Defender 警告用户使用微软账号的 Defender 账号保护"></a>禁用Windows Defender 警告用户使用微软账号的 Defender 账号保护</h1><h1 id="隐私选项-禁止-使用页面预测功能来提升阅读，提供浏览速度浏览数据会被发送到-Microsoft"><a href="#隐私选项-禁止-使用页面预测功能来提升阅读，提供浏览速度浏览数据会被发送到-Microsoft" class="headerlink" title="隐私选项 禁止 使用页面预测功能来提升阅读，提供浏览速度浏览数据会被发送到 Microsoft"></a>隐私选项 禁止 使用页面预测功能来提升阅读，提供浏览速度浏览数据会被发送到 Microsoft</h1><h1 id="隐私选项-禁止-允许-Windows-从此电脑中收集我的活动-活动历史记录”"><a href="#隐私选项-禁止-允许-Windows-从此电脑中收集我的活动-活动历史记录”" class="headerlink" title="隐私选项 禁止 允许 Windows 从此电脑中收集我的活动(活动历史记录”)"></a>隐私选项 禁止 允许 Windows 从此电脑中收集我的活动(活动历史记录”)</h1><h1 id="隐私选项-禁止-允许帮助提升用户体验"><a href="#隐私选项-禁止-允许帮助提升用户体验" class="headerlink" title="隐私选项 禁止 允许帮助提升用户体验"></a>隐私选项 禁止 允许帮助提升用户体验</h1><h1 id="隐私选项-禁止-允许应用使用用户的广告标识符了解对各应用的体验"><a href="#隐私选项-禁止-允许应用使用用户的广告标识符了解对各应用的体验" class="headerlink" title="隐私选项 禁止 允许应用使用用户的广告标识符了解对各应用的体验"></a>隐私选项 禁止 允许应用使用用户的广告标识符了解对各应用的体验</h1><h1 id="隐私选项-禁止-可让-Microsoft-通过使用你的诊断数据，提供更多的量身定制的相关提示和建议"><a href="#隐私选项-禁止-可让-Microsoft-通过使用你的诊断数据，提供更多的量身定制的相关提示和建议" class="headerlink" title="隐私选项 禁止 可让 Microsoft 通过使用你的诊断数据，提供更多的量身定制的相关提示和建议"></a>隐私选项 禁止 可让 Microsoft 通过使用你的诊断数据，提供更多的量身定制的相关提示和建议</h1><h1 id="隐私选项-禁止-向-Microsoft-发送有关我的写作习惯的信息，以便在将来改进键入与写入功能"><a href="#隐私选项-禁止-向-Microsoft-发送有关我的写作习惯的信息，以便在将来改进键入与写入功能" class="headerlink" title="隐私选项 禁止 向 Microsoft 发送有关我的写作习惯的信息，以便在将来改进键入与写入功能"></a>隐私选项 禁止 向 Microsoft 发送有关我的写作习惯的信息，以便在将来改进键入与写入功能</h1><h1 id="隐私选项-禁止-在设置应用中为用户显示建议的内容"><a href="#隐私选项-禁止-在设置应用中为用户显示建议的内容" class="headerlink" title="隐私选项 禁止 在设置应用中为用户显示建议的内容"></a>隐私选项 禁止 在设置应用中为用户显示建议的内容</h1><h1 id="隐私选项-禁止-完成设备设置以充分利用Windows的建议方式"><a href="#隐私选项-禁止-完成设备设置以充分利用Windows的建议方式" class="headerlink" title="隐私选项 禁止 完成设备设置以充分利用Windows的建议方式"></a>隐私选项 禁止 完成设备设置以充分利用Windows的建议方式</h1><h1 id="隐私选项-禁止-收集通讯录-让-Windows和小娜更好的了解你"><a href="#隐私选项-禁止-收集通讯录-让-Windows和小娜更好的了解你" class="headerlink" title="隐私选项 禁止 收集通讯录 让 Windows和小娜更好的了解你"></a>隐私选项 禁止 收集通讯录 让 Windows和小娜更好的了解你</h1><h1 id="隐私选项-禁止-收集键入文本让-Windows和小娜更好的了解你"><a href="#隐私选项-禁止-收集键入文本让-Windows和小娜更好的了解你" class="headerlink" title="隐私选项 禁止 收集键入文本让 Windows和小娜更好的了解你"></a>隐私选项 禁止 收集键入文本让 Windows和小娜更好的了解你</h1><h1 id="隐私选项-禁止-自动安装建议的应用"><a href="#隐私选项-禁止-自动安装建议的应用" class="headerlink" title="隐私选项 禁止 自动安装建议的应用"></a>隐私选项 禁止 自动安装建议的应用</h1><h1 id="隐私选项-禁止-自动安装赞助商的应用-客户体验）"><a href="#隐私选项-禁止-自动安装赞助商的应用-客户体验）" class="headerlink" title="隐私选项 禁止 自动安装赞助商的应用(客户体验）"></a>隐私选项 禁止 自动安装赞助商的应用(客户体验）</h1><h1 id="隐私选项-禁止-自动连接到建议的开放热点"><a href="#隐私选项-禁止-自动连接到建议的开放热点" class="headerlink" title="隐私选项 禁止 自动连接到建议的开放热点"></a>隐私选项 禁止 自动连接到建议的开放热点</h1><h1 id="隐私选项-禁止-让-Skype-如果已安装-帮助你联系地址中的好友并校验你的移动号码"><a href="#隐私选项-禁止-让-Skype-如果已安装-帮助你联系地址中的好友并校验你的移动号码" class="headerlink" title="隐私选项 禁止 让 Skype(如果已安装) 帮助你联系地址中的好友并校验你的移动号码"></a>隐私选项 禁止 让 Skype(如果已安装) 帮助你联系地址中的好友并校验你的移动号码</h1><h1 id="隐私选项-通过-将用户的输入数据发送给-Microsoft-来个性化用户的语音输入，键盘输入和墨迹输入"><a href="#隐私选项-通过-将用户的输入数据发送给-Microsoft-来个性化用户的语音输入，键盘输入和墨迹输入" class="headerlink" title="隐私选项 通过 将用户的输入数据发送给 Microsoft 来个性化用户的语音输入，键盘输入和墨迹输入"></a>隐私选项 通过 将用户的输入数据发送给 Microsoft 来个性化用户的语音输入，键盘输入和墨迹输入</h1><h1 id="隐私选项-禁止-键入见解"><a href="#隐私选项-禁止-键入见解" class="headerlink" title="隐私选项 禁止 键入见解"></a>隐私选项 禁止 键入见解</h1><h1 id="隐私选项-禁止-预安装-OEM-应用"><a href="#隐私选项-禁止-预安装-OEM-应用" class="headerlink" title="隐私选项 禁止 预安装 OEM 应用"></a>隐私选项 禁止 预安装 OEM 应用</h1><h1 id="隐私选项-禁止-预安装应用"><a href="#隐私选项-禁止-预安装应用" class="headerlink" title="隐私选项 禁止 预安装应用"></a>隐私选项 禁止 预安装应用</h1><h1 id="隐私选项-禁止-收集语言和书写习惯"><a href="#隐私选项-禁止-收集语言和书写习惯" class="headerlink" title="隐私选项 禁止 收集语言和书写习惯"></a>隐私选项 禁止 收集语言和书写习惯</h1><h1 id="隐私选项-优化-遥测反馈频率改为“从不”"><a href="#隐私选项-优化-遥测反馈频率改为“从不”" class="headerlink" title="隐私选项 优化 遥测反馈频率改为“从不”"></a>隐私选项 优化 遥测反馈频率改为“从不”</h1><h1 id="隐私选项-禁止-关闭查看诊断数据"><a href="#隐私选项-禁止-关闭查看诊断数据" class="headerlink" title="隐私选项 禁止 关闭查看诊断数据"></a>隐私选项 禁止 关闭查看诊断数据</h1><h1 id="隐私选项-关闭-反馈和诊断"><a href="#隐私选项-关闭-反馈和诊断" class="headerlink" title="隐私选项 关闭 反馈和诊断"></a>隐私选项 关闭 反馈和诊断</h1><h1 id="隐私选项-关闭-在设置应用中为我显示建议的内容"><a href="#隐私选项-关闭-在设置应用中为我显示建议的内容" class="headerlink" title="隐私选项 关闭 在设置应用中为我显示建议的内容"></a>隐私选项 关闭 在设置应用中为我显示建议的内容</h1><h1 id="隐私选项-关闭-在开始菜单显示建议"><a href="#隐私选项-关闭-在开始菜单显示建议" class="headerlink" title="隐私选项 关闭 在开始菜单显示建议"></a>隐私选项 关闭 在开始菜单显示建议</h1><h1 id="隐私选项-关闭-允许应用访问与其他应用有关的诊断信息"><a href="#隐私选项-关闭-允许应用访问与其他应用有关的诊断信息" class="headerlink" title="隐私选项 关闭 允许应用访问与其他应用有关的诊断信息"></a>隐私选项 关闭 允许应用访问与其他应用有关的诊断信息</h1><h1 id="禁用计划任务-NET-Framework"><a href="#禁用计划任务-NET-Framework" class="headerlink" title="禁用计划任务 NET Framework"></a>禁用计划任务 NET Framework</h1><h1 id="禁用计划任务-App列表备份"><a href="#禁用计划任务-App列表备份" class="headerlink" title="禁用计划任务 App列表备份"></a>禁用计划任务 App列表备份</h1><h1 id="禁用计划任务-Windows-磁盘诊断会为加入客户体验计划的用户向-Microsoft-报告常规的磁盘和系统信息。"><a href="#禁用计划任务-Windows-磁盘诊断会为加入客户体验计划的用户向-Microsoft-报告常规的磁盘和系统信息。" class="headerlink" title="禁用计划任务 Windows 磁盘诊断会为加入客户体验计划的用户向 Microsoft 报告常规的磁盘和系统信息。"></a>禁用计划任务 Windows 磁盘诊断会为加入客户体验计划的用户向 Microsoft 报告常规的磁盘和系统信息。</h1><h1 id="禁用计划任务-当系统处于无人参与模式时，将用户文件复制到备份位置以防意外丢失”"><a href="#禁用计划任务-当系统处于无人参与模式时，将用户文件复制到备份位置以防意外丢失”" class="headerlink" title="禁用计划任务 当系统处于无人参与模式时，将用户文件复制到备份位置以防意外丢失”"></a>禁用计划任务 当系统处于无人参与模式时，将用户文件复制到备份位置以防意外丢失”</h1><h1 id="禁用计划任务-任务颜色校准设置"><a href="#禁用计划任务-任务颜色校准设置" class="headerlink" title="禁用计划任务 任务颜色校准设置"></a>禁用计划任务 任务颜色校准设置</h1><h1 id="删除计划任务-验证WINRE环境"><a href="#删除计划任务-验证WINRE环境" class="headerlink" title="删除计划任务 验证WINRE环境"></a>删除计划任务 验证WINRE环境</h1><h1 id="禁用计划任务-注册表空闲备份任务"><a href="#禁用计划任务-注册表空闲备份任务" class="headerlink" title="禁用计划任务 注册表空闲备份任务"></a>禁用计划任务 注册表空闲备份任务</h1><h1 id="禁用计划任务-内存诊断"><a href="#禁用计划任务-内存诊断" class="headerlink" title="禁用计划任务 内存诊断"></a>禁用计划任务 内存诊断</h1><h1 id="禁用计划任务-DirectXDatabaseUpdater"><a href="#禁用计划任务-DirectXDatabaseUpdater" class="headerlink" title="禁用计划任务 DirectXDatabaseUpdater"></a>禁用计划任务 DirectXDatabaseUpdater</h1>]]></content>
+    
+    
+    <summary type="html">什么系统能这么精简？</summary>
+    
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="系统" scheme="https://hexo.dreamerhe.cn/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>系统重装记</title>
+    <link href="https://hexo.dreamerhe.cn/posts/55859/"/>
+    <id>https://hexo.dreamerhe.cn/posts/55859/</id>
+    <published>2024-08-01T12:25:42.000Z</published>
+    <updated>2024-08-02T07:34:29.021Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近重装了N遍系统，就来说说吧<br>7.30前几天，装了一个4g的win10，然后因为太卡，装成了win8.1大概是7.29左右，然后又因为无法开steam直接换到了win10,又因为太卡，换了个精简版的7.31日，结果因为系统问题，每次重启要掉驱动，又换成了不忘初心的了，也就是现在的，在8.1日，时间表就是</p><ul><li>7.28左右 win10-win8.1</li><li>当天换成win10</li><li>当天下午，发现无法运行steam直接换成了win10</li><li>第二天，发现驱动每次重启都掉无奈又换</li><li>第二天换成了不忘初心版的<br>好！3天左右装了4次吧，好像是，好！没了，又水了一篇文章~~~</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近重装了N遍系统，就来说说吧&lt;br&gt;7.30前几天，装了一个4g的win10，然后因为太卡，装成了win8.1大概是7.29左右，然后又因为无法开steam直接换到了win10,又因为太卡，换了个精简版的7.31日，结果因为系统问题，每次重启要掉驱动，又换成了不忘初心的了</summary>
+      
+    
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="系统" scheme="https://hexo.dreamerhe.cn/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="重装" scheme="https://hexo.dreamerhe.cn/tags/%E9%87%8D%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>那些我遇到过或自己总结过的一些句子</title>
+    <link href="https://hexo.dreamerhe.cn/posts/36446/"/>
+    <id>https://hexo.dreamerhe.cn/posts/36446/</id>
+    <published>2024-08-01T12:25:28.000Z</published>
+    <updated>2024-08-02T07:20:03.216Z</updated>
+    
+    <content type="html"><![CDATA[<p>不多BB直接开始，遇到的会标一个</p><ul><li>当你无聊的时候就会去把能做的都做了，哪怕是之前全都不想做的。</li><li>知道孤独，了解孤独，变得孤独，享受孤独，成为…..孤独</li><li>既然世界没办法回应你的努力，那么就由我来为你铲除障碍 <strong>游戏里摘出来的</strong></li><li>不要期望别人说出你希望说的，一旦期望过高，等来的不是满意的话，就会……..失望透顶</li><li>当你满怀希望打开手机（或某款聊天应用）发现一条消息都没有的时候，就会明白，别人根本不在乎你罢了</li><li>某些时候，感情是说不出的</li><li>只要记得，千万不要认为只有自己一个人，至少，世界上还会有一个人永远的支持你 <strong>游戏里摘出来的，好像改了一点</strong></li><li>人，总要学会找到自己身上的发光点!就算站在黑暗中，也可以自己为自己指路。</li><li>再给别人一点时间，一点就好，不要让他成为压死骆驼的最后一根草。</li><li>怀揣希望而来，却载失望而归</li><li>一直都在，除非死亡，仅仅只是不在线而已，又不是死了 <strong>这点就有点吐槽了，就是那种发消息就问在不在的，虽然我平时也喜欢这么搞，但是现在没怎么搞了，虽然有时候还是会有</strong></li><li>哪怕是一点点光，都有可能成为最后的希望</li><li>已经错过了，还回去想念，已经逝去了，还想追回，人们总是后悔过了才珍惜，却没有在做出行动前好好考虑，东西一旦错过了，那么机会就很渺小了，不知道怎么挽回，也无法挽回 <strong>找六梦的时候总结的</strong></li><li>既然别人已经下定决心要怎么样了，你再怎么劝也没有用了，不如省省你的口水润润嗓 <strong>无意间想出来的，大概的情形就是，别人下定决心要咋样了，你也干不了什么，不如任他去</strong></li><li>你的确有无数次机会，可你从没珍惜过，到了最后，你发现那一点点机会，想用它面对大100倍还多的困难，怎么可能？ <strong>依旧是找六梦和里面的一些人的时候想出来的</strong></li><li>只要有缘，终会再见 <strong>依旧是找六梦想出来的，不过虽然是自己想的，但是早就有了</strong></li></ul>]]></content>
+    
+    
+    <summary type="html">自己总结和遇到的~</summary>
+    
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="名句" scheme="https://hexo.dreamerhe.cn/tags/%E5%90%8D%E5%8F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>作业狂肝记</title>
+    <link href="https://hexo.dreamerhe.cn/posts/61465/"/>
+    <id>https://hexo.dreamerhe.cn/posts/61465/</id>
+    <published>2024-08-01T12:22:44.000Z</published>
+    <updated>2024-08-02T07:58:10.222Z</updated>
+    
+    <content type="html"><![CDATA[<p>让我看看怎么个事！<br>作业狂肝记，到底有多肝，我是真的想一堆堆骂人的话骂起来。因为多，虽然已经做完了<br>从6.26放假的第一天就开始肝了勒！就不爆照片了，截至今天，已经全部over啦！</p><ul><li>今日，物理笔记全部抄完，英语日记也全部写完了。</li><li>昨天，物理新课堂+卷子+一部分笔记，一天一本的含金量</li><li>前天，数学加数学卷子，花了3太好像</li><li>前天的昨天，实践报告测+英语的走向假期</li><li>大前天, 英语的一部分抄写</li><li>记不清具体时间了，花了俩天把英语的60篇短文抄写写完了</li><li>前几日，大概有个10天？还是多少？把英语单词抄完了，不得不说，我都有点佩服自己</li><li>记不住了，反正就是特别多，反正也做完了！接下来可以好好学学C了勒~</li></ul>]]></content>
+    
+    
+    <summary type="html">做完了就直接嗨起来！</summary>
+    
+    
+    
+    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>七月小记</title>
+    <link href="https://hexo.dreamerhe.cn/posts/64155/"/>
+    <id>https://hexo.dreamerhe.cn/posts/64155/</id>
+    <published>2024-08-01T12:17:20.000Z</published>
+    <updated>2024-08-02T08:23:38.259Z</updated>
+    
+    <content type="html"><![CDATA[<p>七月也是过去了，那么就让我来盘点盘点七月我有了哪些P事情发生了吧~</p><h1 id="域名被墙"><a href="#域名被墙" class="headerlink" title="域名被墙"></a>域名被墙</h1><p><font color= red>域名被墙了</font> 但是很怪啊！就墙我俩，hexo.dreamerhe.cn和blog.dreamerhe.cn就这俩，咋地，跟我这俩有仇咋地？所以已经域名重定向到blog1.dreamerhe.cn了，也不知道什么时候恢复，再加上我未成年又不去搞备案的，连身份证都没有的，所以只能等咯，不过好像只墙重庆啊，目前好像就重庆无法访问勒。</p><h1 id="入坑绝区零ZZZ"><a href="#入坑绝区零ZZZ" class="headerlink" title="入坑绝区零ZZZ"></a>入坑绝区零ZZZ</h1><p>在7.5我入坑了绝区零，也是无意间通过870云游戏刷到了，加上之前我的某个朋友给我说过，然后我直接一发不可收拾！现在都肝到44级还是43来着勒？忘了。</p><h1 id="做了个ZZZAPI图片"><a href="#做了个ZZZAPI图片" class="headerlink" title="做了个ZZZAPI图片"></a>做了个ZZZAPI图片</h1><p>在绝区零出了后，处于喜欢我直接做了个API，虽然图片不多，自己用还是够了！</p><h1 id="狂肝绝区零"><a href="#狂肝绝区零" class="headerlink" title="狂肝绝区零"></a>狂肝绝区零</h1><p>1天打到25级，然后后面后续又继续肝，天天上线清体力，甚至搞到了怀疑人生！真的是服了，但是还是喜欢啊~没出11号真的服了</p><h1 id="绝区零抽卡"><a href="#绝区零抽卡" class="headerlink" title="绝区零抽卡"></a>绝区零抽卡</h1><p>那这就不得不说抽卡了，想到11号但是出了狼叔，鲨鱼妹，丽娜，猫又，接下来菲林也没了，想抽星见雅都不行了，哎！</p><h1 id="狂做作业"><a href="#狂做作业" class="headerlink" title="狂做作业"></a>狂做作业</h1><p>作业全部写完了，虽然是8.2今天做完的</p><h1 id="疯狂找人"><a href="#疯狂找人" class="headerlink" title="疯狂找人"></a>疯狂找人</h1><p>找六梦啦，也写过的，找了一下午都不行，我也属于人都傻了，哎</p><h1 id="做了个梦"><a href="#做了个梦" class="headerlink" title="做了个梦"></a>做了个梦</h1><p>也是六梦有关，也写了，现在我想开始摆烂写了，居然越写不想写了</p><h1 id="重装系统"><a href="#重装系统" class="headerlink" title="重装系统"></a>重装系统</h1><p>装了N个系统，真的服了！虽然最后找到个自己满意的极致精简</p><h1 id="回归荒野行动"><a href="#回归荒野行动" class="headerlink" title="回归荒野行动"></a>回归荒野行动</h1><p>还是因为找六梦，然后回归了啦~但是国服卡，直接换成国际服，也防止人脸</p><h1 id="荒野行动国际服被封号"><a href="#荒野行动国际服被封号" class="headerlink" title="荒野行动国际服被封号"></a>荒野行动国际服被封号</h1><p>国际服号也封了，是个极品ID啊，我就挂机都挂没了，申诉客服跟人机，哎</p><h1 id="就这样吧"><a href="#就这样吧" class="headerlink" title="就这样吧"></a>就这样吧</h1><p>想不起来了，也不想写了。我在摆烂~~~，想得起来想写了再写吧</p>]]></content>
+    
+    
+    <summary type="html">七月的小记哦~</summary>
+    
+    
+    
+    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂技" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E6%8A%80/"/>
+    
+    
+    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>相思之梦</title>
+    <link href="https://hexo.dreamerhe.cn/posts/5430/"/>
+    <id>https://hexo.dreamerhe.cn/posts/5430/</id>
+    <published>2024-08-01T12:17:17.000Z</published>
+    <updated>2024-08-02T07:19:04.558Z</updated>
+    
+    <content type="html"><![CDATA[<p>几天前，我做了个梦，但是为什么是相思之梦呢？且听我慢慢道来~</p><h1 id="回顾"><a href="#回顾" class="headerlink" title="回顾"></a>回顾</h1><p>几天前我写了一篇 <strong>那些我曾遇见却已经错过的人</strong> ,其中我提到了一个人<strong>六梦</strong>，具体可以去看看那篇文章，然后我开始疯狂的找他，why?因为那是好朋友啊，找到了也会挺开心的，但是，~要是他不玩游戏了，那还是挺悲哀的，问题是我现在还没找到他啊，荒野行动也没有上线，让我不禁思考真的要丢失了吗？缘分已尽了吗？我不甘心啊，我甚至花了一个下午想出自己能找到他的方法，那就看看有哪些再接着说吧</p><h1 id="搜索方法"><a href="#搜索方法" class="headerlink" title="搜索方法"></a>搜索方法</h1><p>找的方法如下</p><h2 id="荒野行动"><a href="#荒野行动" class="headerlink" title="荒野行动"></a>荒野行动</h2><p>没错，荒野行动，因为我们就是荒野行动认识的，而且他没有改名！所以我成功找到了他的游戏角色，但是吧，没有上线，但是上线的提示时间是七天前，于是我去加了他的好友，看了他的战绩和最近战绩，赛季记录有这个赛季上个赛季上上个赛季的记录，但是最近战绩中没有看到他打过游戏，我意识到，又错过了</p><h2 id="CF手游"><a href="#CF手游" class="headerlink" title="CF手游"></a>CF手游</h2><p>因为之前和他玩的时候玩过CF手游于是我尝试搜索他荒野行动所用的名，可惜，没有搜到，于是无奈放弃</p><h2 id="拿QQ一个一个搜"><a href="#拿QQ一个一个搜" class="headerlink" title="拿QQ一个一个搜"></a>拿QQ一个一个搜</h2><p>这绝对是最sb的方法了，所以我肯定是没有这么干</p><h2 id="QQ按要求搜索"><a href="#QQ按要求搜索" class="headerlink" title="QQ按要求搜索"></a>QQ按要求搜索</h2><p>因为我依稀记得他在哪，QQ名字，等等，可是合到一堆，那就搜不到了</p><h2 id="可行的办法"><a href="#可行的办法" class="headerlink" title="可行的办法"></a>可行的办法</h2><p>等，等他荒野行动上线，我已经陌生人消息发了我的QQ给他，可是还没上线呢，哎</p><h1 id="梦中情景"><a href="#梦中情景" class="headerlink" title="梦中情景"></a>梦中情景</h1><p>好了回归正题，我记得是他加上了我，然后告诉了我他的QQ，but我记得的是，他开头是111,就很离谱，但也不离谱，毕竟我QQ是222开头的，但是这绝对不可能是他QQ，是他QQ也没记全，哎，然后我们就加上了QQ开始了游戏，我依然还记得他的声音，挺好听的说实话，然后我们似乎开了一把老图？然后就没了，我就醒了，多希望能多做一会啊。</p><h1 id="感触"><a href="#感触" class="headerlink" title="感触"></a>感触</h1><p>还是比较伤感的，不过，一句话，有缘，自会相见。</p>]]></content>
+    
+    
+    <summary type="html">哎，多希望能成真</summary>
+    
+    
+    
+    <category term="梦，杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%A2%A6%EF%BC%8C%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="梦，杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%A2%A6%EF%BC%8C%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我对友链的小看法（仅个人）</title>
+    <link href="https://hexo.dreamerhe.cn/posts/60388/"/>
+    <id>https://hexo.dreamerhe.cn/posts/60388/</id>
+    <published>2024-07-24T02:06:08.000Z</published>
+    <updated>2024-07-26T00:02:25.133Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>事情的起因是最近在添加友链，虽然有很多个都通过了，但是其中有一封邮件回复让我开始了思考<br><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/友链看法.7zqbvnn45l.webp" alt="友链看法.7zqbvnn45l.webp"></p><h1 id="我对此事的评价"><a href="#我对此事的评价" class="headerlink" title="我对此事的评价"></a>我对此事的评价</h1><p>并不生气也不怪别人，别人有别人的看法，咱不能因为一点小事就去评论别人，我也承认似乎有点抽搐吧，但是已经改了，等改了之后再去申请一遍吧。</p><h1 id="我对友链的看法"><a href="#我对友链的看法" class="headerlink" title="我对友链的看法"></a>我对友链的看法</h1><p>友链就是友情链接，少数人是只与自己遇见或是有过交流的人进行互换，这一点我不是很喜欢，在我看来友情链接，我们可以素不相识，互相交换友链后我们的网站也可能会火一点，我是这么想的，既然要交朋友，就应该不去看别人的什么，就应该实打实的交换之类的</p><h1 id="我对友链的要求"><a href="#我对友链的要求" class="headerlink" title="我对友链的要求"></a>我对友链的要求</h1><p>还是简单提一下我的看法吧。</p><ul><li>可以不用有自己的域名，github和eu的也可以</li><li>不要求加载速度，因为有些人的博客可能css之类的很多，导致加载速度慢，但是别人也有别人的想法</li><li>至少有一篇除Hello World的文章，初始文章肯定不要了吧！</li><li>不要求评论系统</li><li>不能有付费文章，这点通常在wp和ty这类博客里，我自己的看法就是博客文章就是来分享的，不希望有过度收费行为，但是如果里面的付费文章价格很低，我会进行考虑的啦~</li><li>不能有违法法律的，这点应该是个博客都知道。<br>差不多就这些吧QWQ</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h1&gt;&lt;p&gt;事情的起因是最近在添加友链，虽然有很多个都通过了，但是其中有一封邮件回复让我开始了思考&lt;br&gt;&lt;img src=&quot;https://jsd.d</summary>
+      
+    
+    
+    
+    <category term="友链" scheme="https://hexo.dreamerhe.cn/categories/%E5%8F%8B%E9%93%BE/"/>
+    
+    <category term="看法" scheme="https://hexo.dreamerhe.cn/categories/%E5%8F%8B%E9%93%BE/%E7%9C%8B%E6%B3%95/"/>
+    
+    
+    <category term="闲聊" scheme="https://hexo.dreamerhe.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+    <category term="看法" scheme="https://hexo.dreamerhe.cn/tags/%E7%9C%8B%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>失败的社交</title>
+    <link href="https://hexo.dreamerhe.cn/posts/64472/"/>
+    <id>https://hexo.dreamerhe.cn/posts/64472/</id>
+    <published>2024-07-23T09:48:06.000Z</published>
+    <updated>2024-07-26T00:00:24.788Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="万年不变的前言"><a href="#万年不变的前言" class="headerlink" title="万年不变的前言"></a>万年不变的前言</h1><p>最近跟一堆人闹掰了，全是同学，所以我不禁开始思考，我的社交是失败的</p><h1 id="我能想出来的原因和其他人的看法"><a href="#我能想出来的原因和其他人的看法" class="headerlink" title="我能想出来的原因和其他人的看法"></a>我能想出来的原因和其他人的看法</h1><p>emm其实我能想出来的可能无非就一点，爱白嫖，虽然从一些同学的反应是这样的虽然事实也确实如此，但是我觉得就这一点应该不至于吧？后面我问了某几个同学，还得出了一条我实在没想到的，那就是<strong>拽</strong>，也就是太屌太牛逼了，但是我确实没想到会有这个，我实在不知道哪里拽哪里牛逼了。</p><h1 id="一点其他的想法"><a href="#一点其他的想法" class="headerlink" title="一点其他的想法"></a>一点其他的想法</h1><p>这才是这篇文章的重点吧，应该会比较多了，emm，通过我那篇<strong>那些我曾经遇见却已经错过的人</strong>发现我的社交还是真的有点失败，错过了许许多多的人，一人好的人，不好的人，冤枉的人，玩的好的人，还行的人，等等等等，都丢了，哎，失败，真的失败，不知道怎么说了，甚至写那篇文章都写得有点emo了，but，我想说的是，还有些不跟我玩的似乎就是仨字<strong>看不惯</strong>，所以说我只想说，看不惯就算了，所以，我所了解看不惯的人，我都直接不与其交往，QQ微信全删完，甚至包括从幼儿园开始就认识的同学，他甚至都对你做出了背后议论，忽冷忽热的，有嘛意思？所以该删删该远离远离，不和我一起玩算了，有时候一个人都挺好的，所以，<front clolor =red>看不惯就不与其交流，啥都不鸟，爱咋咋地。</front></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;万年不变的前言&quot;&gt;&lt;a href=&quot;#万年不变的前言&quot; class=&quot;headerlink&quot; title=&quot;万年不变的前言&quot;&gt;&lt;/a&gt;万年不变的前言&lt;/h1&gt;&lt;p&gt;最近跟一堆人闹掰了，全是同学，所以我不禁开始思考，我的社交是失败的&lt;/p&gt;
+&lt;h1 id=&quot;我能想出</summary>
+      
+    
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="【社交,杂记】" scheme="https://hexo.dreamerhe.cn/tags/%E3%80%90%E7%A4%BE%E4%BA%A4-%E6%9D%82%E8%AE%B0%E3%80%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>那些我曾遇见却已经错过的人</title>
+    <link href="https://hexo.dreamerhe.cn/posts/13666/"/>
+    <id>https://hexo.dreamerhe.cn/posts/13666/</id>
+    <published>2024-07-23T08:22:28.000Z</published>
+    <updated>2024-07-25T12:31:48.756Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="为什么写这篇文章？"><a href="#为什么写这篇文章？" class="headerlink" title="为什么写这篇文章？"></a>为什么写这篇文章？</h1><p>其实是最近回归了一下荒野行动，然后突然就蹦出来那么一个想法，因为在荒野和其他事件，地方里面遇见的人和许多事情还是挺值得回忆的<psw>其实不如我直接跟失败的社交融入到一堆</psw></p><h1 id="某位哥"><a href="#某位哥" class="headerlink" title="某位哥"></a>某位哥</h1><p>打刺激战场海岛遇见的，而且记得最清楚的是tnnd我那时候8-10岁左右的时候开个麦，被他喊成了妹妹，这谁能忍？至于为什么错过嘛，纯纯因为作死，why?因为他之前给我语音了一句，我以后不会生你的气，你以后也不要因为我生气，然后我那时候收藏了，无意间翻到了，就来了个死亡性的问题<strong>如果我骂你你会生气吗？</strong>然后给我骂一顿拿来删了，也算怪自己作死吧。</p><h1 id="小珑哥"><a href="#小珑哥" class="headerlink" title="小珑哥"></a>小珑哥</h1><p>也是打刺激战场遇到的，这个关系就非同一般了！Very 好！甚至我们知道对方名字后还有一次把游戏ID改为了小小的小XX，主要人声音好听人也好，我记得有一回的话就是被我哥逼着下线，和他打得好好的，然后我甚至好像还哭了？甚至还有对方帅照，而错过的原因也只是那时候Q绑泄露，然后有个好人让我换QQ，就换了，把那QQ给我哥了，好友也全删了，六梦也是这个原因</p><h1 id="荒野师傅"><a href="#荒野师傅" class="headerlink" title="荒野师傅"></a>荒野师傅</h1><p>就是荒野遇到了的啦，也是最让我最Eom的了，甚至都不想写这篇博文了，而且说不定会拉很长！而且我还从她身上总结了一句话，事情大概实在2020-2021这一段时间，我在荒野找了个师傅，人挺好的，带我上分拿成就，可是还是被我自己搞没了，很符合我那失败的社交文章说实话，那时候我的荒野行动名字还是<strong>铠甲·拿瓦</strong>好中二啊，其实也不是我自己想改，而是闲的没P事就进了一个兵团，还要改名字，放眼一看，一个铠甲兵团，什么铠甲·地虎，铠甲·雪獒，反正是雪獒带我进的，然后我还认为是他给我号搞封了，结果看来啊并不是，但这都不重要了，就玩着玩着挺好的为什么删了呢？其实还是怪在自己，一天晚上他叫我看她打游戏，就是教我怎么打，然后我忘了为什么很烦，反正就觉得烦，然后脑子一抽骂了一句直接删了，也找不到她QQ了，挺可惜的，她还在上个赛季登录了一下的，我真的，哭死啊，没有碰到，真的，老怀念了，可是还是被我搞丢了啊，哎，自作孽不可活呗，真的，想起那些自己的心里有着极大的感触，像一个冰柱扎了进去，不仅痛，还在滴水，让你时刻保持清醒<psw>怎么感觉文笔什么时候这么好了，真是不要face</psw></p><h1 id="北克六梦"><a href="#北克六梦" class="headerlink" title="北克六梦"></a>北克六梦</h1><p>也是荒野遇到的，我们俩之间的关系也是够好了，QQ好友亲密值直达3000多还是更高，也是荒野遇到的，跟地虎有关，好像是他们一起的，还有小畅吧，他声音挺好听的，还在上海，而且，我们之间还有大事经历过呢！至于什么大事，我自己知道就行了。总之，一位极好的朋友。因为换QQ而错过。</p><h1 id="生死狙击的某位师傅"><a href="#生死狙击的某位师傅" class="headerlink" title="生死狙击的某位师傅"></a>生死狙击的某位师傅</h1><p>打生死狙击遇到的，当初创了个房间，然后房间名大概是跑酷找师傅，然后找进来了，不是我说身法是真的好，但是后面错过还是因为QQ换了没跟他们讲然后那QQ给我哥了好友删完了</p><h1 id="地虎"><a href="#地虎" class="headerlink" title="地虎"></a>地虎</h1><p>还是打荒野遇到的，我的印象似乎还行，不是很好也不是很坏，没记错还跟他闹掰过，但也算一位朋友了吧</p><h1 id="雪獒"><a href="#雪獒" class="headerlink" title="雪獒"></a>雪獒</h1><p>荒野遇到的+1，感情就比较复杂了，还是因为QQ的事情，再加上荒野行动他几乎没怎么登录，还是号给别人了，留言板看着像是，然后就是他给我拉进兵团的，也是我自己看着好玩就进去了，然后中间发生了很多事情，Eva的荒野行动联动，给我爆了人生中第一把金枪，后续我自己出了个女仆套装，也是金色的，就这样，我的荒野行动的双金就有了，可是好像没到一个星期，我的号就封了，第一次踢下线，第二次永久，我也不知道第一次到底是什么时候，我很疑惑，很懵逼，去申诉也不给过，我之前一直以为是他跟我俩在那挤号挤没的，一直怪在他身上，跟他说句对不起吧，毕竟我也不知道事情经过之类的，而且我的一位玩荒野的朋友也说挤号可能会封，所以说当时几乎都怪哉了他身上，也不在乎这些了，毕竟解不了啊，哎，就这样，与雪獒的故事画上了句号。</p><h1 id="小畅"><a href="#小畅" class="headerlink" title="小畅"></a>小畅</h1><p>荒野遇到的+1，还是跟六梦，雪獒，地虎，有关系，我们几个都是一堆的，我对他的印象好像就是把我拉近了一个屏幕分享，然后那有不良的影片，就只有这点记忆了，实在想不起来。</p><h1 id="某位荒野行动大哥"><a href="#某位荒野行动大哥" class="headerlink" title="某位荒野行动大哥"></a>某位荒野行动大哥</h1><p>也是荒野+1，而且跟小畅一样，带点H，然后我记得很清楚的是，他有荒野行动空白名，荒野行动空白名在简体里面只要输入繁体的额，也就是<strong>額</strong><br>字当时很难得的，后期他把名字换了，也不知道为什么，他还给我玩过他的号呢！还挺不错的说实话！想到这个我就想到把号借给雪獒玩然后体验卡给我用了，我本人是不怎么喜欢用体验卡的，更别说别人用了我的，错过原因，那号被封，好友也没了，没加QQ</p><h1 id="帮我搞博客的某位大佬"><a href="#帮我搞博客的某位大佬" class="headerlink" title="帮我搞博客的某位大佬"></a>帮我搞博客的某位大佬</h1><p>这个说来还挺话长的，但是又挺短，我加入了一个hexo交流群，然后那时候不会部署，还是他帮的我，但是后面不知道为什么给我删了，而且他的网站也进不去了</p><h1 id="装GTAV模组的某位哥"><a href="#装GTAV模组的某位哥" class="headerlink" title="装GTAV模组的某位哥"></a>装GTAV模组的某位哥</h1><p>大概是一年前左右吧，QQ名字记得听清楚的，叫一袋米，当时啊，不会装甚至花了100多，不不不可能得有更多去找他装，就是一个替换，添加，虽然现在这些我都会了，但是之前还是找的他，毕竟GTAV的lspdfr要崩溃，但是他会调，所以说还是找了他，错过原因还是QQ换了</p><h1 id="声音很像一位主播的荒野朋友"><a href="#声音很像一位主播的荒野朋友" class="headerlink" title="声音很像一位主播的荒野朋友"></a>声音很像一位主播的荒野朋友</h1><p>还是荒野遇到的，荒野遇到的人还挺多啊，他的声音真的就神似张之助，找他要QQ也没给，还说我什么变态…好像还是因为号被封然后没联系方式错过</p><h1 id="慢慢想，待添加咯"><a href="#慢慢想，待添加咯" class="headerlink" title="慢慢想，待添加咯"></a>慢慢想，待添加咯</h1><p>没了，想不起来了QWQ</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;为什么写这篇文章？&quot;&gt;&lt;a href=&quot;#为什么写这篇文章？&quot; class=&quot;headerlink&quot; title=&quot;为什么写这篇文章？&quot;&gt;&lt;/a&gt;为什么写这篇文章？&lt;/h1&gt;&lt;p&gt;其实是最近回归了一下荒野行动，然后突然就蹦出来那么一个想法，因为在荒野和其他事件，地</summary>
+      
+    
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="怀念" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E6%80%80%E5%BF%B5/"/>
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="怀念" scheme="https://hexo.dreamerhe.cn/tags/%E6%80%80%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>语言学习之路（2）</title>
+    <link href="https://hexo.dreamerhe.cn/posts/undefined/"/>
+    <id>https://hexo.dreamerhe.cn/posts/undefined/</id>
+    <published>2024-07-22T03:02:09.000Z</published>
+    <updated>2024-07-25T01:09:22.465Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="买了一本电子书"><a href="#买了一本电子书" class="headerlink" title="买了一本电子书"></a>买了一本电子书</h1><p>这不又来大更新了？这回主要原因是买了一本电子书的C语言学习，400多页，还是<strong>清华出版社</strong>，瞬间就来了兴趣了啊！所以，边学习边写笔记，歪瑞古德啊，那么今天的笔记为<strong>算法</strong></p><h1 id="算法的特性"><a href="#算法的特性" class="headerlink" title="算法的特性"></a>算法的特性</h1><p>通过本次的电子书学习，了解到算法拥有以下的特性</p><ul><li>有穷性</li><li>确定性</li><li>可行性</li><li>输入</li><li>输出</li></ul><div class="table-container"><table><thead><tr><th>特征</th><th>电子书中解释</th></tr></thead><tbody><tr><td>有穷性</td><td>一个算法必须在执行有穷之后结束且每一步都可在有穷时间内完成，不能无限的执行下去，例如，如果要编写一个由小到大的整数累加的程序，这时候要注意一定要设一个整数的最上限，也就是加到那个数为止，若没有这个最上限，那么程序将无终止的运行下去，也就是常说的死循环</td></tr><tr><td>确定性</td><td>算法的每一个步骤都应当是确切定义的，对于每一个过程不能有二义性，，将要执行的每一个动作必须作出严格而清楚的规定</td></tr><tr><td>可行性</td><td>算法中的每一步都应杠能有效运行，也就是说算法应是可行的，并且要求最终得到正确的结果。</td></tr><tr><td>输入</td><td>一个算法应有零个或多个输入，输入是在执行算法时需要从外界取得必要的加算法所需的初始量等一些信息</td></tr><tr><td>输出</td><td>一个算法有一个或多个输入。什么是输出？输出就是算法最终所求的结果。编写程序的目的就是要得到一个结果，如果一个程序运行下来没有任何结果，那么这个程序本身也就失去了意义</td></tr></tbody></table></div><h2 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h2><p>其中可行性中给出了一段例子<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> ,x,y,z;</span><br><span class="line"><span class="built_in">scanf</span>(<span class="string">&quot;%d,%d,%d&quot;</span>,&amp;x,&amp;y,&amp;z);</span><br><span class="line"><span class="keyword">if</span>(y==<span class="number">0</span>)</span><br><span class="line">z=x/y</span><br></pre></td></tr></table></figure><br>那么这段代码就是错误的，是一个无效的语句，因为0不可以做分母<br>其中输入也有例子，分别是<strong>多个输入</strong>和<strong>0个输入</strong></p><h3 id="多个输入"><a href="#多个输入" class="headerlink" title="多个输入"></a>多个输入</h3><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> a,b,c;</span><br><span class="line"><span class="built_in">scanf</span>(<span class="string">&quot;%d,%d,%d&quot;</span>,&amp;a,&amp;b,&amp;c);</span><br></pre></td></tr></table></figure><h3 id="0个输入"><a href="#0个输入" class="headerlink" title="0个输入"></a>0个输入</h3><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">main()</span><br><span class="line">&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;hello world!&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="算法的优劣"><a href="#算法的优劣" class="headerlink" title="算法的优劣"></a>算法的优劣</h1><p>通过这篇，我了解到算法拥有以下几个优劣</p><ul><li>正确性</li><li>可读性</li><li>健壮性</li><li>时间复杂与空间复杂度</li></ul><div class="table-container"><table><thead><tr><th>特征</th><th>电子书中解释</th></tr></thead><tbody><tr><td>正确性</td><td>也就是缩写的算法能满足具体问题的要求，即对任何合法的输入算法都会得出正确的结果。</td></tr><tr><td>可读性</td><td>指算法被写好之后，该算法被理解的难易程度。一个算法可读性的好坏十分重要，如果一个算法比较抽象，难于理解，那么这个算法就不易交流和推广使用，对于修改，扩展，维护都十分不方便。因此在写一个算法的时候，要尽量将该算法写的简明易懂</td></tr><tr><td>健壮性</td><td>一个程序完成后，运行该程序的用户对程序的理解各有不同，并不能保证每一个人都能按照要求进行输入。健壮性就是指当输入的数据非法时，算法也会做出相应的判断，而不会因为输入的错误造成瘫痪。</td></tr><tr><td>时间复杂与空间复杂度</td><td>时间复杂度简单地说就是算法运行所需要的的时间。不同的算法具有不同的时间复杂度，当一个程序较小时感觉不到时间复杂度的重要性，当一个程序特别大时便会察觉到时间复杂度实际上是十分重要的。因此写出更高速的算法一直是算法不断改进的目标。空间复杂度是指算法运行所需的储存空间的多少，随着计算机硬件的发展，空间复杂度已经不再显得那么么重要</td></tr></tbody></table></div><h1 id="算法的描述"><a href="#算法的描述" class="headerlink" title="算法的描述"></a>算法的描述</h1><p>其中涉及的教程不是很多，类似于逻辑数学，大部分是流程图，我的理解就是，命几个字母的值，然后进行判断，如果是则进行什么，不是则进行什么，如此反复循坏，又或者不是那个值直接结束，也就是判断。</p><h1 id="算法的基本结构"><a href="#算法的基本结构" class="headerlink" title="算法的基本结构"></a>算法的基本结构</h1><p>两位大帅哥<strong>Bohra</strong>和<strong>Jacopini</strong>提出了3种结构，即<strong>顺序结构</strong> <strong>选择结构</strong> <strong>循坏结构</strong> 这 <strong>三</strong>种<br>如果不按书上的讲解，我自己的理解就是<br>|结构|自我解释|<br>|——|——|<br>|顺序结构|按照顺序执行的|<br>|选择结构|其中拥有一个判断，根据条件某个字母是否成立而进行选择执行A,B,C,D等等|<br>|循环结构|反复地执行，直到不符合才终止|<br>其中循坏结构又分为俩种</p><h2 id="当型循环"><a href="#当型循环" class="headerlink" title="当型循环"></a>当型循环</h2><p><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/当型循环.2krtd7d4vb.webp" alt="当型循环.2krtd7d4vb.webp"><br>先判断P是否成立，成立执行A，执行完后再判断，如果成立再执行A如此反复，直到P不成立，不执行循环</p><h2 id="直到型循环"><a href="#直到型循环" class="headerlink" title="直到型循环"></a>直到型循环</h2><p><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/直到型循环.969n48h6ug.webp" alt="直到型循环.969n48h6ug.webp"><br>直到型循环是先执行A，然后判断P是否成立，如果成立再执行A，再判断，再成立，再执行A如此反复，直到不成立时跳出A停止循环</p><h1 id="N-S流程图"><a href="#N-S流程图" class="headerlink" title="N-S流程图"></a>N-S流程图</h1><p>N-S流程图是另一种算法表示，他的根据是: 既然任何算法都是由前面三种结构组成的，则各基本结构之间的流程线就是多余的，因此去掉所有的流程线，全部写在矩形框内，N-S图也是算法的一种结构化描述方法，也有3中基本结构<br><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/N-S流程图.7sn407gbwf.webp" alt="N-S流程图.7sn407gbwf.webp"><br><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/直到型循环N-S图.5tqx9vd1h3.webp" alt="直到型循环N-S图.5tqx9vd1h3.webp"></p><h1 id="算法小结"><a href="#算法小结" class="headerlink" title="算法小结"></a>算法小结</h1><p>主要是介绍了算法的基本概念和描述，特征，算法优劣性，算法描述的三个方法</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;买了一本电子书&quot;&gt;&lt;a href=&quot;#买了一本电子书&quot; class=&quot;headerlink&quot; title=&quot;买了一本电子书&quot;&gt;&lt;/a&gt;买了一本电子书&lt;/h1&gt;&lt;p&gt;这不又来大更新了？这回主要原因是买了一本电子书的C语言学习，400多页，还是&lt;strong&gt;清华出版</summary>
+      
+    
+    
+    
+    <category term="C语言" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="学习" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="C语言" scheme="https://hexo.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="学习" scheme="https://hexo.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写博客居然有一年了？博客一周年！（补更）</title>
+    <link href="https://hexo.dreamerhe.cn/posts/1088/"/>
+    <id>https://hexo.dreamerhe.cn/posts/1088/</id>
+    <published>2024-07-17T10:23:32.000Z</published>
+    <updated>2024-07-18T13:51:13.724Z</updated>
+    
+    <content type="html"><![CDATA[<p>啥！？？？？我的博客居然一周年了？？？？什么？！！！！已经过了？？？！！！！<br>震了个大惊，我的博客居然一周年了？不是这个博客，而是从我的第一个博客起，已经有一年了，而且当我发现时已经过了好几个月!</p><h1 id="做博客是从什么时候开始的？"><a href="#做博客是从什么时候开始的？" class="headerlink" title="做博客是从什么时候开始的？"></a>做博客是从什么时候开始的？</h1><p>啊，这个问题啊，灰常的值得思考，是在一个阳光明媚的<psw>废话就不多说了</psw>我看到了B站上的一个视频<br>不过距离我看见好像已经过了<strong>N个月</strong>,所以如果我没有记忆错乱的话，应该是5月份左右的，也已经过了好久啊，那咱们就来谈谈一些有的没的吧？</p><h1 id="为什么做博客？"><a href="#为什么做博客？" class="headerlink" title="为什么做博客？"></a>为什么做博客？</h1><p>我的第一个想法是<strong>装X</strong>，没错就是装X，可以跟同学们吹吹牛皮，感受他们那崇拜的眼神，再在信息技术课上大大滴装一下，那不直接爽翻天，so这才是我写博客的唯一想法，不过在历时几个月之后，我渐渐开始抛弃这个想法，为什么呢？因为班上根本就没有几个愿意鸟你的，<br>所以，我开始了自己的自娱自乐，为什么说是自娱自乐呢？且听我慢慢道来，因为刚开始，根本没有人看我做的博客，甚至没有域名，用的都是github自带的github.io，小众，不出名，虽然现在照样不出名，看看人家九弦，天天博客访问量高的一批，那moe计数器都5千多了，还是<br>我好几十天前看的，现在估计都可以有六千了吧，但是这也很合理，九弦加入了许多博客组织，而且友链多的惊人，所以，我直接让他发了我一份他的友链，我直接照着一个一个加<psw>不愧是我啊</psw>，好像扯的有点远了，大致说来就是，自己热爱，自己喜欢，可以在同学面前装一下，<br>可以写进自己的想法，自己的日常，即使没有人看，但是自己偶尔看看自己的杰作不也挺好的？享受生活嘛，慢慢来，总有一天我也可以火的啦！我相信这一波的友链之旅得花个好几天，毕竟我这性格<psw>懒得很，有时候打算写文章都托更了好几个周，甚至上学期中左右打算写的都没写QWQ</psw></p><h1 id="做博客的历程"><a href="#做博客的历程" class="headerlink" title="做博客的历程"></a>做博客的历程</h1><p>这个历程嘛，就有亿点点多了，就不写时间了<psw>主要是记不住</psw></p><ul><li>2023.5·左右看了第一个B站视频开始实操</li><li>大概3天后左右·更换了几个主题，最后确认为butterfly并进行配置</li><li>又是几天后·开始尝试写第一篇文章，没记错是跟Sifu这款游戏有关，要么就是金木研，还要么就是那个Butterfly特有的图库，反正记得住的就是塞了他们几个.</li><li>依然几天后·写了几篇文章，大部分跟喰种有关.</li><li>还是几天后·想搞评论系统结果发现被墙需要域名，无奈去申请eu.org的免费顶级域名.</li><li>申请域名：2023-05-17-14:37·qianxun7747.eu.org域名通过.</li><li>某个周的假期·歪哥给我搞上了waline评论系统而且帮我将域名托管至cf.</li><li>后续几个周以后·由于某些原因（忘了）开始重建博客并且换上了一款有着狐狸标识的主题，现在hexo似乎已经将此主题下架.</li><li>再后来·看上了anzhiyu主题，配置了一天左右然后开始投入使用，也就是<a href="https://qianxun7747.github.io">这个博客</a>.</li><li>此后·便用上安知鱼主题并开始写文章.</li><li>后来·由于安知鱼是基于老板的butterfly改的，有许多新的没发改，无奈放弃了那个博客.</li><li>2024.2左右·购买了第一个买的域名dreamerhe.cn并续费到2029年.</li><li>2024年的3、4月左右·用上了云主机并且开始了halo和wp和ty但是都被我放弃了，不如hexo香.</li><li>2024年的上一次事件之后·换回了可以自由魔改的butterfly并且改成了现在这个鬼样子.</li><li>差不多就这么多吧,后续再想<h1 id="定个小目标"><a href="#定个小目标" class="headerlink" title="定个小目标"></a>定个小目标</h1>在29年的时候火起来吧！5年的时间，想办法提高人气，就是不要被搞得github的库宕机然后访问不了就行了，虽然还很期待呢！<h1 id="感谢阅读"><a href="#感谢阅读" class="headerlink" title="感谢阅读"></a>感谢阅读</h1>非常感谢您能阅读到这，这也是您对本站的一个小小的支持，谢谢！</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;啥！？？？？我的博客居然一周年了？？？？什么？！！！！已经过了？？？！！！！&lt;br&gt;震了个大惊，我的博客居然一周年了？不是这个博客，而是从我的第一个博客起，已经有一年了，而且当我发现时已经过了好几个月!&lt;/p&gt;
+&lt;h1 id=&quot;做博客是从什么时候开始的？&quot;&gt;&lt;a href=</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://hexo.dreamerhe.cn/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="纪念" scheme="https://hexo.dreamerhe.cn/categories/%E5%8D%9A%E5%AE%A2/%E7%BA%AA%E5%BF%B5/"/>
+    
+    <category term="周年" scheme="https://hexo.dreamerhe.cn/categories/%E5%8D%9A%E5%AE%A2/%E7%BA%AA%E5%BF%B5/%E5%91%A8%E5%B9%B4/"/>
+    
+    
+    <category term="博客" scheme="https://hexo.dreamerhe.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="纪念" scheme="https://hexo.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
+    
+    <category term="周年" scheme="https://hexo.dreamerhe.cn/tags/%E5%91%A8%E5%B9%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>绝区零图片API（不分端）</title>
+    <link href="https://hexo.dreamerhe.cn/posts/30349/"/>
+    <id>https://hexo.dreamerhe.cn/posts/30349/</id>
+    <published>2024-07-09T11:03:33.000Z</published>
+    <updated>2024-07-11T07:23:01.673Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="项目目的和原因"><a href="#项目目的和原因" class="headerlink" title="项目目的和原因"></a>项目目的和原因</h1><p>主要是因为绝区零爆火，加上之前朋友告诉我她想玩，然后打开了绝区零情不自禁了，又加上想起了自己的BA（Blue Archive碧蓝档案）的图片API,瞬间，很快啊，我就直接一波fork之前的项目，改了一下，这样，我的<a href="https://github.com/dreamerhe114514/zzzapi">绝区零API</a>的github库就好了，并且正式投入使用，还有个原因就是我的个人卡片有个背景所以就拿来用了QWQ</p><h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>每次使用<a href="https://zzzapi.dreamerhe.cn/api/index.php">https://zzzapi.dreamerhe.cn/api/index.php</a>       就好啦！</p><h1 id="为什么不分端"><a href="#为什么不分端" class="headerlink" title="为什么不分端"></a>为什么不分端</h1><p>啊这个问题，其实就是因为绝区零刚出，没有什么图片，现在多了，P站上一堆，但是一堆都是艾莲的，所以我的api又一大部分都是艾莲，又因为刚出，所以我也懒得去分，后期有时间会分的，目前也在寻找好的图片，不得不说有些是真擦边！</p><h1 id="没错，没了"><a href="#没错，没了" class="headerlink" title="没错，没了"></a>没错，没了</h1><p>好！那么这篇文章也就没啦！API是会一直运行下去的，毕竟免费的，又不是服务器，加上图片也在github用jsd加速，所以，放心大胆滴用！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;项目目的和原因&quot;&gt;&lt;a href=&quot;#项目目的和原因&quot; class=&quot;headerlink&quot; title=&quot;项目目的和原因&quot;&gt;&lt;/a&gt;项目目的和原因&lt;/h1&gt;&lt;p&gt;主要是因为绝区零爆火，加上之前朋友告诉我她想玩，然后打开了绝区零情不自禁了，又加上想起了自己的BA（</summary>
+      
+    
+    
+    
+    <category term="API" scheme="https://hexo.dreamerhe.cn/categories/API/"/>
+    
+    <category term="游戏" scheme="https://hexo.dreamerhe.cn/categories/API/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="绝区零" scheme="https://hexo.dreamerhe.cn/categories/API/%E6%B8%B8%E6%88%8F/%E7%BB%9D%E5%8C%BA%E9%9B%B6/"/>
+    
+    
+    <category term="绝区零，API" scheme="https://hexo.dreamerhe.cn/tags/%E7%BB%9D%E5%8C%BA%E9%9B%B6%EF%BC%8CAPI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>绝区零等级吐槽</title>
+    <link href="https://hexo.dreamerhe.cn/posts/61251/"/>
+    <id>https://hexo.dreamerhe.cn/posts/61251/</id>
+    <published>2024-07-09T11:03:28.000Z</published>
+    <updated>2024-07-11T12:24:26.243Z</updated>
+    
+    <content type="html"><![CDATA[<p>绝区零也是在7.4正式开服啦！虽然我是7.5进游戏的，uid也排到了25开头，但是我还是忍不住吐槽这么一款我<strong>喜欢</strong>的游戏</p><h1 id="废肝"><a href="#废肝" class="headerlink" title="废肝"></a>废肝</h1><p>咱别的不说，废肝那绝对是一流的游戏，好像挺废话，米哈游的游戏哪个不肝？反正我玩的都挺肝<psw>原神不用多说，绝门已经在这里说了啦</psw><br>emm怎么说呢，开局的前20级都还好，一天之内就可以打到，之前听说25级可以联机，然后狂肝一天，从6点肝到第二天的凌晨一点多，结果，tnnd居然是只能副本联机，朋友跟我说还以为是原神的那种无忧无虑，随便街上乱逛的，看了B站视频，tnnd居然是！副本联机？？？他居然只能副本联机？就很无语啦<br>但是后期就很那啥了，因为等级制度会扯到你的任务，没记错是20级有一个26级有一个，然后是34，36，当前我是31级，是真的肝，虽然出了俩鲨鱼妹啦！也搞了一个命座！虽然以后可能出不了满命了~~~<br>目前已经开服7天了哎（7.9的文章11号才写的~），可是我还在那31级卡着，一级6000多经验，任务多的一次给600，一次材料是400，和周本，等等的途径获得经验，但是后期去开小卡格车是真的难搞，因为小卡格车只有60还是50经验来着。</p><h1 id="升级所需经验稍多，给的少"><a href="#升级所需经验稍多，给的少" class="headerlink" title="升级所需经验稍多，给的少"></a>升级所需经验稍多，给的少</h1><p>这句话就是说升级需要的经验很多，但是给的经验很少！开头的25级我倒是没什么怨言，但是到后面就很那啥了，真的肝啊！每次给那么几百，后面要6000多，不知道该怎么搞了，也不知道他们那群牛人怎么搞得，两天32级，现在都有42级的了，对此我只想问肝还好嘛？</p><h1 id="个人看法"><a href="#个人看法" class="headerlink" title="个人看法"></a>个人看法</h1><p>emm，我感觉这段话扯得还比较多，我认为身为一个游戏吧，应该重在体验，虽然我是一个剧情党，看看剧情，打打敌人，在这种爽快的体验下进行游戏，但是吧，咱们也需要一点小坎坷，虽然过程比较久，但是过完了之后的感觉是真的不赖啊！像极了人生中的坎坷不是吗？过了这道坎，那就是美美的甜啦！<psw>md中二病犯了（确信）</psw><br>好好体验游戏中的主线，支线，委托，甚至去游戏厅打打贪吃蛇也行，毕竟我才发现还可以得菲林啊，感觉错过了一个亿，但是也是真肝，不过，咱还可以把我们的代理人拉出来聊聊啊！这个功能似乎是在30级解锁，没记错的话让你先约安比，然后就可以约别人啦！一段时间后，约了比利，熊哥————本，妮可，等等角色，当信赖度达到一定等级还可以领东西哦~就是Esc，手机是左上角那个界面还可以换成他们哦~那多安逸。<br>所以，真的觉得无聊的话，不妨游戏厅搞一波？肝就肝吧，毕竟1.0的维多利亚剧情后就没了！刚开服就没了，那不很没意思吗？好好体验吧~！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;绝区零也是在7.4正式开服啦！虽然我是7.5进游戏的，uid也排到了25开头，但是我还是忍不住吐槽这么一款我&lt;strong&gt;喜欢&lt;/strong&gt;的游戏&lt;/p&gt;
+&lt;h1 id=&quot;废肝&quot;&gt;&lt;a href=&quot;#废肝&quot; class=&quot;headerlink&quot; title=&quot;废肝&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="游戏" scheme="https://hexo.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="绝区零" scheme="https://hexo.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/%E7%BB%9D%E5%8C%BA%E9%9B%B6/"/>
+    
+    
+    <category term="游戏" scheme="https://hexo.dreamerhe.cn/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="绝区零" scheme="https://hexo.dreamerhe.cn/tags/%E7%BB%9D%E5%8C%BA%E9%9B%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Steam大促之我入库的游戏</title>
+    <link href="https://hexo.dreamerhe.cn/posts/22178/"/>
+    <id>https://hexo.dreamerhe.cn/posts/22178/</id>
+    <published>2024-07-04T07:04:04.000Z</published>
+    <updated>2024-07-06T09:35:58.620Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>Steam大促来了啊，夏促这波力度是真的大，不得不说，有好多好玩的游戏都打成骨折了，不如说，<strong>骨头都敲烂了</strong>，接下来看看我所入库的游戏吧~</p><h1 id="石河伦吾的朋友们-（The-friends-of-Ringo-Ishikawa）"><a href="#石河伦吾的朋友们-（The-friends-of-Ringo-Ishikawa）" class="headerlink" title="石河伦吾的朋友们 （The friends of Ringo Ishikawa）"></a>石河伦吾的朋友们 （The friends of Ringo Ishikawa）</h1><p><img src="https://jsd.dreamerhe.cn/gh//dreamerhe114514/blogimg@main/img/The%20friends%20of%20Ringo%20Ishikawa.png" alt="The friends of Ringo Ishikawa.png"><br>这款游戏是我之前就看过的，我个人对黑帮，暴力等游戏很感兴趣，像之前的如龙之类的，被人叫老大是真的爽，入库是SteamPY上好友赠送的方式入库的，花了16.99.是真的好玩啊,虽然很容易被别的学校的人给干死。<br>我的个人评价为:<strong>好玩，百玩不厌，让人体验到了一把当老大的感觉！</strong><br>steam的开发商的描述为:高中不良少年团伙头目石河倫吾，将和他最好的朋友们一起，试着度过毕业前最后的一个秋天。（6月29日汉化更新：请参考这篇新闻）</p><p>如果符合下列情况，那么你应该试试这款游戏：</p><p>1) 你喜欢优秀的剧情和有趣的对白（尤其是关于青春与成长主题的）；<br>2) 你是格斗游戏的铁粉（你将在本作中体验到独特的格斗机制，我保证你会满意）；<br>3) 你对日本的极道与不良少年文化很感兴趣。</p><p>总体而言，这是一款存在主义开放世界斗殴游戏，同时还包含了些许校园模拟的元素。它麻雀虽小，五脏俱全：有可供探索的城镇、昼夜交替、有自己日程安排的npc角色、战斗练级、读书上课、迷你游戏（乒乓球、台球、扑克电玩以及能玩一款游戏的游戏主机……）等等。</p><p>但最核心的部分是我试图讲述的这个故事，这款游戏每一项设计的最终目的都是为了想让你们更好地感受它——归根结底，这款游戏最重要的不是帮派斗殴、不是地盘争夺、甚至应该说什么也不是。你只是生活在那个世界里，感受其中的一切。只是这样而已。<br>超爱玩的好吧QWQ</p><h1 id="蔚蓝-Celeste"><a href="#蔚蓝-Celeste" class="headerlink" title="蔚蓝(Celeste)"></a>蔚蓝(Celeste)</h1><p><img src="https://cdn.jsdelivr.net/gh/dreamerhe114514/blogimg@main/img/Celeste.png" alt="Celeste.png"><br>这游戏，我不好多说什么，花费7.6一折史低，手残党慎入，虽然我就是，但是，真NND难啊，20分钟不到，死了76回，也是没谁了，总之一个字,<strong>难</strong></p><h1 id="看门狗1-（WatchDogs）"><a href="#看门狗1-（WatchDogs）" class="headerlink" title="看门狗1 （WatchDogs）"></a>看门狗1 （WatchDogs）</h1><p><img src="https://cdn.jsdelivr.net/gh/dreamerhe114514/blogimg@main/img/WatchDogs.png" alt="WatchDogs.png"><br>看门狗系列最近也是打骨折，三部曲好像都一折，我只入了狗1，主要是配置不够，狗一都一卡一卡的，狗一听他们说是准备开发成赛车游戏的，但是手感，跟shit一样，里面的内容嘛，还行，毕竟没玩多久，个人要说还是喜欢狗2，虽然是云游戏玩的</p><h1 id="地平线4"><a href="#地平线4" class="headerlink" title="地平线4"></a>地平线4</h1><p>地平线我也入了，但是最后无奈退款了，主要是因为，卡，画质调成这样都没法玩，我咋玩？<img src="https://cdn.jsdelivr.net/gh/dreamerhe114514/blogimg@main/img/fe70f47d3facc245644779a033b2ba6.jpg" alt="fe70f47d3facc245644779a033b2ba6.jpg"></p><h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>夏促这波不容错过，想玩的就赶紧买吧，毕竟几乎很多都新史低，狠狠背刺！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;Steam大促来了啊，夏促这波力度是真的大，不得不说，有好多好玩的游戏都打成骨折了，不如说，&lt;strong&gt;骨头都敲烂了&lt;/strong&gt;，</summary>
+      
+    
+    
+    
+    <category term="steam" scheme="https://hexo.dreamerhe.cn/categories/steam/"/>
+    
+    <category term="游戏" scheme="https://hexo.dreamerhe.cn/categories/steam/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="游戏" scheme="https://hexo.dreamerhe.cn/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="steam" scheme="https://hexo.dreamerhe.cn/tags/steam/"/>
+    
+    <category term="购买" scheme="https://hexo.dreamerhe.cn/tags/%E8%B4%AD%E4%B9%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>暑假来临+假期计划</title>
+    <link href="https://hexo.dreamerhe.cn/posts/62365/"/>
+    <id>https://hexo.dreamerhe.cn/posts/62365/</id>
+    <published>2024-06-26T06:36:56.000Z</published>
+    <updated>2024-07-06T09:36:57.531Z</updated>
+    
+    <content type="html"><![CDATA[<p>暑假来啦！暑假来啦！都应该有自己的小目标了吧！所以你会怎么做呢？接下来是我的一堆话啦！</p><h1 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h1><p>暑假来了，那作业肯定tmd少不了啊！虽然作业很多，但我也得一点点的做，到后面一天绝对做不完！</p><h1 id="学C"><a href="#学C" class="headerlink" title="学C"></a>学C</h1><p>其实我感觉这才是这回主要更新的东西，毕竟这个暑假我打算学C了，虽然被其中的章节死死的卡脖子了，比如变量与函数这一节，虽然我感觉我似乎又弄懂了，毕竟只是int个值<psw>对吧？</psw>并且我还会事实更新自己所学习的学习笔记，而且第一篇已经发出来了！</p><h1 id="扩大博客访问量"><a href="#扩大博客访问量" class="headerlink" title="扩大博客访问量"></a>扩大博客访问量</h1><p>这个方法我第一个想到的就是去大佬博客友链里面疯狂加，能加一个是一个，我先加上，然后再叫他们更新，这样说不定我的博客可以火起来一波时间，对吧？但是想法很美好，就是不知这个结果残酷不残酷了<psw>毕竟我认识的一堆大佬中有很多都更新很慢，甚至不再更新了</psw></p><h1 id="剩下的慢慢想吧"><a href="#剩下的慢慢想吧" class="headerlink" title="剩下的慢慢想吧"></a>剩下的慢慢想吧</h1><p>剩下的慢慢想，想到什么就加进去，毕竟这里面一个C就够我学的了！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;暑假来啦！暑假来啦！都应该有自己的小目标了吧！所以你会怎么做呢？接下来是我的一堆话啦！&lt;/p&gt;
+&lt;h1 id=&quot;作业&quot;&gt;&lt;a href=&quot;#作业&quot; class=&quot;headerlink&quot; title=&quot;作业&quot;&gt;&lt;/a&gt;作业&lt;/h1&gt;&lt;p&gt;暑假来了，那作业肯定tmd少不了啊！虽</summary>
+      
+    
+    
+    
+    
+    <category term="计划" scheme="https://hexo.dreamerhe.cn/tags/%E8%AE%A1%E5%88%92/"/>
+    
+    <category term="暑假" scheme="https://hexo.dreamerhe.cn/tags/%E6%9A%91%E5%81%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习之路（1）</title>
+    <link href="https://hexo.dreamerhe.cn/posts/54236/"/>
+    <id>https://hexo.dreamerhe.cn/posts/54236/</id>
+    <published>2024-06-22T01:10:25.000Z</published>
+    <updated>2024-07-24T13:46:25.619Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近也是心血来潮想学C <psw>主要是看着可以做Unity游戏，自己也感兴趣，而且第一个学的编程语言不是HTML等前端，就是C，由于之前停了一段时间，就学了一点点，现在也算新手退游回归吧</psw></p><h1 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h1><p>本人的C语言均在<a href="https://learn-c.org/">leran-c</a>和B站学习</p><h1 id="工具部分"><a href="#工具部分" class="headerlink" title="工具部分"></a>工具部分</h1><p>C语言编程肯定少不了编程工具了啦，我这里推荐<strong>Dev-c++</strong>，特点:体积小，方便，，下载可以自行百度了哈</p><h1 id="基本格式"><a href="#基本格式" class="headerlink" title="基本格式"></a>基本格式</h1><p>基本格式当你安装Dev-c++的时候似乎已经告诉过你了呢？而且安装后我们可以选择中文，虽然刚开始的时候没有中文<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">(<span class="type">int</span> argc, <span class="type">char</span>** argv)</span> &#123;</span><br><span class="line"><span class="built_in">std</span>::<span class="built_in">cout</span> &lt;&lt; <span class="string">&quot;Hello world!\n&quot;</span>;</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.jsdelivr.us/gh/dreamerhe114514/baimgapi@main/tupian/aa368e20a81dcc9374fd582965d077c.png" alt="1.png"></p><h1 id="C最基础的printf"><a href="#C最基础的printf" class="headerlink" title="C最基础的printf"></a>C最基础的printf</h1><p>这属于C的最基础，输入字符<br>但是我们必须要添加include命令(按教程的意思就是告诉文件我们要打印这个文字了)<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br></pre></td></tr></table></figure><br>然后我们添加以下代码<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">  ...你的代码放在这里</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><br>其中打印代码为printf，所以我们可以输入最基本的<strong>Hello World!</strong><br>则代码为<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span> <span class="params">()</span> &#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;Hello World!&quot;</span>);    </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><br>其中prinft后<strong>不需要空格</strong>并且<strong>内容需要引号引用</strong>然后记得添加一个 <strong>;</strong> 符号<br>输出后为这样<img src="https://cdn.jsdelivr.us/gh/dreamerhe114514/baimgapi@main/tupian/6c6f4e4495b94b4fa2828168c6c833e.png" alt="6c6f4e4495b94b4fa2828168c6c833e.png"></p><h1 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h1><p>对于其中的数据类型，我们分为以下几点<br>|数据类型|注释|详细描述|<br>|——|——|——|<br>|char|字符数据类型|-128到127通常是一个字节（八位）, 这是一个整数类型。|<br>|short|短整型|整数——可以是正数或负数的整数|<br>|int|整形|整型，4 个字节，取值范围 -2147483648 到 2147483647。|<br>|long|长整型|-2,147,483,648到2,147,483,647|<br>|long long|更长的整型|整数——可以是正数或负数的整数|<br>|float|单精度浮点数|浮点数——实数（带小数的数字）|<br>|double|双精度浮点数|双精度浮点值。双精度是1位符号，11位指数，52位小数。|</p><h1 id="int定义变量"><a href="#int定义变量" class="headerlink" title="int定义变量"></a>int定义变量</h1><p>int定义变量，通常使用int类型定义数字，但这一节我是异常懵，学了一段时间后，<psw>也是可以拿来做加减乘除法了，虽然感觉P用没有</psw><br>我们用int自定义一个变量，比如int a=1 <psw>我感觉这明明是常量，但是[Learn-c](https://learn-c.org/cn/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B)中说他是变量，这让我很懵</psw></p><h2 id="int变量加减法"><a href="#int变量加减法" class="headerlink" title="int变量加减法"></a>int变量加减法</h2><p>所以我们就可以创出一个加减乘除了，我是真感觉没嘛用<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> a = <span class="number">0</span>, b = <span class="number">1</span>, c = <span class="number">2</span>, d = <span class="number">3</span>, e = <span class="number">4</span>;</span><br><span class="line">a = b - c + d * e;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>, a); <span class="comment">/* will print 1-2+3*4 = 11 */</span></span><br></pre></td></tr></table></figure><br>那么本次学习就到此结束，等待（2）的更新吧….</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近也是心血来潮想学C &lt;psw&gt;主要是看着可以做Unity游戏，自己也感兴趣，而且第一个学的编程语言不是HTML等前端，就是C，由于之前停了一段时间，就学了一点点，现在也算新手退游回归吧&lt;/psw&gt;&lt;/p&gt;
+&lt;h1 id=&quot;声明&quot;&gt;&lt;a href=&quot;#声明&quot; class=</summary>
+      
+    
+    
+    
+    <category term="C语言" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="C语言" scheme="https://hexo.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我对梦的看法</title>
+    <link href="https://hexo.dreamerhe.cn/posts/3274/"/>
+    <id>https://hexo.dreamerhe.cn/posts/3274/</id>
+    <published>2024-06-15T06:44:33.000Z</published>
+    <updated>2024-07-04T01:58:42.693Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>梦这个东西吧，很抽象，浅浅谈一下我的看法吧QWQ</p><h1 id="什么是梦"><a href="#什么是梦" class="headerlink" title="什么是梦"></a>什么是梦</h1><p>梦是一个抽象的东西，至于有多抽象 <psw>反正就是很抽象，你硬要我说我也说不出来</psw></p><h1 id="我的看法加博客后期更新方向"><a href="#我的看法加博客后期更新方向" class="headerlink" title="我的看法加博客后期更新方向"></a>我的看法加博客后期更新方向</h1><h2 id="更新方向"><a href="#更新方向" class="headerlink" title="更新方向"></a>更新方向</h2><p>我对梦的看法首先就是<strong>梦想</strong>，其实梦想之都也与我的<a href="https://qianxun7747.github.io">第一个博客，千寻的小破站</a><psw>其实应该是第三个版本</psw>，其中我对我的座右铭的描述是<strong>千寻寻梦，梦必追逐</strong>，其实当时我也有想过自己的梦想是什么，但是还没有什么想法，现在来看的话估计就是先把前端学好，目前打算是先学C与C#和C++，因为我想搞Unity游戏，再加上之前学了一会C++<psw>也就两天</psw>所以打算先学C语言系列，当然，这下文章更新方向就为<strong>星梦的C语言之路</strong>了，这样有时间一更就是一个小更新啦~说了这么多废话，我们也应该开始我们的正式话题了！</p><h2 id="我的看法"><a href="#我的看法" class="headerlink" title="我的看法"></a>我的看法</h2><p>如果要对梦想进行一个形象描述，那是不可描述的，因为他是一个抽象的东西，我们可以把它想象成云，就像现在的文章封面<img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/%E6%88%91%E5%AF%B9%E6%A2%A6%E7%9A%84%E7%9C%8B%E6%B3%95.png" alt="cover.png">,其次再与梦想有关的描述大多为星星了，由此可以看出，梦想，其实是一个抽象的形象，但是人们对梦的联想，可以说，就像天空中的云，你看得到，摸不到，但是某些时候又能摸到，能零距离接触，不妨说这个阶段是实现梦想？为什么说他抽象呢？因为一个单独的梦字，要你用形象描述，你能怎么描述？安知鱼的企业logo为一条鱼，因为他的名里面有他的形象描述，但梦？那就不好说了，但是我可以把他结合起来，追梦幻境·梦想之都，所以我一笔画的梦字，一座楼，写上追梦幻境·梦想之都，这不，我的logo就成了？<img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/dreamehreLOGO.png" alt="logo.png">毕竟我没有设计师的头脑，但这也是独一无二不是的吗？感觉这又是废话呢!<br>无论如何，梦想大家都能理解，也都在为自己的梦想而努力着！不是吗？</p><h1 id="最后送大家一句话"><a href="#最后送大家一句话" class="headerlink" title="最后送大家一句话"></a>最后送大家一句话</h1><p>朝着梦想前进，纵有万般阻挠，也绝不会让我停下脚步，待到成功时，之喜唯有我独享！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;梦这个东西吧，很抽象，浅浅谈一下我的看法吧QWQ&lt;/p&gt;
+&lt;h1 id=&quot;什么是梦&quot;&gt;&lt;a href=&quot;#什么是梦&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    <category term="胡思乱想" scheme="https://hexo.dreamerhe.cn/categories/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
+    
+    
+    <category term="梦想" scheme="https://hexo.dreamerhe.cn/tags/%E6%A2%A6%E6%83%B3/"/>
+    
+    <category term="dream" scheme="https://hexo.dreamerhe.cn/tags/dream/"/>
+    
+    <category term="胡思乱想" scheme="https://hexo.dreamerhe.cn/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>近日小记（1）</title>
+    <link href="https://hexo.dreamerhe.cn/posts/31292/"/>
+    <id>https://hexo.dreamerhe.cn/posts/31292/</id>
+    <published>2024-05-19T04:13:42.000Z</published>
+    <updated>2024-07-04T01:58:42.708Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本次小记为5月5日-5月17日的小记，想的起来的就想，想不起来的就算了QWQ~~</p><h1 id="加入笔墨迹"><a href="#加入笔墨迹" class="headerlink" title="加入笔墨迹"></a>加入笔墨迹</h1><p>看见九弦加入了笔墨迹，我也跃跃欲试啦~当然还没通过QWQ</p><h1 id="博客添加了moe计数器并写教程投稿到butterfly美化教程合集"><a href="#博客添加了moe计数器并写教程投稿到butterfly美化教程合集" class="headerlink" title="博客添加了moe计数器并写教程投稿到butterfly美化教程合集"></a>博客添加了moe计数器并写教程投稿到butterfly美化教程合集</h1><p>看见白云苍狗大佬写的，就拿来改了改适配到了Butterfly!我的第一波魔改生涯也算正式开始了吧！</p><h1 id="更新了三篇教程文章"><a href="#更新了三篇教程文章" class="headerlink" title="更新了三篇教程文章"></a>更新了三篇教程文章</h1><p>这三篇教程我也自己都应用了的哦~</p><h1 id="博客首页的文章样式更改"><a href="#博客首页的文章样式更改" class="headerlink" title="博客首页的文章样式更改"></a>博客首页的文章样式更改</h1><p>根据Fomalhaut大佬的来抄的啦~</p><h1 id="友链侧边栏"><a href="#友链侧边栏" class="headerlink" title="友链侧边栏"></a>友链侧边栏</h1><p>侧边的友链更新了，也来自Fomalhaut大佬~</p><h1 id="换表"><a href="#换表" class="headerlink" title="换表"></a>换表</h1><p>换了块新表，是从朋友那买的二手，15块拿下，防水的，而且这块表的夜间灯也好好看！<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519123620.jpg" alt="watch1.jpg"><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519123616.jpg" alt="watch2.jpg"><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519123609.jpg" alt="watch3.jpg"><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519123601.jpg" alt="watch4.jpg"><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519123554.jpg" alt="watch5.jpg"><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519123538.jpg" alt="watch5.jpg"></p><h1 id="换LOGO"><a href="#换LOGO" class="headerlink" title="换LOGO"></a>换LOGO</h1><p>经过我的深思熟虑，我又打算换LOGO并且决定就这个了<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/blogologo/logo1111.png" alt="logo1111.png"></p><h1 id="底部链接"><a href="#底部链接" class="headerlink" title="底部链接"></a>底部链接</h1><p>底部链接也更换了，可以翻到最下面看看哦~</p><h1 id="友链添加快速申请"><a href="#友链添加快速申请" class="headerlink" title="友链添加快速申请"></a>友链添加快速申请</h1><p>友链界面多了个快速申请哦~</p><h1 id="应该没了"><a href="#应该没了" class="headerlink" title="应该没了"></a>应该没了</h1><p>应该是没了吧，想不起来有什么了….</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;本次小记为5月5日-5月17日的小记，想的起来的就想，想不起来的就算了QWQ~~&lt;/p&gt;
+&lt;h1 id=&quot;加入笔墨迹&quot;&gt;&lt;a href=&quot;#</summary>
+      
+    
+    
+    
+    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
+    
+    
+    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客友链快速申请教程</title>
+    <link href="https://hexo.dreamerhe.cn/posts/35829/"/>
+    <id>https://hexo.dreamerhe.cn/posts/35829/</id>
+    <published>2024-05-18T07:19:43.000Z</published>
+    <updated>2024-06-26T08:36:49.877Z</updated>
+    
+    <content type="html"><![CDATA[<p>搬运于<div class="tag link"><a class="link_card" referrerPolicy="no-referrer" title="博客魔改教程总结（三）" href="https://www.fomal.cc/posts/2d7ac914.html"><div class="link_icon"><img src="https://www.fomal.cc/favicon.ico" class="no-lightbox"></div><div class="link_content"><div class="link_title">博客魔改教程总结（三）</div><div class="link_desc">魔改教程</div></div></a></div><br>新建文件[BlogRoot]\source\js\kslink.js，并写入如下代码：<br><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> leonus = &#123;</span><br><span class="line">    <span class="attr">linkCom</span>: <span class="function"><span class="params">e</span> =&gt;</span> &#123;</span><br><span class="line">        <span class="keyword">var</span> t = <span class="variable language_">document</span>.<span class="title function_">querySelector</span>(<span class="string">&quot;.el-textarea__inner&quot;</span>);</span><br><span class="line">        <span class="string">&quot;bf&quot;</span> == e ? (t.<span class="property">value</span> = <span class="string">&quot;```yml\n&quot;</span>, t.<span class="property">value</span> += <span class="string">&quot;- name: \n  link: \n  avatar: \n  descr: \n  siteshot: &quot;</span>, t.<span class="property">value</span> += <span class="string">&quot;\n```&quot;</span>, t.<span class="title function_">setSelectionRange</span>(<span class="number">15</span>, <span class="number">15</span>)) : (t.<span class="property">value</span> = <span class="string">&quot;站点名称：\n站点地址：\n头像链接：\n站点描述：\n站点截图：&quot;</span>, t.<span class="title function_">setSelectionRange</span>(<span class="number">5</span>, <span class="number">5</span>)), t.<span class="title function_">focus</span>()</span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="attr">owoBig</span>: <span class="function">() =&gt;</span> &#123;</span><br><span class="line">        <span class="keyword">if</span> (!<span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&quot;post-comment&quot;</span>) || <span class="variable language_">document</span>.<span class="property">body</span>.<span class="property">clientWidth</span> &lt; <span class="number">768</span>) <span class="keyword">return</span>;</span><br><span class="line">        <span class="keyword">let</span> e = <span class="number">1</span>,</span><br><span class="line">            t = <span class="string">&quot;&quot;</span>,</span><br><span class="line">            o = <span class="variable language_">document</span>.<span class="title function_">createElement</span>(<span class="string">&quot;div&quot;</span>),</span><br><span class="line">            n = <span class="variable language_">document</span>.<span class="title function_">querySelector</span>(<span class="string">&quot;body&quot;</span>);</span><br><span class="line">        o.<span class="property">id</span> = <span class="string">&quot;owo-big&quot;</span>, n.<span class="title function_">appendChild</span>(o), <span class="keyword">new</span> <span class="title class_">MutationObserver</span>((<span class="function"><span class="params">l</span> =&gt;</span> &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">let</span> a = <span class="number">0</span>; a &lt; l.<span class="property">length</span>; a++) &#123;</span><br><span class="line">                <span class="keyword">let</span> i = l[a].<span class="property">addedNodes</span>,</span><br><span class="line">                    s = <span class="string">&quot;&quot;</span>;</span><br><span class="line">                <span class="keyword">if</span> (<span class="number">2</span> == i.<span class="property">length</span> &amp;&amp; <span class="string">&quot;OwO-body&quot;</span> == i[<span class="number">1</span>].<span class="property">className</span>) s = i[<span class="number">1</span>];</span><br><span class="line">                <span class="keyword">else</span> &#123;</span><br><span class="line">                    <span class="keyword">if</span> (<span class="number">1</span> != i.<span class="property">length</span> || <span class="string">&quot;tk-comment&quot;</span> != i[<span class="number">0</span>].<span class="property">className</span>) <span class="keyword">continue</span>;</span><br><span class="line">                    s = i[<span class="number">0</span>]</span><br><span class="line">                &#125;</span><br><span class="line">                s.<span class="property">onmouseover</span> = <span class="function"><span class="params">l</span> =&gt;</span> &#123;</span><br><span class="line">                    e &amp;&amp; (<span class="string">&quot;OwO-body&quot;</span> == s.<span class="property">className</span> &amp;&amp; <span class="string">&quot;IMG&quot;</span> == l.<span class="property">target</span>.<span class="property">tagName</span> || <span class="string">&quot;tk-owo-emotion&quot;</span> == l.<span class="property">target</span>.<span class="property">className</span>) &amp;&amp; (e = <span class="number">0</span>, t = <span class="built_in">setTimeout</span>((<span class="function">() =&gt;</span> &#123;</span><br><span class="line">                        <span class="keyword">let</span> e = <span class="number">3</span> * l.<span class="property">path</span>[<span class="number">0</span>].<span class="property">clientHeight</span>,</span><br><span class="line">                            t = <span class="number">3</span> * l.<span class="property">path</span>[<span class="number">0</span>].<span class="property">clientWidth</span>,</span><br><span class="line">                            a = l.<span class="property">x</span> - l.<span class="property">offsetX</span> - (t - l.<span class="property">path</span>[<span class="number">0</span>].<span class="property">clientWidth</span>) / <span class="number">2</span>,</span><br><span class="line">                            i = l.<span class="property">y</span> - l.<span class="property">offsetY</span>;</span><br><span class="line">                        a + t &gt; n.<span class="property">clientWidth</span> &amp;&amp; (a -= a + t - n.<span class="property">clientWidth</span> + <span class="number">10</span>), a &lt; <span class="number">0</span> &amp;&amp; (a = <span class="number">10</span>), o.<span class="property">style</span>.<span class="property">cssText</span> = <span class="string">`display:flex; height:<span class="subst">$&#123;e&#125;</span>px; width:<span class="subst">$&#123;t&#125;</span>px; left:<span class="subst">$&#123;a&#125;</span>px; top:<span class="subst">$&#123;i&#125;</span>px;`</span>, o.<span class="property">innerHTML</span> = <span class="string">`&lt;img src=&quot;<span class="subst">$&#123;l.target.src&#125;</span>&quot;&gt;`</span></span><br><span class="line">                    &#125;), <span class="number">300</span>))</span><br><span class="line">                &#125;, s.<span class="property">onmouseout</span> = <span class="function">() =&gt;</span> &#123;</span><br><span class="line">                    o.<span class="property">style</span>.<span class="property">display</span> = <span class="string">&quot;none&quot;</span>, e = <span class="number">1</span>, <span class="built_in">clearTimeout</span>(t)</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;)).<span class="title function_">observe</span>(<span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&quot;post-comment&quot;</span>), &#123;</span><br><span class="line">            <span class="attr">subtree</span>: !<span class="number">0</span>,</span><br><span class="line">            <span class="attr">childList</span>: !<span class="number">0</span></span><br><span class="line">        &#125;)</span><br><span class="line">    &#125;,</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure><br>新建文件[BlogRoot]\source\css\kslink.css，并写入如下代码，颜色可以换成你自己喜欢的：<br><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* 添加友链按钮 */</span></span><br><span class="line"><span class="comment">/* 快速填写格式 */</span></span><br><span class="line"><span class="selector-class">.addBtn</span> &#123;</span><br><span class="line">    <span class="attribute">display</span>: flex;</span><br><span class="line">    <span class="attribute">justify-content</span>: center;</span><br><span class="line">    <span class="attribute">flex-wrap</span>: wrap;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.addBtn</span> <span class="selector-tag">button</span> &#123;</span><br><span class="line">    <span class="attribute">transition</span>: .<span class="number">2s</span>;</span><br><span class="line">    <span class="attribute">display</span>: flex;</span><br><span class="line">    <span class="attribute">margin</span>: <span class="number">5px</span> auto;</span><br><span class="line">    <span class="attribute">color</span>: <span class="built_in">var</span>(--global-bg);</span><br><span class="line">    <span class="attribute">padding</span>: <span class="number">15px</span>;</span><br><span class="line">    <span class="attribute">border-radius</span>: <span class="number">40px</span>;</span><br><span class="line">    <span class="attribute">background</span>: <span class="built_in">var</span>(--search-result-title);</span><br><span class="line">    <span class="attribute">align-items</span>: center;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">button</span> &#123;</span><br><span class="line">    <span class="attribute">padding</span>: <span class="number">0</span>;</span><br><span class="line">    <span class="attribute">outline</span>: <span class="number">0</span>;</span><br><span class="line">    <span class="attribute">border</span>: none;</span><br><span class="line">    <span class="attribute">background</span>: <span class="number">0</span> <span class="number">0</span>;</span><br><span class="line">    <span class="attribute">cursor</span>: pointer;</span><br><span class="line">    touch-action: manipulation;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.fa-solid</span>, <span class="selector-class">.fas</span> &#123;</span><br><span class="line">    <span class="attribute">font-family</span>: <span class="string">&quot;Font Awesome 6 Free&quot;</span>;</span><br><span class="line">    <span class="attribute">font-weight</span>: <span class="number">900</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.addBtn</span> <span class="selector-tag">i</span> &#123;</span><br><span class="line">    <span class="attribute">font-size</span>: <span class="number">1.3rem</span>;</span><br><span class="line">    <span class="attribute">margin-right</span>: <span class="number">10px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.addBtn</span> <span class="selector-tag">button</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">    <span class="attribute">background</span>: <span class="built_in">var</span>(--theme-color);</span><br><span class="line">    <span class="attribute">color</span>: <span class="number">#fff</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><br>为了节省DOM规模，仅在你的友链页面(例如[BlogRoot]\source\link\index.md)对应的md文件最后，引入以上两个文件以及定义按钮元素：<br><figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;addBtn&quot;</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;<span class="name">button</span> <span class="attr">onclick</span>=<span class="string">&quot;leonus.linkCom()&quot;</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;<span class="name">i</span> <span class="attr">class</span>=<span class="string">&quot;fa-solid fa-circle-plus&quot;</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;/<span class="name">i</span>&gt;</span></span>快速申请 (默认样式)<span class="language-xml"><span class="tag">&lt;/<span class="name">button</span>&gt;</span></span> <span class="language-xml"><span class="tag">&lt;<span class="name">button</span> <span class="attr">onclick</span>=<span class="string">&quot;leonus.linkCom(<span class="symbol">&amp;quot;</span>bf<span class="symbol">&amp;quot;</span>)&quot;</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;<span class="name">i</span> <span class="attr">class</span>=<span class="string">&quot;fa-solid fa-circle-plus&quot;</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;/<span class="name">i</span>&gt;</span></span>快速申请 (Butterfly)<span class="language-xml"><span class="tag">&lt;/<span class="name">button</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span></span><br><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;/css/kslink.css&quot;</span>&gt;</span></span></span><br><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;/js/kslink.js&quot;</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span></span><br></pre></td></tr></table></figure><br>最后hexo三件套<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo cl &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;搬运于&lt;div class=&quot;tag link&quot;&gt;&lt;a class=&quot;link_card&quot; referrerPolicy=&quot;no-referrer&quot; title=&quot;博客魔改教程总结（三）&quot; href=&quot;https://www.fomal.cc/posts/2d7ac914.</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="https://hexo.dreamerhe.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="魔改" scheme="https://hexo.dreamerhe.cn/categories/%E6%95%99%E7%A8%8B/%E9%AD%94%E6%94%B9/"/>
+    
+    
+    <category term="教程" scheme="https://hexo.dreamerhe.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="魔改" scheme="https://hexo.dreamerhe.cn/tags/%E9%AD%94%E6%94%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自建Moe-Counter计数器并使用</title>
+    <link href="https://hexo.dreamerhe.cn/posts/6423/"/>
+    <id>https://hexo.dreamerhe.cn/posts/6423/</id>
+    <published>2024-05-17T23:44:49.000Z</published>
+    <updated>2024-07-04T01:58:42.673Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>无意间看见之前用过的一个主题的作者<strong>白云苍狗</strong><br><div class="tag link"><a class="link_card" referrerPolicy="no-referrer" title="自建免费Moe-Counter计数器" href="https://www.imalun.com/moe-counter-vercel/"><div class="link_icon"><img src="https://www.imalun.com/favicon-16x16.png?v=2.1.15" class="no-lightbox"></div><div class="link_content"><div class="link_title">自建免费Moe-Counter计数器</div><div class="link_desc">因为 Moe-Counter 经常会出现无法访问的情况，于是基于 vercel + mongodb 自建了计数器。</div></div></a></div><br>的文章，想着能不能改改来适应Butterfly，结果是可以，但是我的问题遇到了无法显示次数（已经解决问题是我没有把mongo的数据库链接的<password>更换），所以各位可以逝世<br> <psw>现在是试试</psw>  看行不行了</p><h1 id="Monggodb数据库"><a href="#Monggodb数据库" class="headerlink" title="Monggodb数据库"></a>Monggodb数据库</h1><p>进入<a href="mongodb.com">MOnggodb官网</a> ,没有的注册账号，有的话新建数据库</p><h2 id="创建数据库"><a href="#创建数据库" class="headerlink" title="创建数据库"></a>创建数据库</h2><p>进入Monggodb数据库，然后新建数据库，具体步骤如下<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518075032.png" alt="20240518075032.png"><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518081320.png" alt="20240518081320.png"><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518081336.png" alt="20240518081336.png"><br><strong>然后我们回到首页创建数据库</strong><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518081721.png" alt="20240518081721.png"><br>选择<strong>Free</strong>不然要收费的哦~其它的默认即可<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518081943.png" alt="20240518081943.png"><br>然后我们点击<strong>Create Deployment</strong>完成人机验证即可</p><h2 id="设置数据库密码"><a href="#设置数据库密码" class="headerlink" title="设置数据库密码"></a>设置数据库密码</h2><p>创建完成后会弹出这样一个窗口，用户名是你注册的用户名，然后接下来是密码，自行设置也可以默认，记得保存，然后点击下面的Creat Database User，然后点击右下角的选择连接<br>选择Drivers,然后复制这段打码内容备用<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518084235.png" alt="20240518084235.png"></p><h1 id="Vercel部署"><a href="#Vercel部署" class="headerlink" title="Vercel部署"></a>Vercel部署</h1><div data-src="https://vercel.com/new/clone?repository-url=https://github.com/MaLuns/moe-counter-vercel" data-fancybox="article">    <img src="https://vercel.com/button" alt="Deploy" loading="lazy" onerror="this.onerror=null;this.src=&quot;/img/404.jpg&quot;"></div><p>部署好后我们添加环境变量 <strong>MONGODB_PATH</strong>变量内容为我们之前复制的Monggodb的地址<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518090301.png" alt="20240518090301.png"></p><h1 id="Vercel部署-1"><a href="#Vercel部署-1" class="headerlink" title="Vercel部署"></a>Vercel部署</h1><p><strong>在这翻车</strong><br>Vercel添加完环境变量后需要再次部署，也就是添加完环境变量后在Vercel再次部署，具体操作如下<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518092743.png" alt="20240518092743.png"><br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518092839.png" alt="20240518092839.png"></p><h1 id="绑定域名"><a href="#绑定域名" class="headerlink" title="绑定域名"></a>绑定域名</h1><p><strong>注意</strong>vercel必须绑定域名，这边以CF为例<br>在Vercek的Settings的Domains输入我们的域名，按照要求添加解析即可<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518090748.png" alt="20240518090748.png"><br>来到CF添加解析<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518091103.png" alt="20240518091103.png"><br>其中的那个CNAME解析的cdn可以换为<strong>name-china.vercel-dns.com</strong>这样更快一点<br>然后等待生成SSL证书<img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518091303.png" alt="20240518091303.png"></p><h1 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h1><p>然后我们访问即可查看效果<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/20240518091634.png" alt="20240518091634.png"></p><h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>我们使用<a href="https://你的域名/唯一标识?theme=对应主题">https://你的域名/唯一标识?theme=对应主题</a><br>很抽象是吧，听我慢慢道来，你的域名就不多说了，唯一标识为自取，如果我要用于测试，我就可以使用<a href="https://moecounter.dreamerhe.cn/test?theme=asoul">https://moecounter.dreamerhe.cn/test?theme=asoul</a><br>theme主题有以下几种<br>asoul<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/moeasoul.png" alt="moeasoul.png"><br>moebooru<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/moebooru.png" alt="moebooru.png"><br>Rule34<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/rule34.png" alt="rule34.png"><br>Gelbooru<br><img src="https://cdn.jsdelivr.net/gh//dreamerhe114514/baimgapi@main/tupian/gelbooru.png" alt="gelbooru.png"></p><h2 id="Butterfly使用教程"><a href="#Butterfly使用教程" class="headerlink" title="Butterfly使用教程"></a>Butterfly使用教程</h2><p>新建blog\source_data\widget.yml<br>填入以下内容进行引入（由于我并没有引入图标所以没有图标）<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">top:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">id_name:</span> <span class="string">widget-moe</span></span><br><span class="line">    <span class="attr">name:</span> <span class="string">Moe访问</span></span><br><span class="line">    <span class="attr">icon:</span> <span class="string">iconfont</span> <span class="string">icon-fangwenliang</span></span><br><span class="line">    <span class="attr">html:</span> <span class="string">&#x27;&lt;img width=&quot;150&quot; height=&quot;150&quot; src=&quot;https://moecounter.dreamerhe.cn/blog?theme=asoul&quot;&gt;&#x27;</span></span><br></pre></td></tr></table></figure><br>具体宽度和高度可以自己调试一下</p><h1 id="后续问题"><a href="#后续问题" class="headerlink" title="后续问题"></a>后续问题</h1><p>我在最后发现不能显示次数，已向此教程原作者<strong>白云苍狗</strong>反馈，等待回复(也许单纯是我的问题<psw>确实是</psw>，不如去看看他的文章？)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;无意间看见之前用过的一个主题的作者&lt;strong&gt;白云苍狗&lt;/strong&gt;&lt;br&gt;&lt;div class=&quot;tag link&quot;&gt;&lt;a cla</summary>
+      
+    
+    
+    
+    <category term="美化" scheme="https://hexo.dreamerhe.cn/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    <category term="教程" scheme="https://hexo.dreamerhe.cn/categories/%E7%BE%8E%E5%8C%96/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="教程" scheme="https://hexo.dreamerhe.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="美化" scheme="https://hexo.dreamerhe.cn/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+</feed>
