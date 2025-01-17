@@ -6,7 +6,7 @@
   <link href="https://hexo.dreamerhe.cn/atom.xml" rel="self"/>
   
   <link href="https://hexo.dreamerhe.cn/"/>
-  <updated>2024-12-07T06:30:32.424Z</updated>
+  <updated>2025-01-17T08:58:56.762Z</updated>
   <id>https://hexo.dreamerhe.cn/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue学习之路（1）</title>
+    <link href="https://hexo.dreamerhe.cn/posts/4366/"/>
+    <id>https://hexo.dreamerhe.cn/posts/4366/</id>
+    <published>2025-01-16T12:44:35.000Z</published>
+    <updated>2025-01-17T08:58:56.762Z</updated>
+    
+    <content type="html"><![CDATA[<p>哈哈哈，已经许久许久许久许久许久X N 没有更新的我，还是又双叒叕来更新啦~还是发生了很多事情的，到时候看有时间单独出个小G吧，ok,开始我们的正文</p><h1 id="正文部分（还是口水话）"><a href="#正文部分（还是口水话）" class="headerlink" title="正文部分（还是口水话）"></a>正文部分（还是口水话）</h1><p>哈哈，也是又到了寒假了，闲的慌的我也是又双叒叕爱上了某款代码兄——Vue,也是又搞了一本vue.js从入门到精通电子书<br>那么就有人问了<psw>当然甚至还有来自我自己的问</psw> 那C呢？啊哈哈哈，这个当然是个好问题了，所以，<del>暂时跳过</del>，肯定不是啦铁汁，也要学的啦，但是重点是放在了Vue上面，没错，我是个善变的人，好啦好啦，现在就开始我们的笔G吧</p><h1 id="正式开始"><a href="#正式开始" class="headerlink" title="正式开始"></a>正式开始</h1><p>好啦，让我们看看第一步是干什么</p><h2 id="认识Vue"><a href="#认识Vue" class="headerlink" title="认识Vue"></a>认识Vue</h2><p>不想认识，认为没用，所以直接跳到下一章节。</p><h2 id="搭建开发与调试环境"><a href="#搭建开发与调试环境" class="headerlink" title="搭建开发与调试环境"></a>搭建开发与调试环境</h2><p>接下来就是安装啦，分为几个方式，但我选择使用NPM <font color=red>毕竟安装node.js就能使用</font>，何乐而不为呢？所以我们只需要安装nodejs就好了，所以我们就下一步</p><h1 id="创建vue3工程"><a href="#创建vue3工程" class="headerlink" title="创建vue3工程"></a>创建vue3工程</h1><p>我们使用</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pnpm create vue@latest</span><br></pre></td></tr></table></figure><p>来进行创建项目工程，其中问到了几个问题，我也是跟着B站视频进行配置了，那么问题来了，为什么不继续看我的电子书了呢？啊哈，那当然是因为，第一步就没看懂那引用。。。。</p><p>接下来是用cmd配置Vue项目的阶段，我就懒得一个一个的解释说明了。</p><p><img src="https://cdn.jsdelivr.net/gh/dreamerhe114514/picx-images-hosting@master/BlogANDdailypic/dreamerheSnipaste_2025-01-17_15-27-52.231yohtgt1.webp" alt="dreamerheSnipaste_2025-01-17_15-27-52.231yohtgt1.webp"></p><p>然后使用</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i</span><br></pre></td></tr></table></figure><p>安装好了插件，随后开始讲解起了里面的文件</p><h2 id="文件讲解"><a href="#文件讲解" class="headerlink" title="文件讲解"></a>文件讲解</h2><p>视频中，对Vue项目里的文件进行了讲解，其中了解到，html为<font color=red>入口文件</font>，目前不用太过在乎，随后开始讲解起来了src里面的文件，那当然，对于我们博主来说，src这种文件是干嘛的也都不用多说了，也就是源文件啦。</p><h3 id="然后着重讲解了main-ts，"><a href="#然后着重讲解了main-ts，" class="headerlink" title="然后着重讲解了main.ts，"></a>然后着重讲解了<strong>main.ts</strong>，</h3><p>然后我们对里面的代码进行分层次了解</p><figure class="highlight ts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> <span class="string">&#x27;./assets/main.css&#x27;</span> <span class="comment">//样式文件</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> &#123; createApp &#125; <span class="keyword">from</span> <span class="string">&#x27;vue&#x27;</span> <span class="comment">//创建应用当作花盆</span></span><br><span class="line"><span class="keyword">import</span> <span class="title class_">App</span> <span class="keyword">from</span> <span class="string">&#x27;./App.vue&#x27;</span> <span class="comment">//为一个组件，组件为x.vue当作根支</span></span><br><span class="line"></span><br><span class="line"><span class="title function_">createApp</span>(<span class="title class_">App</span>).<span class="title function_">mount</span>(<span class="string">&#x27;#app&#x27;</span>)</span><br><span class="line"><span class="comment">// APP为根 mount为挂载，挂载到APP，app在我们的index.html的id=app</span></span><br></pre></td></tr></table></figure><h3 id="components文件夹"><a href="#components文件夹" class="headerlink" title="components文件夹"></a>components文件夹</h3><p>啊哈，还是组件文件就不过多介绍了</p><h3 id="删掉Src"><a href="#删掉Src" class="headerlink" title="删掉Src"></a>删掉Src</h3><p>为什么要删呢？因为根据后面up的描述，要我们手把手一起写，所以就删吧QWQ</p><h4 id="创建新文件"><a href="#创建新文件" class="headerlink" title="创建新文件"></a>创建新文件</h4><p>也就是我们的App.vue和main.ts文件</p><p>在我们的main.ts文件夹里写入代码</p><figure class="highlight ts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 引入cteatAPP用于创建应用</span></span><br><span class="line"><span class="keyword">import</span> &#123; createApp&#125; <span class="keyword">from</span> <span class="string">&#x27;vue&#x27;</span></span><br><span class="line"><span class="comment">// 引入APP根组件</span></span><br><span class="line"><span class="keyword">import</span> <span class="title class_">App</span> <span class="keyword">from</span> <span class="string">&#x27;./App.vue&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="title function_">createApp</span>(<span class="title class_">App</span>).<span class="title function_">mount</span>(<span class="string">&#x27;#app&#x27;</span>)</span><br></pre></td></tr></table></figure><p>然后我们再转入到App.vue进行写代码啦,虽然有一堆前端的东西，但是应该并不影响</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">&lt;template&gt;</span><br><span class="line">    &lt;div class=&quot;app&quot;&gt;</span><br><span class="line">        &lt;h1&gt;这里是dreamerhe&lt;/h1&gt;</span><br><span class="line">&lt;/div&gt;</span><br><span class="line">&lt;/template&gt;</span><br><span class="line"></span><br><span class="line">&lt;script lang=&quot;ts&quot;&gt;</span><br><span class="line">    export default &#123;</span><br><span class="line">        name:&#x27;APP&#x27; //组件名</span><br><span class="line">    &#125; </span><br><span class="line">&lt;/script&gt;</span><br><span class="line"></span><br><span class="line">&lt;style&gt;</span><br><span class="line">    .app &#123;</span><br><span class="line">        background-color: yellow;</span><br><span class="line">        box-shadow: 0 0 10px;</span><br><span class="line">        border-radius: 10px;</span><br><span class="line">        padding: 20px;</span><br><span class="line">    &#125;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure><p>然后我们run一波</p><p>得到如下效果</p><p><img src="https://cdn.jsdelivr.net/gh/dreamerhe114514/picx-images-hosting@master/BlogANDdailypic/dreamerheSnipaste_2025-01-17_16-19-39.4xumuc25xg.webp" alt="dreamerheSnipaste_2025-01-17_16-19-39.4xumuc25xg.webp"></p><h1 id="本次总结"><a href="#本次总结" class="headerlink" title="本次总结"></a>本次总结</h1><p>也该结束本次学习啦，也不想写了QWQ</p><p>· Vite项目中，index.html是入口文件，在项目最外层</p><p>·  加载index.html之后，Vite解析了</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;script tpye=<span class="string">&quot;model&quot;</span> scr=xxx&gt;指向的<span class="variable constant_">JS</span></span><br></pre></td></tr></table></figure><p> Vue3中是通过createApp函数创建一个应用实例的。</p><p>OK了OOOOOOOOOOOOOOOOOOVER了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;哈哈哈，已经许久许久许久许久许久X N 没有更新的我，还是又双叒叕来更新啦~还是发生了很多事情的，到时候看有时间单独出个小G吧，ok,开始我们的正文&lt;/p&gt;
+&lt;h1 id=&quot;正文部分（还是口水话）&quot;&gt;&lt;a href=&quot;#正文部分（还是口水话）&quot; class=&quot;headerl</summary>
+      
+    
+    
+    
+    <category term="学习" scheme="https://hexo.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="vue" scheme="https://hexo.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/vue/"/>
+    
+    <category term="笔记" scheme="https://hexo.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/vue/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="学习" scheme="https://hexo.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="vue" scheme="https://hexo.dreamerhe.cn/tags/vue/"/>
+    
+    <category term="笔记" scheme="https://hexo.dreamerhe.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>汪星走好</title>
@@ -543,34 +576,6 @@
     <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
     <category term="怀念" scheme="https://hexo.dreamerhe.cn/tags/%E6%80%80%E5%BF%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>语言学习之路（2）</title>
-    <link href="https://hexo.dreamerhe.cn/posts/undefined/"/>
-    <id>https://hexo.dreamerhe.cn/posts/undefined/</id>
-    <published>2024-07-22T03:02:09.000Z</published>
-    <updated>2024-08-16T13:20:47.302Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="买了一本电子书"><a href="#买了一本电子书" class="headerlink" title="买了一本电子书"></a>买了一本电子书</h1><p>这不又来大更新了？这回主要原因是买了一本电子书的C语言学习，400多页，还是<strong>清华出版社</strong>，瞬间就来了兴趣了啊！所以，边学习边写笔记，歪瑞古德啊，那么今天的笔记为<strong>算法</strong></p><h1 id="算法的特性"><a href="#算法的特性" class="headerlink" title="算法的特性"></a>算法的特性</h1><p>通过本次的电子书学习，了解到算法拥有以下的特性</p><ul><li>有穷性</li><li>确定性</li><li>可行性</li><li>输入</li><li>输出</li></ul><div class="table-container"><table><thead><tr><th>特征</th><th>电子书中解释</th></tr></thead><tbody><tr><td>有穷性</td><td>一个算法必须在执行有穷之后结束且每一步都可在有穷时间内完成，不能无限的执行下去，例如，如果要编写一个由小到大的整数累加的程序，这时候要注意一定要设一个整数的最上限，也就是加到那个数为止，若没有这个最上限，那么程序将无终止的运行下去，也就是常说的死循环</td></tr><tr><td>确定性</td><td>算法的每一个步骤都应当是确切定义的，对于每一个过程不能有二义性，，将要执行的每一个动作必须作出严格而清楚的规定</td></tr><tr><td>可行性</td><td>算法中的每一步都应杠能有效运行，也就是说算法应是可行的，并且要求最终得到正确的结果。</td></tr><tr><td>输入</td><td>一个算法应有零个或多个输入，输入是在执行算法时需要从外界取得必要的加算法所需的初始量等一些信息</td></tr><tr><td>输出</td><td>一个算法有一个或多个输入。什么是输出？输出就是算法最终所求的结果。编写程序的目的就是要得到一个结果，如果一个程序运行下来没有任何结果，那么这个程序本身也就失去了意义</td></tr></tbody></table></div><h2 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h2><p>其中可行性中给出了一段例子<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> ,x,y,z;</span><br><span class="line"><span class="built_in">scanf</span>(<span class="string">&quot;%d,%d,%d&quot;</span>,&amp;x,&amp;y,&amp;z);</span><br><span class="line"><span class="keyword">if</span>(y==<span class="number">0</span>)</span><br><span class="line">z=x/y</span><br></pre></td></tr></table></figure><br>那么这段代码就是错误的，是一个无效的语句，因为0不可以做分母<br>其中输入也有例子，分别是<strong>多个输入</strong>和<strong>0个输入</strong></p><h3 id="多个输入"><a href="#多个输入" class="headerlink" title="多个输入"></a>多个输入</h3><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">int</span> a,b,c;</span><br><span class="line"><span class="built_in">scanf</span>(<span class="string">&quot;%d,%d,%d&quot;</span>,&amp;a,&amp;b,&amp;c);</span><br></pre></td></tr></table></figure><h3 id="0个输入"><a href="#0个输入" class="headerlink" title="0个输入"></a>0个输入</h3><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">main()</span><br><span class="line">&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;hello world!&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="算法的优劣"><a href="#算法的优劣" class="headerlink" title="算法的优劣"></a>算法的优劣</h1><p>通过这篇，我了解到算法拥有以下几个优劣</p><ul><li>正确性</li><li>可读性</li><li>健壮性</li><li>时间复杂与空间复杂度</li></ul><div class="table-container"><table><thead><tr><th>特征</th><th>电子书中解释</th></tr></thead><tbody><tr><td>正确性</td><td>也就是缩写的算法能满足具体问题的要求，即对任何合法的输入算法都会得出正确的结果。</td></tr><tr><td>可读性</td><td>指算法被写好之后，该算法被理解的难易程度。一个算法可读性的好坏十分重要，如果一个算法比较抽象，难于理解，那么这个算法就不易交流和推广使用，对于修改，扩展，维护都十分不方便。因此在写一个算法的时候，要尽量将该算法写的简明易懂</td></tr><tr><td>健壮性</td><td>一个程序完成后，运行该程序的用户对程序的理解各有不同，并不能保证每一个人都能按照要求进行输入。健壮性就是指当输入的数据非法时，算法也会做出相应的判断，而不会因为输入的错误造成瘫痪。</td></tr><tr><td>时间复杂与空间复杂度</td><td>时间复杂度简单地说就是算法运行所需要的的时间。不同的算法具有不同的时间复杂度，当一个程序较小时感觉不到时间复杂度的重要性，当一个程序特别大时便会察觉到时间复杂度实际上是十分重要的。因此写出更高速的算法一直是算法不断改进的目标。空间复杂度是指算法运行所需的储存空间的多少，随着计算机硬件的发展，空间复杂度已经不再显得那么么重要</td></tr></tbody></table></div><h1 id="算法的描述"><a href="#算法的描述" class="headerlink" title="算法的描述"></a>算法的描述</h1><p>其中涉及的教程不是很多，类似于逻辑数学，大部分是流程图，我的理解就是，命几个字母的值，然后进行判断，如果是则进行什么，不是则进行什么，如此反复循坏，又或者不是那个值直接结束，也就是判断。</p><h1 id="算法的基本结构"><a href="#算法的基本结构" class="headerlink" title="算法的基本结构"></a>算法的基本结构</h1><p>两位大帅哥<strong>Bohra</strong>和<strong>Jacopini</strong>提出了3种结构，即<strong>顺序结构</strong> <strong>选择结构</strong> <strong>循坏结构</strong> 这 <strong>三</strong>种<br>如果不按书上的讲解，我自己的理解就是<br>|结构|自我解释|<br>|——|——|<br>|顺序结构|按照顺序执行的|<br>|选择结构|其中拥有一个判断，根据条件某个字母是否成立而进行选择执行A,B,C,D等等|<br>|循环结构|反复地执行，直到不符合才终止|<br>其中循坏结构又分为俩种</p><h2 id="当型循环"><a href="#当型循环" class="headerlink" title="当型循环"></a>当型循环</h2><p><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/当型循环.2krtd7d4vb.webp" alt="当型循环.2krtd7d4vb.webp"><br>先判断P是否成立，成立执行A，执行完后再判断，如果成立再执行A如此反复，直到P不成立，不执行循环</p><h2 id="直到型循环"><a href="#直到型循环" class="headerlink" title="直到型循环"></a>直到型循环</h2><p><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/直到型循环.969n48h6ug.webp" alt="直到型循环.969n48h6ug.webp"><br>直到型循环是先执行A，然后判断P是否成立，如果成立再执行A，再判断，再成立，再执行A如此反复，直到不成立时跳出A停止循环</p><h1 id="N-S流程图"><a href="#N-S流程图" class="headerlink" title="N-S流程图"></a>N-S流程图</h1><p>N-S流程图是另一种算法表示，他的根据是: 既然任何算法都是由前面三种结构组成的，则各基本结构之间的流程线就是多余的，因此去掉所有的流程线，全部写在矩形框内，N-S图也是算法的一种结构化描述方法，也有3中基本结构<br><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/N-S流程图.7sn407gbwf.webp" alt="N-S流程图.7sn407gbwf.webp"><br><img src="https://jsd.dreamerhe.cn/gh/dreamerhe114514/picx-images-hosting@master/直到型循环N-S图.5tqx9vd1h3.webp" alt="直到型循环N-S图.5tqx9vd1h3.webp"></p><h1 id="算法小结"><a href="#算法小结" class="headerlink" title="算法小结"></a>算法小结</h1><p>主要是介绍了算法的基本概念和描述，特征，算法优劣性，算法描述的三个方法</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;买了一本电子书&quot;&gt;&lt;a href=&quot;#买了一本电子书&quot; class=&quot;headerlink&quot; title=&quot;买了一本电子书&quot;&gt;&lt;/a&gt;买了一本电子书&lt;/h1&gt;&lt;p&gt;这不又来大更新了？这回主要原因是买了一本电子书的C语言学习，400多页，还是&lt;strong&gt;清华出版</summary>
-      
-    
-    
-    
-    <category term="C语言" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="C语言" scheme="https://hexo.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
