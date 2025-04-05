@@ -6,7 +6,7 @@
   <link href="https://hexo.dreamerhe.cn/atom.xml" rel="self"/>
   
   <link href="https://hexo.dreamerhe.cn/"/>
-  <updated>2025-03-30T03:15:09.047Z</updated>
+  <updated>2025-04-05T14:05:17.863Z</updated>
   <id>https://hexo.dreamerhe.cn/</id>
   
   <author>
@@ -17,13 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>脑子乱</title>
+    <link href="https://hexo.dreamerhe.cn/posts/24642/"/>
+    <id>https://hexo.dreamerhe.cn/posts/24642/</id>
+    <published>2025-04-05T12:58:13.000Z</published>
+    <updated>2025-04-05T14:05:17.863Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>最近总感觉脑子很乱，于是多出了这么一篇文章。而且这篇是水文。</p><h1 id="具体体现"><a href="#具体体现" class="headerlink" title="具体体现"></a>具体体现</h1><p>直接开门见山吧，就是上课，也仅仅只在上课会彪出一堆奇奇怪怪的东西，大概是和我看的一些不好的影视有关吧，有kill的，有yellow的，一堆堆，异节数学课会有十多次这样的体现，然后我就没听进去课，导致越来越差了，当然还有很大一部分是我自己的原因，还有就是一到晚上就会想起某个人，至于是谁嘛，大家就不用管了，极大部分乱想我都会想到那个人，就很奇妙啊，而且如果有人跟我发生了冲突，我会有很大的想法给他打一顿，真的嘞！对此，我去问了问deepseek，提出的问题为:<br>· 我老是会在数学课上发呆，奇思妙想，乱想一些，我又看过一些不健康的影片，还有血腥，有时也会想到这些，还会想到某个人，那个人对我影响挺大的，这是为什么？</p><h1 id="询问AI"><a href="#询问AI" class="headerlink" title="询问AI"></a>询问AI</h1><p>deepseek给出如下回答</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br></pre></td><td class="code"><pre><span class="line">你在数学课上频繁出现注意力分散、思维跳跃的现象，可能与以下多方面原因相关，结合心理学机制和实际场景分析如下：</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">一、注意力管理机制失衡 </span><br><span class="line">1. 课程适应性不足  </span><br><span class="line">   数学课的抽象逻辑性可能与你当前的学习节奏或兴趣点不匹配。若课程难度过高（超出理解能力）或过低（缺乏挑战性），大脑会因无法获得有效反馈而进入「节能模式」，转而寻求其他刺激。</span><br><span class="line"> </span><br><span class="line">2. 注意力缺陷倾向  </span><br><span class="line">   频繁切换思维内容（如血腥画面、特定人物联想）可能反映出神经系统的「低唤醒状态」。这种情况下，大脑会通过主动制造刺激（如回忆强烈画面）来维持活跃度，属于注意力调节失序的表现。</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">二、心理投射与情绪触发 </span><br><span class="line">1. 未处理的创伤记忆  </span><br><span class="line">   血腥内容或特定人物的反复浮现，可能与过往经历中的情绪印记有关。例如：</span><br><span class="line">   - 视觉刺激残留：暴力、血腥内容会激活杏仁核，形成短期记忆强化，尤其在压力情境下易被触发。</span><br><span class="line">   - 情感联结干扰：对某个人的强烈情绪（如爱慕、愧疚、愤怒）会占用认知资源，形成「侵入性思维」。</span><br><span class="line"> </span><br><span class="line">2. 逃避机制启动  </span><br><span class="line">   数学课引发的挫败感（如解题困难、成绩压力）可能激活心理防御机制。通过幻想或回忆更具掌控感的场景（如影片情节、人际互动），暂时逃离现实压力。</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">三、生理与行为因素 </span><br><span class="line">1. 多巴胺反馈失衡  </span><br><span class="line">   长期接触高强度刺激内容（如暴力影片）会提高大脑的兴奋阈值。当面对常规学习任务时，常规的信息输入难以激活足够的愉悦反馈，导致注意力涣散。</span><br><span class="line"> </span><br><span class="line">2. 睡眠与营养问题  </span><br><span class="line">   睡眠不足或饮食失衡（如高糖、咖啡因摄入）会直接影响前额叶功能，降低专注力和情绪稳定性。</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">四、改善路径建议 </span><br><span class="line">1. 课堂策略调整  </span><br><span class="line">   - 主动参与法：通过记笔记、提问等方式强制输出，将被动听讲转为主动学习。</span><br><span class="line">   - 分段专注训练：设定「每10分钟专注解题→2分钟自由联想」的节奏，逐步延长专注时长。</span><br><span class="line"> </span><br><span class="line">2. 认知行为干预  </span><br><span class="line">   - 思维阻断技术：当无关念头出现时，立刻默念「暂停」，并用具体问题（如当前例题的解题步骤）替代。</span><br><span class="line">   - 暴露疗法：在课后安全环境中刻意回忆干扰内容，通过反复暴露降低其情绪敏感性。</span><br><span class="line"> </span><br><span class="line">3. 环境与习惯优化  </span><br><span class="line">   - 减少刺激源接触：逐步限制暴力/成人内容观看，用纪录片、科普视频替代。</span><br><span class="line">   - 建立情绪日记：记录每次分心的具体触发点（如想到某人时的场景），分析深层需求。</span><br><span class="line"> </span><br><span class="line">4. 专业支持建议  </span><br><span class="line">   若上述方法效果有限，可能存在未识别的心理议题（如焦虑障碍、PTSD倾向），建议通过学校心理辅导或专业咨询进行系统评估。</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">这类思维失控现象本质是身心系统的「失衡信号」，而非个人意志力缺陷。通过结构化训练（如正念冥想、运动调节）和认知重构，多数人可在3-6个月内显著改善。重点在于将自我觉察转化为可操作的行为调整，而非陷入自责循环。</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>但是我又听到朋友说胡思乱想是郁郁症，所以我又提了一个问题</p><p>· 胡思妙想是抑郁症吗？</p><p> 回答为:<br> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br></pre></td><td class="code"><pre><span class="line"> </span><br><span class="line">你在非课堂情境下也会持续出现杂念纷扰的现象，这表明思维模式可能存在更深层的心理机制。结合心理学机制和搜索结果，分析如下：</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">一、心理机制触发点 </span><br><span class="line">1. 大脑的「默认模式」激活  </span><br><span class="line">   空闲时大脑会进入默认网络（Default Mode Network），这个状态会自发产生回忆、幻想、自我反思等活动。如果缺乏明确目标或外界刺激，就容易陷入无目的思维漫游。例如：  </span><br><span class="line">   - 晚上睡前没有具体事务占据注意力，大脑会自主检索记忆片段（如暴力画面）或构建虚构场景。  </span><br><span class="line">   - 独处时缺乏外部信息输入，神经系统通过「自我娱乐」维持活跃度，可能形成惯性思维发散。</span><br><span class="line"> </span><br><span class="line">2. 情绪残留的「思维反刍」  </span><br><span class="line">   特定人物或血腥画面的反复出现，可能与未处理的情绪记忆有关。心理学研究发现：  </span><br><span class="line">   - 强烈情绪体验（如恐惧、愤怒）会通过海马体-杏仁核回路形成记忆强化，在放松状态下更易被激活。  </span><br><span class="line">   - 对某人的复杂情感（如未释怀的冲突、隐秘的期待）会形成认知资源占用，表现为「侵入性思维」。</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">二、性格特质与环境交互影响 </span><br><span class="line">1. 高敏感型人格特征  </span><br><span class="line">   这类人群对刺激更敏感，思维活跃度是常人的2-3倍。具体表现如：  </span><br><span class="line">   - 观察到细微环境变化（如他人表情）会引发过度解读；  </span><br><span class="line">   - 对暴力/成人内容产生更持久的心理印痕。</span><br><span class="line"> </span><br><span class="line">2. 现实压力代偿机制  </span><br><span class="line">   当现实生活存在隐性压力源（如学业竞争、家庭矛盾），大脑会通过幻想场景获得掌控感：  </span><br><span class="line">   - 血腥画面可能象征对「破坏力」的潜意识好奇，反映现实中压抑的攻击性；  </span><br><span class="line">   - 特定人物联想可能是未满足的情感需求投射，如渴望被理解或获得权威认可。</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">三、需警惕的潜在心理问题 </span><br><span class="line">虽然多数情况属于正常心理现象，但若出现以下特征，建议专业评估：  </span><br><span class="line">1. 强迫思维倾向  </span><br><span class="line">   - 明知某些念头无意义却无法停止，伴随明显焦虑感。  </span><br><span class="line">   - 试图用特定仪式行为（如反复检查）缓解思维困扰。</span><br><span class="line"> </span><br><span class="line">2. 抑郁症关联症状  </span><br><span class="line">   - 思维内容以自责、悲观为主（如反复设想自己失败），且持续超过2周。  </span><br><span class="line">   - 伴随食欲/睡眠改变、兴趣减退等生理变化。</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">四、系统性改善方案 </span><br><span class="line">1. 即时干预策略  </span><br><span class="line">   - 5分钟专注训练：设置手机定时器，强迫自己专注当下事务（如观察呼吸、数物体数量），逐渐延长专注时长。  </span><br><span class="line">   - 感官替代法：携带薄荷糖/香薰片，杂念出现时通过强烈嗅觉刺激打断思维链。</span><br><span class="line"> </span><br><span class="line">2. 认知重构练习  </span><br><span class="line">   - 思维审计日记：记录每次杂念的具体内容、触发场景和情绪强度，1周后分析规律。例如：  </span><br></pre></td></tr></table></figure><br>     日期：4月5日 | 触发场景：等公交 | 内容：回忆暴力电影镜头 | 情绪：焦虑6分<br>     <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">   - 角色转换对话：给杂念中的「声音」命名（如「批判者小明」），通过书面对话质疑其合理性。</span><br><span class="line"> </span><br><span class="line">3. 长期习惯调整  </span><br><span class="line">   - 建立「思维缓冲区」：每天固定30分钟允许自由联想（如晚饭后），其他时间出现杂念则默念「暂存到X点处理」。  </span><br><span class="line">   - 降低刺激阈值：用纪录片替代暴力影片，逐步减少高刺激内容摄入量。</span><br><span class="line"> </span><br><span class="line">4. 专业支持节点  </span><br><span class="line">   如果实施上述措施1个月仍无改善，或出现以下情况需就医：  </span><br><span class="line">   - 思维内容出现命令性幻听（如听到指使声音）；  </span><br><span class="line">   - 因思维困扰导致社交回避或学业/工作能力下降。</span><br><span class="line"> </span><br><span class="line">---</span><br><span class="line"> </span><br><span class="line">这种思维模式本质是大脑的「过度保护机制」，通过提前演练各种可能性来应对潜在风险。关键是通过结构化训练重建「思维-行为」的良性循环，而非强</span><br><span class="line">行压制念头。建议从最小可操作的改变开始（如每天5分钟正念），逐步增强对思维流动的掌控力。</span><br><span class="line"></span><br></pre></td></tr></table></figure><br>那么可得庆幸不是郁郁症了<br>这篇文章很像水文，但是我不想水。</p><h1 id="能否解决"><a href="#能否解决" class="headerlink" title="能否解决"></a>能否解决</h1><p>我感觉………….挺难的，如果按照deepseek给的建议，也许应该大概能行吧。</p><h1 id="不写了"><a href="#不写了" class="headerlink" title="不写了"></a>不写了</h1><p>算了，不写了，成水文了，脑子这个时候也挺乱的，没有任何头绪去写，哎！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近总感觉脑子很乱，于是多出了这么一篇文章。而且这篇是水文。&lt;/p&gt;
+&lt;h1 id=&quot;具体体现&quot;&gt;&lt;a href=&quot;#具体体现&quot; class</summary>
+      
+    
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="胡思乱想" scheme="https://hexo.dreamerhe.cn/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>忍让的忍让最终会变成什么</title>
     <link href="https://hexo.dreamerhe.cn/posts/8056/"/>
     <id>https://hexo.dreamerhe.cn/posts/8056/</id>
     <published>2025-03-29T12:03:12.000Z</published>
-    <updated>2025-03-30T03:15:09.047Z</updated>
+    <updated>2025-04-05T13:35:27.049Z</updated>
     
-    <content type="html"><![CDATA[<font color=red>声明：本文一堆堆都是不好带仇恨的，看不了或者不喜欢看的就可以退了</font><h1 id="事情缘由-前言"><a href="#事情缘由-前言" class="headerlink" title="事情缘由(前言)"></a>事情缘由(前言)</h1><p>不知不觉20天过去了，20天没更新了QWQ。好啦，这不是来更新了吗？这回呢主要是因为两个原因，一个是跟我和某个同学的事，一个是跟班上的事情有关，得罪了一堆“<strong>小仙女</strong>”呢<psw>就是纯阴阳他们，故意的，要说缘由都是他们先阴阳我的</psw> 。</p><h1 id="和同学打架"><a href="#和同学打架" class="headerlink" title="和同学打架"></a>和同学打架</h1><p>ok，不扯那么多，就先开始我们的第一个事情吧，这件事是因为我看某个同学不爽，然后他上完大不冲，虽然是别人上看见了说的，我也在场，就越想越烦，就给他告到老师那儿了，AUV，你说巧不巧，那天回宿舍离他多远，在宿舍过道上啊，然后他突然走过来掐了一下我的腿，我忍住了，这里就开始一忍了，很快就是忍让的忍让会变成什么了<psw>原本是打算写完这个再总结的，谁让星期五发生了这样的事情呢，那就最后写完了再总结吧</psw><br>然后到了后面呢，也就是他嘴贱吧，我是听不得那种骂我家人的，你骂我我绝对可以忍，骂家人一两回就算了，多了就这下场咯。<br>之后吧，我就越来越生气，走个过道要挤着他，然后他来了一句cnm，那天星期天就越发有了想打他的想法了<psw>先提前声明这篇文章一堆都是不好的言论，介意的就别看了</psw>，然后我就跟我几个玩的好的说了，说那天回去绝对要打他，对咯，那肯定是打了，<psw>没打起来，被人拉住了</psw><br>然后第二天原本是我下去给他们领操跳绳，但是心情不好，就没有下去，回来之后，就被老师请到走廊外面教育了，旷课<psw>也不算旷吧</psw>了三节，中途我要求直接去德育处记过的，当时就没什么怕的，最多毕业证延迟一年，记档案罢了，现在想想还是挺优质的吧。</p><h2 id="心情颜色"><a href="#心情颜色" class="headerlink" title="心情颜色"></a>心情颜色</h2><p>其实这种感觉就是一种红色心情了，当然是有好有坏的，比如开朗的红色心情，还有一个就是我这样暴躁的红色心情了，但是吧，我认为值得，就像我在<strong>XX中学违纪学生记载表</strong>里写的一样，我当时这个红色心情脑子跟抽的一样，在自我认识那一栏写了个<strong>不该打架，但是我认为我没错，我只是维护了我妈的尊严，就算我是断手杆也不该让他骂</strong>，那么这个断手杆又是怎么个事情呢？那就一起说了吧</p><h2 id="断手杆"><a href="#断手杆" class="headerlink" title="断手杆"></a>断手杆</h2><p>没错，这断选择全部psw掉<br><psw>其实就和我的出身有关了，出生的时候被医生搞到了，说法呢也是各有千秋，从我爸妈那里听到的就是长得太胖，然后出不来使劲一扯，就这样了，也不算断吧，刚开始其实都还好，只是手腕不能翻转过来，后面吧，渐渐少了对右手的锻炼，就导致现在直接手是弯的，骨头定型了，打不直了，也全怪自己吧。。。。。。。。。。。。。</psw></p><h1 id="英语课上的小插曲而差点引发的战争"><a href="#英语课上的小插曲而差点引发的战争" class="headerlink" title="英语课上的小插曲而差点引发的战争"></a>英语课上的小插曲而差点引发的战争</h1><p>这件事就是星期四发生的，然后星期五引发的，怎么回事呢？那就慢慢道来吧。<br>就是星期二，四，是我们班主任的延时服务课（ps:就是下午要多两节课，其中一节是她上初一初二的兴趣课的），要我去开门，那天中午开了团会，别人喊给我讲了要关门，然后我开门没找到钥匙，就给办主任打电话，但是她开会就没接，后来找到就去开门了，开完门，再加上我要检查公地，就直接忘了，这不翘了吗？然后班主任回来就问我钥匙呢，我直接就是一G了，但是钥匙还在那，就没什么损失，班主任去问了一个老师，说叫她给我讲的，但是并没有叫我，那老师找了几个女同学跟我说，然后他们就一点也没给我说，我是一点印象都没有，然后星期五上午最后一节班主任的课，就非常生气，就把全部女生拉到后面站着了，但是女生们直接倒打一耙，说跟我讲了，我没记住，我就想问了，星期四体考，我跟我玩的好的男生一起的，我不体考，我就随便转转，然后她们说就是这个时候给我讲的，我是一点印象都没有，跟我那记忆错乱了一样而且我很清楚我干了什么，课间操去厕所上大顺便抽烟了，直接说出来吧，不怕了，反正都给我写到班会总结上了，而且他们根本不知道我要抽烟，就在那里给我写上去了，那班会总结也是逆天，我先说后面的，然后中午的时候，有个XX跟我吵了一会，说我怎么样怎么样，还是好几个，然后又来一个，我直接吼了一句你叫JB啊！她居然也给我来你叫JB啊，我当时是想说，你有JB吗？但是我没说，想想还挺可惜的呢~然后我就很想打她了，不过念在她没有在班会课把我名字直接说出来<psw>其实老师会看，都知道的</psw>，几条有两条就是跟我有关的，一群XX啊，就说这两条，其他不说了<br>· 某些同学喜欢抽烟<br>· 喜欢骂人</p><p>笑死，都给我列出来了，就差没点我名了，点我名了我是怎么想的，直接站上去两耳光然后问证据，没有证据我继续打，当着班主任的面打，她算个球啊，一天天多跳，多jb贱啊，但是还是忍住咯。</p><h2 id="QQ动态"><a href="#QQ动态" class="headerlink" title="QQ动态"></a>QQ动态</h2><p>为此我还专门发了个QQ动态<br>某些小仙女哇，看来也是很牛啊，不想多说什么，就是觉得他们好厉害啊（纯阴阳），我不配呢，我记忆力确实差呢，课间操没跟女生在一堆，体考跟我玩的好的三个人一起走的，他们都没听见你们就说了，哈不哈嘛，过去了就过去了，还非要在背后议论说我怎么怎么样，我都给老师说了我自己忘了，而且你们本来就没跟我说，小仙女们就急咯，过去了就过去了吧，我不想谈了，你们爱咋咋样，惹毛了就像我跟我好朋友几个说的一样施行就行了，第一次打架是忍无可忍，没打过就算了，残疾人，断手杆打得过谁嘛？对吧？我断手杆残疾人打不过男生女生还打不过吗？哈不哈，还是那句惹毛了就星期五的想法施行就行了，不惹你们你们非要来惹我，狗急了还咬人呢，傻缺一群，没有对我这种想法的自然不算，说的肯定是有这种的咯，写博客阴阳去了，傻缺一群，如果仙女姐姐们有会点号的，我就只有please咯，一个QQ号没了就没了，傻缺一群，有本事正面骂，不要背后骂</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>没了，但是写归这样写，我里面的行为是不对的，我虽然意识到不对，但是改不过来，其实也挺累的，但是真要这么干了其实还挺爽的</p>]]></content>
+    <content type="html"><![CDATA[<font color=red>声明：本文一堆堆都是不好带仇恨的，看不了或者不喜欢看的就可以退了</font><h1 id="事情缘由-前言"><a href="#事情缘由-前言" class="headerlink" title="事情缘由(前言)"></a>事情缘由(前言)</h1><p>不知不觉20天过去了，20天没更新了QWQ。好啦，这不是来更新了吗？这回呢主要是因为两个原因，一个是跟我和某个同学的事，一个是跟班上的事情有关，得罪了一堆“<strong>小仙女</strong>”呢<psw>就是纯阴阳他们，故意的，要说缘由都是他们先阴阳我的</psw> 。</p><h1 id="和同学打架"><a href="#和同学打架" class="headerlink" title="和同学打架"></a>和同学打架</h1><p>ok，不扯那么多，就先开始我们的第一个事情吧，这件事是因为我看某个同学不爽，然后他上完大不冲，虽然是别人上看见了说的，我也在场，就越想越烦，就给他告到老师那儿了，AUV，你说巧不巧，那天回宿舍离他多远，在宿舍过道上啊，然后他突然走过来掐了一下我的腿，我忍住了，这里就开始一忍了，很快就是忍让的忍让会变成什么了<psw>原本是打算写完这个再总结的，谁让星期五发生了这样的事情呢，那就最后写完了再总结吧</psw><br>然后到了后面呢，也就是他嘴贱吧，我是听不得那种骂我家人的，你骂我我绝对可以忍，骂家人一两回就算了，多了就这下场咯。<br>之后吧，我就越来越生气，走个过道要挤着他，然后他来了一句cnm，那天星期天就越发有了想打他的想法了<psw>先提前声明这篇文章一堆都是不好的言论，介意的就别看了</psw>，然后我就跟我几个玩的好的说了，说那天回去绝对要打他，对咯，那肯定是打了，<psw>没打起来，被人拉住了</psw><br>然后第二天原本是我下去给他们领操跳绳，但是心情不好，就没有下去，回来之后，就被老师请到走廊外面教育了，旷课<psw>也不算旷吧</psw>了三节，中途我要求直接去德育处记过的，当时就没什么怕的，最多毕业证延迟一年，记档案罢了，现在想想还是挺优质的吧。</p><h2 id="心情颜色"><a href="#心情颜色" class="headerlink" title="心情颜色"></a>心情颜色</h2><p>其实这种感觉就是一种红色心情了，当然是有好有坏的，比如开朗的红色心情，还有一个就是我这样暴躁的红色心情了，但是吧，我认为值得，就像我在<strong>XX中学违纪学生记载表</strong>里写的一样，我当时这个红色心情脑子跟抽的一样，在自我认识那一栏写了个<strong>不该打架，但是我认为我没错，我只是维护了我妈的尊严，就算我是断手杆也不该让他骂</strong>，那么这个断手杆又是怎么个事情呢？那就一起说了吧</p><h2 id="断手杆"><a href="#断手杆" class="headerlink" title="断手杆"></a>断手杆</h2><p>没错，这断选择全部psw掉<br><psw>其实就和我的出身有关了，出生的时候被医生搞到了，说法呢也是各有千秋，从我爸妈那里听到的就是长得太胖，然后出不来使劲一扯，就这样了，也不算断吧，刚开始其实都还好，只是手腕不能翻转过来，后面吧，渐渐少了对右手的锻炼，就导致现在直接手是弯的，骨头定型了，打不直了，也全怪自己吧。。。。。。。。。。。。。</psw></p><h1 id="英语课上的小插曲而差点引发的战争"><a href="#英语课上的小插曲而差点引发的战争" class="headerlink" title="英语课上的小插曲而差点引发的战争"></a>英语课上的小插曲而差点引发的战争</h1><p>这件事就是星期四发生的，然后星期五引发的，怎么回事呢？那就慢慢道来吧。<br>就是星期二，四，是我们班主任的延时服务课（ps:就是下午要多两节课，其中一节是她上初一初二的兴趣课的），要我去开门，那天中午开了团会，别人喊给我讲了要关门，然后我开门没找到钥匙，就给班主任打电话，但是她开会就没接，后来找到就去开门了，开完门，再加上我要检查公地，就直接忘了，这不翘了吗？然后班主任回来就问我钥匙呢，我直接就是一G了，但是钥匙还在那，就没什么损失，班主任去问了一个老师，说叫她给我讲的，但是并没有叫我，那老师找了几个女同学跟我说，然后他们就一点也没给我说，我是一点印象都没有，然后星期五上午最后一节班主任的课，就非常生气，就把全部女生拉到后面站着了，但是女生们直接倒打一耙，说跟我讲了，我没记住，我就想问了，星期四体考，我跟我玩的好的男生一起的，我不体考，我就随便转转，然后她们说就是这个时候给我讲的，我是一点印象都没有，跟我那记忆错乱了一样而且我很清楚我干了什么，课间操去厕所上大顺便抽烟了，直接说出来吧，不怕了，反正都给我写到班会总结上了，而且他们根本不知道我要抽烟，就在那里给我写上去了，那班会总结也是逆天，我先说后面的，然后中午的时候，有个XX跟我吵了一会，说我怎么样怎么样，还是好几个，然后又来一个，我直接吼了一句你叫JB啊！她居然也给我来你叫JB啊，我当时是想说，你有JB吗？但是我没说，想想还挺可惜的呢~然后我就很想打她了，不过念在她没有在班会课把我名字直接说出来<psw>其实老师会看，都知道的</psw>，几条有两条就是跟我有关的，一群XX啊，就说这两条，其他不说了<br>· 某些同学喜欢抽烟<br>· 喜欢骂人</p><p>笑死，都给我列出来了，就差没点我名了，点我名了我是怎么想的，直接站上去两耳光然后问证据，没有证据我继续打，当着班主任的面打，她算个球啊，一天天多跳，多jb贱啊，但是还是忍住咯。</p><h2 id="QQ动态"><a href="#QQ动态" class="headerlink" title="QQ动态"></a>QQ动态</h2><p>为此我还专门发了个QQ动态<br>某些小仙女哇，看来也是很牛啊，不想多说什么，就是觉得他们好厉害啊（纯阴阳），我不配呢，我记忆力确实差呢，课间操没跟女生在一堆，体考跟我玩的好的三个人一起走的，他们都没听见你们就说了，哈不哈嘛，过去了就过去了，还非要在背后议论说我怎么怎么样，我都给老师说了我自己忘了，而且你们本来就没跟我说，小仙女们就急咯，过去了就过去了吧，我不想谈了，你们爱咋咋样，惹毛了就像我跟我好朋友几个说的一样施行就行了，第一次打架是忍无可忍，没打过就算了，残疾人，断手杆打得过谁嘛？对吧？我断手杆残疾人打不过男生女生还打不过吗？哈不哈，还是那句惹毛了就星期五的想法施行就行了，不惹你们你们非要来惹我，狗急了还咬人呢，傻缺一群，没有对我这种想法的自然不算，说的肯定是有这种的咯，写博客阴阳去了，傻缺一群，如果仙女姐姐们有会点号的，我就只有please咯，一个QQ号没了就没了，傻缺一群，有本事正面骂，不要背后骂</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>没了，但是写归这样写，我里面的行为是不对的，我虽然意识到不对，但是改不过来，其实也挺累的，但是真要这么干了其实还挺爽的</p>]]></content>
     
     
       
@@ -282,9 +309,9 @@
     <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
@@ -311,9 +338,9 @@
     <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E5%B0%8F%E8%AE%B0/"/>
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
@@ -342,9 +369,9 @@
     <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
     <category term="大事" scheme="https://hexo.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
     
@@ -401,9 +428,9 @@
     <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
     <category term="游后感" scheme="https://hexo.dreamerhe.cn/tags/%E6%B8%B8%E5%90%8E%E6%84%9F/"/>
     
@@ -431,9 +458,9 @@
     <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
     <category term="感慨" scheme="https://hexo.dreamerhe.cn/tags/%E6%84%9F%E6%85%A8/"/>
     
@@ -549,9 +576,9 @@
     <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E5%B0%8F%E8%AE%B0/"/>
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    
+    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
@@ -580,36 +607,6 @@
     <category term="C语言" scheme="https://hexo.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
     
     <category term="学习" scheme="https://hexo.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我原本以为我不会再哭泣</title>
-    <link href="https://hexo.dreamerhe.cn/posts/45674/"/>
-    <id>https://hexo.dreamerhe.cn/posts/45674/</id>
-    <published>2024-08-18T13:51:17.000Z</published>
-    <updated>2024-08-25T05:49:17.199Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="这是一个悲痛的事情"><a href="#这是一个悲痛的事情" class="headerlink" title="这是一个悲痛的事情"></a>这是一个悲痛的事情</h1><p>就在2024的8.14日1点38分，还是37，刘婆婆走了。我四点钟左右被鞭炮声吵醒，一阵敲锣打鼓，我就知道发生了什么，因为就在那天的前一天，我妈接到了个电话，说刘婆婆不行了，但是我从来没想到过会来的这么快，刘婆婆已经91岁了，已经是长寿了，我当初在她九十岁的时候还发了个动态说一定会活到100岁的，看来，我的话也不是很有效。</p><h1 id="我与刘婆婆的关系"><a href="#我与刘婆婆的关系" class="headerlink" title="我与刘婆婆的关系"></a>我与刘婆婆的关系</h1><p>为什么会有这样的问题？因为从刘婆婆，而不是<strong>婆婆</strong>，所以我们之间并不是亲的，刘婆婆是我的干婆婆，也就是说她的儿子女儿之间有一对是我的干爹干妈，所以我也就是她的干孙子了。</p><h1 id="期间发生的一些事情"><a href="#期间发生的一些事情" class="headerlink" title="期间发生的一些事情"></a>期间发生的一些事情</h1><p>我只挑一些详细的记得住的吧。</p><h2 id="济公的糖"><a href="#济公的糖" class="headerlink" title="济公的糖"></a>济公的糖</h2><p>一天晚上的唱灯<psw>就是人走了之后的那种表演和追悼</psw>，济公，也就是这一个表演，我坐在我干妈后面，然后有一些人都得到了济公的糖，当然到我这的时候已经没了，但是我干妈有了，干妈回头看了一眼，我没注意到的，我在那刷手机玩，好像是吧，好像又是手机没电了我就在那看，然后一颗糖递在了我面前，我抬头一看，是干妈，然后干妈把那块糖给我了，那种感觉，说不出，只有亲身体会才会有吧。</p><h2 id="孝袍"><a href="#孝袍" class="headerlink" title="孝袍"></a>孝袍</h2><p>这件事，就很难说，为什么呢，因为他们都是穿的那种脑袋上专门一个红的，But我不是，而且我前几天都没穿，然后那天晚上的表演过后，干妈叫我不要一天呆在屋里打游戏，然后叫我每天早上出来的时候跟他们一起拜拜，就是那种道士的拜，然后那天早上我直接就平常的衣服过去了，然后干妈叫我把那衣服穿上，因为刚开始我觉得那衣服应该不是我的，然后我就说没得，然后干妈就让我去找我妈了，之后我不会穿啊，那就是个东西然后后面披着个长条的，然后就拿去给干妈给我穿了。</p><h2 id="最后一天晚上的追悼"><a href="#最后一天晚上的追悼" class="headerlink" title="最后一天晚上的追悼"></a>最后一天晚上的追悼</h2><p>这个放在最后单独讲，这里只列举出来。</p><h2 id="送zang"><a href="#送zang" class="headerlink" title="送zang"></a>送zang</h2><p>这个词我就不打出来了吧，也就是昨天早上，8.19的早上，早上6点30的时候走的，我拿了菊花，还是一个我认不到的人给了，也是刘婆婆的某个孙子吧，这点不重要，之后我们便踏上了送刘婆婆的最后一程，那段路不长，但走的很慢很慢，我的手也早已经举酸了，但是还是坚持着，然后送到了地方，那段路是真的不长，走的话最多10几分钟，多的话20多分钟吧，但是前面的那些抬着那啥的，所以就慢了，到了目的地又回来之后就已经7点50左右了，心情是沉重的，什么话也不想说。</p><h1 id="那天晚上的追悼"><a href="#那天晚上的追悼" class="headerlink" title="那天晚上的追悼"></a>那天晚上的追悼</h1><p>这也算一个占用比较多的了，那天晚上，我作为孝子上台了，然后拿了一炷香，进行了追悼，其次就是让我们下跪祷告，刚开始我觉得没什么，因为这些事情我早就经历过很多次，从婆婆，公，外公，已经是三次了，婆婆走的时候我哭了，爷爷走的时候我也哭了，但是到了外公和刘婆婆这里我就没哭了，但是没哭是假的，这也是为什么这篇文章的标题为<strong>我原本以为我不会再哭泣</strong>我在台上跪着，听着主持人的词，我内心毫无波澜，到了后面一些词，我的心里有了些触动，再到后面，我拿着香，跪，跪了得有半个小时左右吧，应该还要久，我没动，我就那么静静的听着，有的动作也只是香烧了一部分我去转把灰抖掉，到了后面，我不禁想起了刘婆婆对我的喜爱，所以，我哭了，但是只是默默流泪，没有让自己哭出声，跪完把香插上后让我们把那些东西拿下去了，来到刘婆婆的gc前，我们就那么看着，干妈哭了，还有一些人也哭了，但是干爹没有，我也只是在那默默的哭着，没有发声，到了后面我爸来叫我回家后我便回去了。</p><h1 id="我对刘婆婆的感情"><a href="#我对刘婆婆的感情" class="headerlink" title="我对刘婆婆的感情"></a>我对刘婆婆的感情</h1><p>我对刘婆婆的感情虽然不是亲的，但是可以说胜过亲的吧，虽然我不怎么去跟她搭话，但是她每次都会叫住我，跟我聊两句，小的时候到她家玩，就在隔壁，然后她也会对我很关爱，会给我吃各种好吃的，吃饭的时候也叫我多吃点，不要害羞，到了后面我就记得不怎么清楚了，因为上学住校嘛，然后回家做完作业就是玩，也不出门，所以见的面好像就有点少了，最多就是回家后碰见她在那坐着打声招呼，好吧，剩下的我不知道怎么表达了，人要向前看嘛！</p><h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>刘婆婆，一路走好。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;这是一个悲痛的事情&quot;&gt;&lt;a href=&quot;#这是一个悲痛的事情&quot; class=&quot;headerlink&quot; title=&quot;这是一个悲痛的事情&quot;&gt;&lt;/a&gt;这是一个悲痛的事情&lt;/h1&gt;&lt;p&gt;就在2024的8.14日1点38分，还是37，刘婆婆走了。我四点钟左右被鞭炮声吵醒，</summary>
-      
-    
-    
-    
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
-    
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
-    
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
-    
-    <category term="怀念" scheme="https://hexo.dreamerhe.cn/tags/%E6%80%80%E5%BF%B5/"/>
     
   </entry>
   
