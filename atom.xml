@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>追梦幻境·云之都</title>
+  <title>追梦幻境·梦霞阴云都</title>
   
-  <subtitle>朝着梦想前进!</subtitle>
-  <link href="https://hexo.dreamerhe.cn/atom.xml" rel="self"/>
+  <subtitle>心茧化翼，破风追星！</subtitle>
+  <link href="https://blog.dreamerhe.cn/atom.xml" rel="self"/>
   
-  <link href="https://hexo.dreamerhe.cn/"/>
+  <link href="https://blog.dreamerhe.cn/"/>
   <updated>2025-05-10T23:23:57.328Z</updated>
-  <id>https://hexo.dreamerhe.cn/</id>
+  <id>https://blog.dreamerhe.cn/</id>
   
   <author>
     <name>何星梦</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>逝去的不止是快乐</title>
-    <link href="https://hexo.dreamerhe.cn/posts/10016/"/>
-    <id>https://hexo.dreamerhe.cn/posts/10016/</id>
+    <link href="https://blog.dreamerhe.cn/posts/10016/"/>
+    <id>https://blog.dreamerhe.cn/posts/10016/</id>
     <published>2025-05-10T04:52:55.000Z</published>
     <updated>2025-05-10T23:23:57.328Z</updated>
     
@@ -33,25 +33,25 @@
     
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="动漫" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/%E5%8A%A8%E6%BC%AB/"/>
+    <category term="动漫" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/%E5%8A%A8%E6%BC%AB/"/>
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="动漫" scheme="https://hexo.dreamerhe.cn/tags/%E5%8A%A8%E6%BC%AB/"/>
+    <category term="动漫" scheme="https://blog.dreamerhe.cn/tags/%E5%8A%A8%E6%BC%AB/"/>
     
   </entry>
   
   <entry>
     <title>脑子乱</title>
-    <link href="https://hexo.dreamerhe.cn/posts/24642/"/>
-    <id>https://hexo.dreamerhe.cn/posts/24642/</id>
+    <link href="https://blog.dreamerhe.cn/posts/24642/"/>
+    <id>https://blog.dreamerhe.cn/posts/24642/</id>
     <published>2025-04-05T12:58:13.000Z</published>
     <updated>2025-04-05T14:14:49.003Z</updated>
     
@@ -66,19 +66,19 @@
     
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="胡思乱想" scheme="https://hexo.dreamerhe.cn/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
+    <category term="胡思乱想" scheme="https://blog.dreamerhe.cn/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>忍让的忍让最终会变成什么</title>
-    <link href="https://hexo.dreamerhe.cn/posts/8056/"/>
-    <id>https://hexo.dreamerhe.cn/posts/8056/</id>
+    <link href="https://blog.dreamerhe.cn/posts/8056/"/>
+    <id>https://blog.dreamerhe.cn/posts/8056/</id>
     <published>2025-03-29T12:03:12.000Z</published>
     <updated>2025-04-05T13:35:27.049Z</updated>
     
@@ -94,21 +94,21 @@
     
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="纪念" scheme="https://hexo.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="纪念" scheme="https://blog.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
     
   </entry>
   
   <entry>
     <title>哪吒2影后感</title>
-    <link href="https://hexo.dreamerhe.cn/posts/39863/"/>
-    <id>https://hexo.dreamerhe.cn/posts/39863/</id>
+    <link href="https://blog.dreamerhe.cn/posts/39863/"/>
+    <id>https://blog.dreamerhe.cn/posts/39863/</id>
     <published>2025-02-15T04:54:19.000Z</published>
     <updated>2025-03-08T05:50:40.389Z</updated>
     
@@ -122,21 +122,21 @@
     
     
     
-    <category term="电影" scheme="https://hexo.dreamerhe.cn/categories/%E7%94%B5%E5%BD%B1/"/>
+    <category term="电影" scheme="https://blog.dreamerhe.cn/categories/%E7%94%B5%E5%BD%B1/"/>
     
-    <category term="观后感" scheme="https://hexo.dreamerhe.cn/categories/%E7%94%B5%E5%BD%B1/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://blog.dreamerhe.cn/categories/%E7%94%B5%E5%BD%B1/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
-    <category term="电影" scheme="https://hexo.dreamerhe.cn/tags/%E7%94%B5%E5%BD%B1/"/>
+    <category term="电影" scheme="https://blog.dreamerhe.cn/tags/%E7%94%B5%E5%BD%B1/"/>
     
-    <category term="观后感" scheme="https://hexo.dreamerhe.cn/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://blog.dreamerhe.cn/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>松溉古镇游记</title>
-    <link href="https://hexo.dreamerhe.cn/posts/51267/"/>
-    <id>https://hexo.dreamerhe.cn/posts/51267/</id>
+    <link href="https://blog.dreamerhe.cn/posts/51267/"/>
+    <id>https://blog.dreamerhe.cn/posts/51267/</id>
     <published>2025-02-09T08:56:19.000Z</published>
     <updated>2025-02-09T14:10:56.579Z</updated>
     
@@ -150,21 +150,21 @@
     
     
     
-    <category term="旅游" scheme="https://hexo.dreamerhe.cn/categories/%E6%97%85%E6%B8%B8/"/>
+    <category term="旅游" scheme="https://blog.dreamerhe.cn/categories/%E6%97%85%E6%B8%B8/"/>
     
-    <category term="玩" scheme="https://hexo.dreamerhe.cn/categories/%E6%97%85%E6%B8%B8/%E7%8E%A9/"/>
+    <category term="玩" scheme="https://blog.dreamerhe.cn/categories/%E6%97%85%E6%B8%B8/%E7%8E%A9/"/>
     
     
-    <category term="旅游" scheme="https://hexo.dreamerhe.cn/tags/%E6%97%85%E6%B8%B8/"/>
+    <category term="旅游" scheme="https://blog.dreamerhe.cn/tags/%E6%97%85%E6%B8%B8/"/>
     
-    <category term="玩" scheme="https://hexo.dreamerhe.cn/tags/%E7%8E%A9/"/>
+    <category term="玩" scheme="https://blog.dreamerhe.cn/tags/%E7%8E%A9/"/>
     
   </entry>
   
   <entry>
     <title>好兄弟生日快乐+街上朋友一起玩</title>
-    <link href="https://hexo.dreamerhe.cn/posts/54263/"/>
-    <id>https://hexo.dreamerhe.cn/posts/54263/</id>
+    <link href="https://blog.dreamerhe.cn/posts/54263/"/>
+    <id>https://blog.dreamerhe.cn/posts/54263/</id>
     <published>2025-01-31T08:51:21.000Z</published>
     <updated>2025-01-31T13:15:55.701Z</updated>
     
@@ -179,21 +179,21 @@
     
     
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
     
-    <category term="纪念" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="纪念" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E7%BA%AA%E5%BF%B5/"/>
     
     
-    <category term="纪念" scheme="https://hexo.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="纪念" scheme="https://blog.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
     
   </entry>
   
   <entry>
     <title>新年快乐</title>
-    <link href="https://hexo.dreamerhe.cn/posts/60343/"/>
-    <id>https://hexo.dreamerhe.cn/posts/60343/</id>
+    <link href="https://blog.dreamerhe.cn/posts/60343/"/>
+    <id>https://blog.dreamerhe.cn/posts/60343/</id>
     <published>2025-01-29T08:11:03.000Z</published>
     <updated>2025-01-29T11:04:26.222Z</updated>
     
@@ -208,21 +208,21 @@
     
     
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
     
-    <category term="纪念" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="纪念" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E7%BA%AA%E5%BF%B5/"/>
     
     
-    <category term="纪念" scheme="https://hexo.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="纪念" scheme="https://blog.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
     
   </entry>
   
   <entry>
     <title>绝区零新剧情剧情体验+鸣潮？初？体验</title>
-    <link href="https://hexo.dreamerhe.cn/posts/4410/"/>
-    <id>https://hexo.dreamerhe.cn/posts/4410/</id>
+    <link href="https://blog.dreamerhe.cn/posts/4410/"/>
+    <id>https://blog.dreamerhe.cn/posts/4410/</id>
     <published>2025-01-24T02:19:12.000Z</published>
     <updated>2025-01-24T11:17:15.538Z</updated>
     
@@ -237,29 +237,29 @@
     
     
     
-    <category term="游戏" scheme="https://hexo.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/"/>
+    <category term="游戏" scheme="https://blog.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/"/>
     
-    <category term="鸣潮" scheme="https://hexo.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/%E9%B8%A3%E6%BD%AE/"/>
+    <category term="鸣潮" scheme="https://blog.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/%E9%B8%A3%E6%BD%AE/"/>
     
-    <category term="绝区零" scheme="https://hexo.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/%E9%B8%A3%E6%BD%AE/%E7%BB%9D%E5%8C%BA%E9%9B%B6/"/>
+    <category term="绝区零" scheme="https://blog.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/%E9%B8%A3%E6%BD%AE/%E7%BB%9D%E5%8C%BA%E9%9B%B6/"/>
     
-    <category term="zzz" scheme="https://hexo.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/%E9%B8%A3%E6%BD%AE/%E7%BB%9D%E5%8C%BA%E9%9B%B6/zzz/"/>
+    <category term="zzz" scheme="https://blog.dreamerhe.cn/categories/%E6%B8%B8%E6%88%8F/%E9%B8%A3%E6%BD%AE/%E7%BB%9D%E5%8C%BA%E9%9B%B6/zzz/"/>
     
     
-    <category term="游戏" scheme="https://hexo.dreamerhe.cn/tags/%E6%B8%B8%E6%88%8F/"/>
+    <category term="游戏" scheme="https://blog.dreamerhe.cn/tags/%E6%B8%B8%E6%88%8F/"/>
     
-    <category term="绝区零" scheme="https://hexo.dreamerhe.cn/tags/%E7%BB%9D%E5%8C%BA%E9%9B%B6/"/>
+    <category term="绝区零" scheme="https://blog.dreamerhe.cn/tags/%E7%BB%9D%E5%8C%BA%E9%9B%B6/"/>
     
-    <category term="zzz" scheme="https://hexo.dreamerhe.cn/tags/zzz/"/>
+    <category term="zzz" scheme="https://blog.dreamerhe.cn/tags/zzz/"/>
     
-    <category term="鸣潮" scheme="https://hexo.dreamerhe.cn/tags/%E9%B8%A3%E6%BD%AE/"/>
+    <category term="鸣潮" scheme="https://blog.dreamerhe.cn/tags/%E9%B8%A3%E6%BD%AE/"/>
     
   </entry>
   
   <entry>
     <title>Vue学习之路（1）</title>
-    <link href="https://hexo.dreamerhe.cn/posts/4366/"/>
-    <id>https://hexo.dreamerhe.cn/posts/4366/</id>
+    <link href="https://blog.dreamerhe.cn/posts/4366/"/>
+    <id>https://blog.dreamerhe.cn/posts/4366/</id>
     <published>2025-01-16T12:44:35.000Z</published>
     <updated>2025-01-17T08:58:56.762Z</updated>
     
@@ -274,25 +274,25 @@
     
     
     
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="vue" scheme="https://hexo.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/vue/"/>
+    <category term="vue" scheme="https://blog.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/vue/"/>
     
-    <category term="笔记" scheme="https://hexo.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/vue/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://blog.dreamerhe.cn/categories/%E5%AD%A6%E4%B9%A0/vue/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="vue" scheme="https://hexo.dreamerhe.cn/tags/vue/"/>
+    <category term="vue" scheme="https://blog.dreamerhe.cn/tags/vue/"/>
     
-    <category term="笔记" scheme="https://hexo.dreamerhe.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://blog.dreamerhe.cn/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>汪星走好</title>
-    <link href="https://hexo.dreamerhe.cn/posts/10605/"/>
-    <id>https://hexo.dreamerhe.cn/posts/10605/</id>
+    <link href="https://blog.dreamerhe.cn/posts/10605/"/>
+    <id>https://blog.dreamerhe.cn/posts/10605/</id>
     <published>2024-11-30T14:05:04.000Z</published>
     <updated>2024-12-07T06:30:32.424Z</updated>
     
@@ -307,21 +307,21 @@
     
     
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
     
-    <category term="纪念" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="纪念" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E7%BA%AA%E5%BF%B5/"/>
     
     
-    <category term="纪念" scheme="https://hexo.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
+    <category term="纪念" scheme="https://blog.dreamerhe.cn/tags/%E7%BA%AA%E5%BF%B5/"/>
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
     
   </entry>
   
   <entry>
     <title>累</title>
-    <link href="https://hexo.dreamerhe.cn/posts/19335/"/>
-    <id>https://hexo.dreamerhe.cn/posts/19335/</id>
+    <link href="https://blog.dreamerhe.cn/posts/19335/"/>
+    <id>https://blog.dreamerhe.cn/posts/19335/</id>
     <published>2024-10-04T02:09:28.000Z</published>
     <updated>2024-10-06T13:17:10.004Z</updated>
     
@@ -336,21 +336,21 @@
     
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>云，能化解我的烦恼</title>
-    <link href="https://hexo.dreamerhe.cn/posts/23252/"/>
-    <id>https://hexo.dreamerhe.cn/posts/23252/</id>
+    <link href="https://blog.dreamerhe.cn/posts/23252/"/>
+    <id>https://blog.dreamerhe.cn/posts/23252/</id>
     <published>2024-09-10T03:38:05.000Z</published>
     <updated>2024-09-10T09:55:05.308Z</updated>
     
@@ -365,21 +365,21 @@
     
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E5%B0%8F%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>站长15岁啦~</title>
-    <link href="https://hexo.dreamerhe.cn/posts/43585/"/>
-    <id>https://hexo.dreamerhe.cn/posts/43585/</id>
+    <link href="https://blog.dreamerhe.cn/posts/43585/"/>
+    <id>https://blog.dreamerhe.cn/posts/43585/</id>
     <published>2024-09-03T00:07:00.000Z</published>
     <updated>2024-09-03T09:08:57.199Z</updated>
     
@@ -394,25 +394,25 @@
     
     
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
     
   </entry>
   
   <entry>
     <title>C语言学习之路（6）</title>
-    <link href="https://hexo.dreamerhe.cn/posts/42973/"/>
-    <id>https://hexo.dreamerhe.cn/posts/42973/</id>
+    <link href="https://blog.dreamerhe.cn/posts/42973/"/>
+    <id>https://blog.dreamerhe.cn/posts/42973/</id>
     <published>2024-08-30T02:04:18.000Z</published>
     <updated>2024-08-30T08:29:48.187Z</updated>
     
@@ -427,21 +427,21 @@
     
     
     
-    <category term="C语言" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
+    <category term="C语言" scheme="https://blog.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
     
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="C语言" scheme="https://hexo.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
+    <category term="C语言" scheme="https://blog.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
     
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>饿殍明末千里行游后感</title>
-    <link href="https://hexo.dreamerhe.cn/posts/20562/"/>
-    <id>https://hexo.dreamerhe.cn/posts/20562/</id>
+    <link href="https://blog.dreamerhe.cn/posts/20562/"/>
+    <id>https://blog.dreamerhe.cn/posts/20562/</id>
     <published>2024-08-29T06:55:58.000Z</published>
     <updated>2024-08-29T12:40:30.288Z</updated>
     
@@ -455,23 +455,23 @@
     
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="游后感" scheme="https://hexo.dreamerhe.cn/tags/%E6%B8%B8%E5%90%8E%E6%84%9F/"/>
+    <category term="游后感" scheme="https://blog.dreamerhe.cn/tags/%E6%B8%B8%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>在成长的过程中我们曾丢失了什么</title>
-    <link href="https://hexo.dreamerhe.cn/posts/20314/"/>
-    <id>https://hexo.dreamerhe.cn/posts/20314/</id>
+    <link href="https://blog.dreamerhe.cn/posts/20314/"/>
+    <id>https://blog.dreamerhe.cn/posts/20314/</id>
     <published>2024-08-28T01:27:06.000Z</published>
     <updated>2024-08-28T13:00:48.535Z</updated>
     
@@ -485,23 +485,23 @@
     
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="感慨" scheme="https://hexo.dreamerhe.cn/tags/%E6%84%9F%E6%85%A8/"/>
+    <category term="感慨" scheme="https://blog.dreamerhe.cn/tags/%E6%84%9F%E6%85%A8/"/>
     
   </entry>
   
   <entry>
     <title>感谢大恩人klcdm+域名恢复+请友友们重新申请友链</title>
-    <link href="https://hexo.dreamerhe.cn/posts/934/"/>
-    <id>https://hexo.dreamerhe.cn/posts/934/</id>
+    <link href="https://blog.dreamerhe.cn/posts/934/"/>
+    <id>https://blog.dreamerhe.cn/posts/934/</id>
     <published>2024-08-27T02:24:21.000Z</published>
     <updated>2024-08-27T04:31:30.368Z</updated>
     
@@ -515,23 +515,23 @@
     
     
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/"/>
     
-    <category term="通知" scheme="https://hexo.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E9%80%9A%E7%9F%A5/"/>
+    <category term="通知" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E9%80%9A%E7%9F%A5/"/>
     
     
-    <category term="大事" scheme="https://hexo.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
+    <category term="大事" scheme="https://blog.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
     
-    <category term="感谢" scheme="https://hexo.dreamerhe.cn/tags/%E6%84%9F%E8%B0%A2/"/>
+    <category term="感谢" scheme="https://blog.dreamerhe.cn/tags/%E6%84%9F%E8%B0%A2/"/>
     
-    <category term="通知" scheme="https://hexo.dreamerhe.cn/tags/%E9%80%9A%E7%9F%A5/"/>
+    <category term="通知" scheme="https://blog.dreamerhe.cn/tags/%E9%80%9A%E7%9F%A5/"/>
     
   </entry>
   
   <entry>
     <title>C语言学习之路（5）</title>
-    <link href="https://hexo.dreamerhe.cn/posts/58333/"/>
-    <id>https://hexo.dreamerhe.cn/posts/58333/</id>
+    <link href="https://blog.dreamerhe.cn/posts/58333/"/>
+    <id>https://blog.dreamerhe.cn/posts/58333/</id>
     <published>2024-08-24T05:38:29.000Z</published>
     <updated>2024-08-30T02:12:48.688Z</updated>
     
@@ -546,21 +546,21 @@
     
     
     
-    <category term="C语言" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
+    <category term="C语言" scheme="https://blog.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
     
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="C语言" scheme="https://hexo.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
+    <category term="C语言" scheme="https://blog.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
     
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>C语言学习之路（4）</title>
-    <link href="https://hexo.dreamerhe.cn/posts/8156/"/>
-    <id>https://hexo.dreamerhe.cn/posts/8156/</id>
+    <link href="https://blog.dreamerhe.cn/posts/8156/"/>
+    <id>https://blog.dreamerhe.cn/posts/8156/</id>
     <published>2024-08-23T08:26:38.000Z</published>
     <updated>2024-08-25T05:49:16.702Z</updated>
     
@@ -574,21 +574,21 @@
     
     
     
-    <category term="C语言" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
+    <category term="C语言" scheme="https://blog.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
     
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="C语言" scheme="https://hexo.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
+    <category term="C语言" scheme="https://blog.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
     
-    <category term="学习" scheme="https://hexo.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>干爹的一番教导</title>
-    <link href="https://hexo.dreamerhe.cn/posts/53848/"/>
-    <id>https://hexo.dreamerhe.cn/posts/53848/</id>
+    <link href="https://blog.dreamerhe.cn/posts/53848/"/>
+    <id>https://blog.dreamerhe.cn/posts/53848/</id>
     <published>2024-08-23T08:18:59.000Z</published>
     <updated>2024-08-23T13:35:29.826Z</updated>
     
@@ -603,14 +603,14 @@
     
     
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/"/>
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E5%B0%8F%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://hexo.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
-    <category term="杂记" scheme="https://hexo.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
