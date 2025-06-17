@@ -6,7 +6,7 @@
   <link href="https://blog.dreamerhe.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.dreamerhe.cn/"/>
-  <updated>2025-06-16T08:51:23.835Z</updated>
+  <updated>2025-06-16T14:05:06.646Z</updated>
   <id>https://blog.dreamerhe.cn/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>矛盾心理</title>
+    <link href="https://blog.dreamerhe.cn/posts/25667/"/>
+    <id>https://blog.dreamerhe.cn/posts/25667/</id>
+    <published>2025-06-16T14:02:17.000Z</published>
+    <updated>2025-06-16T14:05:06.646Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>毕业的纪念和想说的话</title>
@@ -98,9 +111,9 @@
     <category term="动漫" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/%E5%8A%A8%E6%BC%AB/"/>
     
     
-    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
-    
     <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
     <category term="动漫" scheme="https://blog.dreamerhe.cn/tags/%E5%8A%A8%E6%BC%AB/"/>
     
@@ -343,9 +356,9 @@
     <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
-    
     <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
   </entry>
   
@@ -372,9 +385,9 @@
     <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E5%B0%8F%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
-    
     <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
   </entry>
   
@@ -403,9 +416,9 @@
     <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%A4%A7%E4%BA%8B/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
-    
     <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
     <category term="大事" scheme="https://blog.dreamerhe.cn/tags/%E5%A4%A7%E4%BA%8B/"/>
     
@@ -462,9 +475,9 @@
     <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
-    
     <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
     <category term="游后感" scheme="https://blog.dreamerhe.cn/tags/%E6%B8%B8%E5%90%8E%E6%84%9F/"/>
     
@@ -492,9 +505,9 @@
     <category term="杂记" scheme="https://blog.dreamerhe.cn/categories/%E5%B0%8F%E8%AE%B0/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
-    
     <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
     <category term="感慨" scheme="https://blog.dreamerhe.cn/tags/%E6%84%9F%E6%85%A8/"/>
     
@@ -580,37 +593,9 @@
     <category term="小记" scheme="https://blog.dreamerhe.cn/categories/%E6%9D%82%E8%AE%B0/%E5%B0%8F%E8%AE%B0/"/>
     
     
-    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
-    
     <category term="杂记" scheme="https://blog.dreamerhe.cn/tags/%E6%9D%82%E8%AE%B0/"/>
     
-  </entry>
-  
-  <entry>
-    <title>C语言学习之路（3）</title>
-    <link href="https://blog.dreamerhe.cn/posts/27613/"/>
-    <id>https://blog.dreamerhe.cn/posts/27613/</id>
-    <published>2024-08-23T08:18:20.000Z</published>
-    <updated>2024-08-25T05:56:19.197Z</updated>
-    
-    <content type="html"><![CDATA[<p>本次学习的内容为常量（晓不得写没写，反正我是忘了这个内容了，或者是根本没学），<br><img src="https://cdn.jsdelivr.net/gh/dreamerhe114514/picx-images-hosting@master/DreamerheClearn1.39l3luzxah.webp" alt="DreamerheClearn1.39l3luzxah.web"><br>其中分为<br>· 常量三大类<br>· 整型常量<br>· 实型常量<br>· 字符型常量<br>· 转义字符<br>· 符号常量</p><h1 id="常量三大类"><a href="#常量三大类" class="headerlink" title="常量三大类"></a>常量三大类</h1><p>常量三大类有<br>· 数值型常量，其中分为<strong>整型常量</strong>和<strong>实型常量</strong><br>· 字符型常量<br>· 符号常量</p><h1 id="整型常量"><a href="#整型常量" class="headerlink" title="整型常量"></a>整型常量</h1><p>整型常量就是直接使用的<strong>整型常数</strong>，比如123、456.7、-11451.4等，整型常量可以是长整型、短整型、符号整型和无符号整型。</p><h2 id="取值范围"><a href="#取值范围" class="headerlink" title="取值范围"></a>取值范围</h2><p><strong>无符号短整型</strong>的取值范围是<strong>0到655535</strong>，而<strong>符号短整型</strong>的取值范围是<strong>-32786~+32767</strong>，这些都是<strong>16位整型常量</strong>的范围。<br>如果<strong>整型是32位</strong>的，那么<strong>无符号形式</strong>的取值范围是<strong>0到4294967295</strong>,而<strong>有符号形式</strong>的取值范围是<strong>-2147483648到2147483647</strong>。但是如果整型是<strong>16位</strong>的,就与无符号短整型得到的范围相同。(0到65535)<br><strong>长整型</strong>为32位的，取值范围<strong>等于int</strong>为<strong>-2147483648到2147483647</strong>。在编写整型常量的时候，可以在后面加上L或者U进行修饰，L(long)代表该常量是长整型，U（Unsigned integer）表示该常量为无符号整型。</p><h2 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h2><p>其中给出了一个例子，为</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">LongNum=<span class="number">1000L</span>；<span class="comment">/*L代表长整型*/</span></span><br><span class="line">UnsignLongNum=<span class="number">500U</span>; <span class="comment">/*U代表无符号整型*/</span></span><br></pre></td></tr></table></figure><h2 id="特殊说明"><a href="#特殊说明" class="headerlink" title="特殊说明"></a>特殊说明</h2><p>根据不同的编译器，整型的取值范围是不一样的，还有可能再16位点的计算机中整型就是16位，在字长为32位的计算机上整型就为32位。<br>表示长整型和无符号整型的后缀字母L和U可以使用大写，也可以使用小写</p><h1 id="整型常量类型得到的表达"><a href="#整型常量类型得到的表达" class="headerlink" title="整型常量类型得到的表达"></a>整型常量类型得到的表达</h1><p>整型常量对于以上的这几类型，可以通过<strong>八进制形式</strong>、<strong>十进制形式</strong>、<strong>十六制形式</strong>来进行表达</p><h1 id="八进制整数"><a href="#八进制整数" class="headerlink" title="八进制整数"></a>八进制整数</h1><p>要使得使用的数据形式是八进制的，<strong>需要在常熟前加上0进行修饰</strong>。八进制即到8进1也就是所包含的数字为0~7</p><h2 id="例子-1"><a href="#例子-1" class="headerlink" title="例子"></a>例子</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">OctalNumer1=<span class="number">0123</span>;   <span class="comment">/*在常数前加上一个0来代表八进制*/</span></span><br><span class="line">OctalNumer2=<span class="number">0432</span>;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="错误示范"><a href="#错误示范" class="headerlink" title="错误示范"></a>错误示范</h2><p>书中给出了俩个错误写法，为</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">OctalNumer3=<span class="number">356</span> <span class="comment">/*没有前缀0*/</span></span><br><span class="line">OctalNumer4=<span class="number">0492</span> <span class="comment">/*包含了非八进制数9*/</span></span><br></pre></td></tr></table></figure><h1 id="十六进制整数"><a href="#十六进制整数" class="headerlink" title="十六进制整数"></a>十六进制整数</h1><p>常量前面使用<strong>0x</strong>作为前缀，表示该常量是用十六进制表示，十六进制中包含<strong>数字0-9</strong>以及<strong>字母A-F</strong>其中<strong>A-F可大写可小写</strong></p><h2 id="例子-2"><a href="#例子-2" class="headerlink" title="例子"></a>例子</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">HexNumber1=<span class="number">0x123</span>; <span class="comment">/*加上0x表示常量为十六进制*/</span></span><br><span class="line">HexNumber2=<span class="number">0x3ba4</span>; <span class="comment">/*加上0x表示常量为十六进制*/</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><p>而一下例子为错误例子</p><h2 id="错误例子"><a href="#错误例子" class="headerlink" title="错误例子"></a>错误例子</h2><p><img src="https://cdn.jsdelivr.net/gh/dreamerhe114514/picx-images-hosting@master/DreamerheClearn2.1zi6fl3j39.webp" alt="DreamerheClearn2.1zi6fl3j39.webp"></p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">HexNumber1=<span class="number">0x123</span>; <span class="comment">/*没有前缀0x,但是这不是包含了吗？欧克，这本书的问题但是bobo说0写的不对，算了，先不管*/</span></span><br><span class="line">HexNumber2=<span class="number">0x89</span>j2; <span class="comment">/*加上0x表示常量为十六进制*/</span></span><br></pre></td></tr></table></figure><h1 id="十进制整数"><a href="#十进制整数" class="headerlink" title="十进制整数"></a>十进制整数</h1><p>十进制不需要添加前缀，十进制包含0-9也就是平时加减法加到10进一<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">AlgorismNumber1=<span class="number">123</span>;</span><br><span class="line">AlgorismNumber2=<span class="number">456</span>;</span><br><span class="line"></span><br></pre></td></tr></table></figure></p><p>不想打字了，直接截图吧<br><img src="https://cdn.jsdelivr.net/gh/dreamerhe114514/picx-images-hosting@master/DreamerheClearn3.b8tieoj9a.png" alt="DreamerheClearn3b8tieoj9a.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;本次学习的内容为常量（晓不得写没写，反正我是忘了这个内容了，或者是根本没学），&lt;br&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/dreamerhe114514/picx-images-hosting@master/DreamerheClea</summary>
-      
-    
-    
-    
-    <category term="C语言" scheme="https://blog.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="学习" scheme="https://blog.dreamerhe.cn/categories/C%E8%AF%AD%E8%A8%80/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="C语言" scheme="https://blog.dreamerhe.cn/tags/C%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="学习" scheme="https://blog.dreamerhe.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="小记" scheme="https://blog.dreamerhe.cn/tags/%E5%B0%8F%E8%AE%B0/"/>
     
   </entry>
   
