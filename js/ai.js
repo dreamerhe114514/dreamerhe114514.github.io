@@ -1,0 +1,1 @@
+new ChucklePostAI({el:"#post>#article-container",key:"01287204868dcc859da1",rec_method:"web"});
