@@ -1,1 +1,31 @@
-var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var e=new Date("01/17/2024 00:00:00"),t=Math.trunc(234e8+(now-e)/1e3*17),a=(t/1496e5).toFixed(6),n=new Date("01/17/2024 00:00:00"),i=(now-n)/1e3/60/60/24,r=Math.floor(i),o=(now-n)/1e3/60/60-24*r,s=Math.floor(o);1==String(s).length&&(s="0"+s);var l=(now-n)/1e3/60-1440*r-60*s,g=Math.floor(l);1==String(g).length&&(g="0"+g);var d=(now-n)/1e3-86400*r-3600*s-60*g,h=Math.round(d);1==String(h).length&&(h="0"+h);let w="";w=s<18&&s>=9?`<img class='boardsign' src='/img/light.svg' title='上午的云好康☀'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${g} 分 ${h} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀</div>`:`<img class='boardsign' src='/img/dark.svg' title='傍晚夕阳下的云也很美呢☀'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${r} 天 ${s} 小时 ${g} 分 ${h} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀</div>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=w)}setInterval(()=>{createtime()},1e3);
+var now = new Date();
+function createtime() {
+  // 当前时间
+  now.setTime(now.getTime() + 1000);
+  var start = new Date("01/17/2024 00:00:00"); // 旅行者1号开始计算的时间
+  var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
+  var unit = (dis / 149600000).toFixed(6);  // 天文单位
+  var grt = new Date("01/17/2024 00:00:00");	// 网站诞生时间
+  var days = (now - grt) / 1e3 / 60 / 60 / 24,
+    dnum = Math.floor(days),
+    hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
+    hnum = Math.floor(hours);
+  1 == String(hnum).length && (hnum = "0" + hnum);
+  var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,
+    mnum = Math.floor(minutes);
+  1 == String(mnum).length && (mnum = "0" + mnum);
+  var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,
+    snum = Math.round(seconds);
+  1 == String(snum).length && (snum = "0" + snum);
+  let currentTimeHtml = "";
+  (currentTimeHtml =
+    hnum < 18 && hnum >= 9
+    ? `<img class='boardsign' src='/img/light.svg' title='上午的云好康☀'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
+    : `<img class='boardsign' src='/img/dark.svg' title='傍晚夕阳下的云也很美呢☀'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+    document.getElementById("workboard") &&
+    (document.getElementById("workboard").innerHTML = currentTimeHtml);
+}
+// 设置重复执行函数，周期1000ms
+setInterval(() => {
+  createtime();
+}, 1000);
