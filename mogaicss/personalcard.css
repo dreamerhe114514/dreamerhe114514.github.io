@@ -1,0 +1,114 @@
+:root{
+    --scrollbar-color: var(--story-theme);
+    --story-load-bg: #FCFCFC;
+    --story-card-widget: rgba(0,0,0,0.2);
+    --story-card-widget-social-list: rgba(255, 255, 255, 0.6);
+    --story-card-widget-social-list2: 0 0 0 2px var(--story-white) inset;
+    --story-widget-background: rgba(255,255,255,0.3);
+    --story-widget-background-2: rgba(0, 0, 0, 0.4);
+    --card-widget: rgba(0, 0, 0, 0.2);
+    --story-gold: gold;
+    --story-widget-text-shadow: 1px 1px #000;
+    --story-widget: 1px solid var(--story-white);
+}
+[data-theme=dark] {
+    --story-load-bg: #1d1e22
+}
+/*--------------------------------card-widget-----------------------------------*/
+#aside-content .card-info{
+    background: url('https://pic.dreamerhe.cn/ZZZ5-tuya.6t71j95o2c.webp');
+    background-size: cover;
+    padding: 0;
+}
+[data-theme="dark"] #aside-content .card-info{
+    background: url('https://pic.dreamerhe.cn/ZZZ5-tuya.6t71j95o2c.webp');
+    background-size: cover;
+    padding: 0;
+}
+#aside-content .card-info>*:nth-child(1) {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 90px;
+    background-color: var(--card-widget)
+}
+#aside-content .card-info .avatar-img{
+    width: 90px;
+    height: 90px;
+    padding: 13px;
+    margin: 0;
+}
+.avatar-img img{
+    border-radius: 50%;
+}
+.avatar-img img:hover{
+    transform: none;
+}
+#aside-content .card-info .author-info__name {
+    height: 32px;
+    padding-top: 5px;
+    font-size: 18px;
+    text-align: left;
+    color: var(--story-white)
+}
+#aside-content .card-info .card-info-data{
+    display: flex;
+    margin: 0;
+    height: 40px;
+    margin-top: -15px;
+    width: calc(100% - 80px);
+}
+#aside-content .card-info .card-info-data > .card-info-data-item a{
+    display: flex;
+    align-items: center;
+    padding: 4px;
+    height: 24px;
+    margin: 12px 5px;
+    background: var(--story-widget-background);
+    border-radius: 4px;
+    border: var(--story-widget);
+}
+#aside-content .card-info .card-info-data > .card-info-data-item a:hover{
+    background: var(--story-widget-background-2);
+}
+#aside-content .card-info .card-info-data > .card-info-data-item a .headline{
+    color: var(--story-gold);
+    text-shadow: var(--story-widget-text-shadow);
+    font-size: 12px;
+}
+#aside-content .card-info .card-info-data > .card-info-data-item a .length-num{
+    padding: 3px 0px 1px 1px;
+    font-size: 12px;
+    font-weight: bold;
+    color: var(--story-white);
+}
+#aside-content  .card-info .social-list {
+    padding: 8px 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(32px,1fr));
+    gap: 10px;
+    background-color: var(--card-widget);
+}
+.social-list>a.social-icon  {
+    width: 100%;
+    height: 32px;
+    background: var(--story-card-widget);
+    border-radius: 4px;
+    color: var(--story-white);
+    text-align: center;
+    line-height: 32px;
+}
+.social-list a.social-icon:hover{
+    background-color: var(--story-card-widget-social-list);
+    box-shadow: var(--story-card-widget-social-list2);
+}
+
+/*头像边框效果*/
+div.is-center > div.avatar-img > img{
+    border: rgba(144,147,153,0.23) 3px solid;
+}
+#aside-content .card-info .author-info__description{
+    text-align: left;
+    color: #f2f2f2;
+    margin-left: 3px;
+}
