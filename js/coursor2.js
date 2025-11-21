@@ -1,1 +1,424 @@
-class CrystalCursor{constructor(){if(!window.matchMedia("(hover: none)").matches){this.pos={curr:null,prev:null},this.trailParticles=[],this.clickParticles=[],this.trailLength=20,this.lastEmitTime=0,this.angle=0,this.currentPointer="normal",this.lerp=(e,t,s)=>(1-s)*e+s*t,this.cursor=document.createElement("div"),this.cursor.id="moonlight-cursor",this.cursor.className="hidden",this.cursor.innerHTML='\n            <div class="moon-disc"></div>\n            <div class="moon-crescent"></div>\n            <div class="moon-glow"></div>\n            <div class="moon-rings">\n                <div class="ring ring-1"></div>\n                <div class="ring ring-2"></div>\n                <div class="ring ring-3"></div>\n            </div>\n        ',document.body.append(this.cursor);for(let e=0;e<this.trailLength;e++){const t=document.createElement("div");t.className="crystal-trail",t.style.setProperty("--i",e),document.body.appendChild(t),this.trailParticles.push({el:t,pos:{x:0,y:0},size:1+1.5*Math.random(),delay:.02*e,life:0,speed:.5+.5*Math.random(),angle:0})}this.initEventListeners(),this.raf=requestAnimationFrame((()=>this.render()))}}initEventListeners(){this.mouseMoveHandler=e=>this.handleMouseMove(e),this.mouseEnterHandler=()=>this.cursor.classList.remove("hidden"),this.mouseLeaveHandler=()=>this.cursor.classList.add("hidden"),this.mouseDownHandler=e=>this.handleMouseDown(e),this.mouseUpHandler=()=>this.cursor.classList.remove("active"),document.addEventListener("mousemove",this.mouseMoveHandler),document.addEventListener("mouseenter",this.mouseEnterHandler),document.addEventListener("mouseleave",this.mouseLeaveHandler),document.addEventListener("mousedown",this.mouseDownHandler),document.addEventListener("mouseup",this.mouseUpHandler),this.hoverElements=document.querySelectorAll("a, button, [data-hover]"),this.hoverElements.forEach((e=>{e.addEventListener("mouseenter",this.handleHoverEnter.bind(this)),e.addEventListener("mouseleave",this.handleHoverLeave.bind(this))})),this.textElements=document.querySelectorAll("input, textarea, [contenteditable]"),this.textElements.forEach((e=>{e.addEventListener("mouseenter",(()=>this.setPointer("text"))),e.addEventListener("mouseleave",(()=>this.setPointer("normal")))})),this.disabledElements=document.querySelectorAll("[disabled]"),this.disabledElements.forEach((e=>{e.addEventListener("mouseenter",(()=>this.setPointer("unavailable"))),e.addEventListener("mouseleave",(()=>this.setPointer("normal")))})),this.draggableElements=document.querySelectorAll('[draggable="true"]'),this.draggableElements.forEach((e=>{e.addEventListener("mouseenter",(()=>this.setPointer("move"))),e.addEventListener("mouseleave",(()=>this.setPointer("normal")))}))}handleMouseMove(e){const t=Date.now();if(t-this.lastEmitTime>16){if(null===this.pos.curr&&this.move(e.clientX-6,e.clientY-6),this.pos.curr={x:e.clientX,y:e.clientY},this.cursor.classList.remove("hidden"),this.pos.prev){const e=this.pos.curr.x-this.pos.prev.x,t=this.pos.curr.y-this.pos.prev.y;this.angle=Math.atan2(t,e)}this.activateTrailParticle(),this.lastEmitTime=t}}handleMouseDown(e){this.cursor.classList.add("active");const t=window.scrollX||window.pageXOffset,s=window.scrollY||window.pageYOffset;this.createCrystalBurst(e.clientX+t,e.clientY+s),this.createShockwave(e.clientX+t,e.clientY+s)}handleHoverEnter(e){this.setPointer("link"),this.cursor.classList.add("hover");const t=e.target.getBoundingClientRect();this.createRippleEffect(t)}handleHoverLeave(){this.setPointer("normal"),this.cursor.classList.remove("hover")}setPointer(e){this.currentPointer=e;const t={normal:"url(/img/normal.cur), default",link:"url(/img/link.cur), pointer",text:"url(/img/text.cur), text",move:"url(/img/move.cur), move",help:"url(/img/help.cur), help",unavailable:"url(/img/unavailable.cur), not-allowed",busy:"url(/img/busy.ani), wait",working:"url(/img/working.ani), progress",precision:"url(/img/precision.cur), crosshair"};document.body.style.cursor=t[e]||t.normal}move(e,t){this.cursor.style.left=`${e}px`,this.cursor.style.top=`${t}px`}activateTrailParticle(){const e=this.trailParticles.find((e=>e.life<=0));if(e&&this.pos.prev){e.life=1,e.pos.x=this.pos.prev.x,e.pos.y=this.pos.prev.y,e.size=1+2*Math.random(),e.el.style.width=`${e.size}px`,e.el.style.height=1.5*e.size+"px",e.el.style.opacity="0.8",e.el.style.borderRadius="50%",this.angle&&(e.angle=this.angle,e.el.style.transform=`translate(-50%, -50%) rotate(${e.angle+Math.PI/2}rad)`);const t=270+30*Math.random()-15;e.el.style.background=`linear-gradient(to bottom, \n                hsla(${t}, 100%, 70%, 0.9), \n                hsla(${t+20}, 100%, 50%, 0.5))`,e.el.style.boxShadow=`0 0 5px hsla(${t}, 100%, 70%, 0.8)`}}createCrystalBurst(e,t){const s=["#8a2be2","#9932cc","#ba55d3","#da70d6","#d8bfd8"];for(let r=0;r<50;r++){const r=document.createElement("div");r.className="crystal-burst",r.style.left=`${e}px`,r.style.top=`${t}px`,r.style.backgroundColor=s[Math.floor(Math.random()*s.length)],document.body.appendChild(r);const o=Math.random()*Math.PI*2,i=.5+2*Math.random(),n=800+400*Math.random(),a=2+12*Math.random(),l=360*Math.random();r.style.width=`${a}px`,r.style.height=`${a}px`,r.style.transform=`rotate(${l}deg)`,r.style.clipPath="polygon(50% 0%, 0% 100%, 100% 100%)";const h=s=>{const a=(Date.now()-s)/n;if(a>=1)return void r.remove();const c=i*a*50,d=e+Math.cos(o)*c,m=t+Math.sin(o)*c,u=1-a,v=.5+.5*a;r.style.transform=`translate(${d-e}px, ${m-t}px) rotate(${l+360*a}deg) scale(${v})`,r.style.opacity=u,requestAnimationFrame((()=>h(s)))};requestAnimationFrame((()=>h(Date.now())))}}createShockwave(e,t){const s=document.createElement("div");s.className="shockwave",s.style.left=`${e}px`,s.style.top=`${t}px`,document.body.appendChild(s);const r=Date.now(),o=()=>{const e=(Date.now()-r)/600;if(e>=1)return void s.remove();const t=50*e,i=1-e;s.style.width=`${t}px`,s.style.height=`${t}px`,s.style.opacity=i,s.style.borderWidth=1-1*e+"px",requestAnimationFrame(o)};requestAnimationFrame(o)}createRippleEffect(e){const t=window.scrollX||window.pageXOffset,s=window.scrollY||window.pageYOffset,r=document.createElement("div");r.className="ripple-effect",r.style.left=`${e.left+e.width/2+t}px`,r.style.top=`${e.top+e.height/2+s}px`,document.body.appendChild(r),setTimeout((()=>{r.remove()}),1e3)}render(){if(this.pos.prev&&this.pos.curr){this.pos.prev.x=this.lerp(this.pos.prev.x,this.pos.curr.x,.2),this.pos.prev.y=this.lerp(this.pos.prev.y,this.pos.curr.y,.2),this.move(this.pos.prev.x-6,this.pos.prev.y-6),this.trailParticles.forEach((e=>{if(e.life>0){e.life-=.02*e.speed;const t=15*(1-e.life);e.pos.x+=Math.cos(e.angle)*t*.1,e.pos.y+=Math.sin(e.angle)*t*.1,e.el.style.left=`${e.pos.x}px`,e.el.style.top=`${e.pos.y}px`,e.el.style.opacity=.8*e.life;const s=3+2.5*(1-e.life);e.el.style.height=e.size*s+"px",e.life<=0&&(e.el.style.opacity="0")}}));const e=.3*Math.abs(Math.sin(.003*Date.now()))+.7;this.cursor.querySelector(".moon-glow").style.opacity=e;const t=.2*Math.abs(Math.sin(.002*Date.now()))+.8;this.cursor.querySelector(".ring-1").style.transform=`translate(-50%, -50%) scale(${t})`,this.cursor.querySelector(".ring-2").style.transform=`translate(-50%, -50%) scale(${1.1*t})`,this.cursor.querySelector(".ring-3").style.transform=`translate(-50%, -50%) scale(${1.2*t})`}else this.pos.prev=this.pos.curr;this.raf=requestAnimationFrame((()=>this.render()))}destroy(){cancelAnimationFrame(this.raf),document.removeEventListener("mousemove",this.mouseMoveHandler),document.removeEventListener("mouseenter",this.mouseEnterHandler),document.removeEventListener("mouseleave",this.mouseLeaveHandler),document.removeEventListener("mousedown",this.mouseDownHandler),document.removeEventListener("mouseup",this.mouseUpHandler),this.hoverElements.forEach((e=>{e.removeEventListener("mouseenter",this.handleHoverEnter),e.removeEventListener("mouseleave",this.handleHoverLeave)})),this.textElements.forEach((e=>{e.removeEventListener("mouseenter",(()=>this.setPointer("text"))),e.removeEventListener("mouseleave",(()=>this.setPointer("normal")))})),this.disabledElements.forEach((e=>{e.removeEventListener("mouseenter",(()=>this.setPointer("unavailable"))),e.removeEventListener("mouseleave",(()=>this.setPointer("normal")))})),this.draggableElements.forEach((e=>{e.removeEventListener("mouseenter",(()=>this.setPointer("move"))),e.removeEventListener("mouseleave",(()=>this.setPointer("normal")))})),this.cursor.remove(),this.trailParticles.forEach((e=>e.el.remove())),document.body.style.cursor=""}}(()=>{const e=new CrystalCursor;window.addEventListener("beforeunload",(()=>{e.destroy()}))})();
+/**
+ * CrystalCursor - 水晶月光风格的自定义光标效果
+ * 
+ * 这个类创建了一个高度自定义的光标效果，具有以下特点：
+ * 1. 月亮主题的光标主体，带有发光和脉动光环效果
+ * 2. 拖尾粒子效果，跟随光标移动形成流星般的轨迹
+ * 3. 点击时产生水晶爆炸和冲击波动画
+ * 4. 悬停在元素上时产生涟漪效果
+ * 5. 根据不同的交互元素自动改变光标样式（链接、文本输入、可拖动元素等）
+ * 6. 平滑的动画和过渡效果
+ * 7. 移动设备检测并禁用效果
+ */
+
+class CrystalCursor {
+    constructor() {
+        // 检测是否为触摸设备，如果是则不做任何处理
+        if (window.matchMedia("(hover: none)").matches) {
+            return;
+        }
+
+        // 初始化各种状态和属性
+        this.pos = { curr: null, prev: null }; // 存储当前和之前的光标位置
+        this.trailParticles = []; // 存储拖尾粒子
+        this.clickParticles = []; // 存储点击粒子
+        this.trailLength = 20; // 拖尾粒子的数量
+        this.lastEmitTime = 0; // 上次发射粒子的时间
+        this.angle = 0; // 光标移动角度
+        this.currentPointer = 'normal'; // 当前指针类型
+        // 线性插值函数，用于平滑移动
+        this.lerp = (a, b, n) => (1 - n) * a + n * b;
+        
+        // 创建光标DOM元素
+        this.cursor = document.createElement("div");
+        this.cursor.id = "moonlight-cursor";
+        this.cursor.className = "hidden"; // 初始隐藏
+        // 光标内部结构：月亮圆盘、月牙、发光效果和三个光环
+        this.cursor.innerHTML = `
+            <div class="moon-disc"></div>
+            <div class="moon-crescent"></div>
+            <div class="moon-glow"></div>
+            <div class="moon-rings">
+                <div class="ring ring-1"></div>
+                <div class="ring ring-2"></div>
+                <div class="ring ring-3"></div>
+            </div>
+        `;
+        document.body.append(this.cursor);
+        
+        // 创建拖尾粒子
+        for (let i = 0; i < this.trailLength; i++) {
+            const particle = document.createElement("div");
+            particle.className = "crystal-trail";
+            particle.style.setProperty('--i', i);
+            document.body.appendChild(particle);
+            // 每个粒子有自己的位置、大小、延迟等属性
+            this.trailParticles.push({
+                el: particle,
+                pos: { x: 0, y: 0 },
+                size: 1 + Math.random() * 1.5,
+                delay: i * 0.02,
+                life: 0,
+                speed: 0.5 + Math.random() * 0.5,
+                angle: 0
+            });
+        }
+        
+        // 初始化事件监听器
+        this.initEventListeners();
+        // 开始渲染动画
+        this.raf = requestAnimationFrame(() => this.render());
+    }
+
+    // 初始化所有事件监听器
+    initEventListeners() {
+        // 绑定各种事件处理方法
+        this.mouseMoveHandler = e => this.handleMouseMove(e);
+        this.mouseEnterHandler = () => this.cursor.classList.remove("hidden");
+        this.mouseLeaveHandler = () => this.cursor.classList.add("hidden");
+        this.mouseDownHandler = e => this.handleMouseDown(e);
+        this.mouseUpHandler = () => this.cursor.classList.remove("active");
+        
+        // 添加基本鼠标事件监听
+        document.addEventListener('mousemove', this.mouseMoveHandler);
+        document.addEventListener('mouseenter', this.mouseEnterHandler);
+        document.addEventListener('mouseleave', this.mouseLeaveHandler);
+        document.addEventListener('mousedown', this.mouseDownHandler);
+        document.addEventListener('mouseup', this.mouseUpHandler);
+        
+        // 为可悬停元素添加事件监听
+        this.hoverElements = document.querySelectorAll('a, button, [data-hover]');
+        this.hoverElements.forEach(el => {
+            el.addEventListener('mouseenter', this.handleHoverEnter.bind(this));
+            el.addEventListener('mouseleave', this.handleHoverLeave.bind(this));
+        });
+
+        // 为文本输入元素添加事件监听
+        this.textElements = document.querySelectorAll('input, textarea, [contenteditable]');
+        this.textElements.forEach(el => {
+            el.addEventListener('mouseenter', () => this.setPointer('text'));
+            el.addEventListener('mouseleave', () => this.setPointer('normal'));
+        });
+
+        // 为禁用元素添加事件监听
+        this.disabledElements = document.querySelectorAll('[disabled]');
+        this.disabledElements.forEach(el => {
+            el.addEventListener('mouseenter', () => this.setPointer('unavailable'));
+            el.addEventListener('mouseleave', () => this.setPointer('normal'));
+        });
+
+        // 为可拖动元素添加事件监听
+        this.draggableElements = document.querySelectorAll('[draggable="true"]');
+        this.draggableElements.forEach(el => {
+            el.addEventListener('mouseenter', () => this.setPointer('move'));
+            el.addEventListener('mouseleave', () => this.setPointer('normal'));
+        });
+    }
+
+    // 处理鼠标移动事件
+    handleMouseMove(e) {
+        const now = Date.now();
+        // 限制粒子发射频率
+        if (now - this.lastEmitTime > 16) {
+            // 如果是第一次移动，初始化位置
+            if (this.pos.curr === null) {
+                this.move(e.clientX - 6, e.clientY - 6);
+            }
+            // 更新当前位置
+            this.pos.curr = { x: e.clientX, y: e.clientY };
+            this.cursor.classList.remove("hidden");
+            
+            // 计算移动角度
+            if (this.pos.prev) {
+                const dx = this.pos.curr.x - this.pos.prev.x;
+                const dy = this.pos.curr.y - this.pos.prev.y;
+                this.angle = Math.atan2(dy, dx);
+            }
+            
+            // 激活拖尾粒子
+            this.activateTrailParticle();
+            this.lastEmitTime = now;
+        }
+    }
+
+    // 处理鼠标按下事件
+    handleMouseDown(e) {
+        this.cursor.classList.add("active");
+        const scrollX = window.scrollX || window.pageXOffset;
+        const scrollY = window.scrollY || window.pageYOffset;
+        // 创建点击效果
+        this.createCrystalBurst(e.clientX + scrollX, e.clientY + scrollY);
+        this.createShockwave(e.clientX + scrollX, e.clientY + scrollY);
+    }
+
+    // 处理悬停进入事件
+    handleHoverEnter(e) {
+        this.setPointer('link');
+        this.cursor.classList.add('hover');
+        const rect = e.target.getBoundingClientRect();
+        // 创建涟漪效果
+        this.createRippleEffect(rect);
+    }
+
+    // 处理悬停离开事件
+    handleHoverLeave() {
+        this.setPointer('normal');
+        this.cursor.classList.remove('hover');
+    }
+
+    // 设置指针样式
+    setPointer(type) {
+        this.currentPointer = type;
+        // 定义不同类型的光标样式映射
+        const cursorMap = {
+            normal: 'url(/img/normal.cur), default',
+            link: 'url(/img/link.cur), pointer',
+            text: 'url(/img/text.cur), text',
+            move: 'url(/img/move.cur), move',
+            help: 'url(/img/help.cur), help',
+            unavailable: 'url(/img/unavailable.cur), not-allowed',
+            busy: 'url(/img/busy.ani), wait',
+            working: 'url(/img/working.ani), progress',
+            precision: 'url(/img/precision.cur), crosshair'
+        };
+
+        document.body.style.cursor = cursorMap[type] || cursorMap.normal;
+    }
+
+    // 移动光标到指定位置
+    move(left, top) {
+        this.cursor.style.left = `${left}px`;
+        this.cursor.style.top = `${top}px`;
+    }
+
+    // 激活拖尾粒子
+    activateTrailParticle() {
+        // 找到一个可用的粒子
+        const particle = this.trailParticles.find(p => p.life <= 0);
+        if (particle && this.pos.prev) {
+            // 初始化粒子属性
+            particle.life = 1;
+            particle.pos.x = this.pos.prev.x;
+            particle.pos.y = this.pos.prev.y;
+            particle.size = 1 + Math.random() * 2;
+            particle.el.style.width = `${particle.size}px`;
+            particle.el.style.height = `${particle.size * 1.5}px`;
+            particle.el.style.opacity = '0.8';
+            particle.el.style.borderRadius = '50%';
+            
+            // 设置粒子角度
+            if (this.angle) {
+                particle.angle = this.angle;
+                particle.el.style.transform = `translate(-50%, -50%) rotate(${particle.angle + Math.PI/2}rad)`;
+            }
+            
+            // 设置粒子颜色和发光效果
+            const hue = 270 + Math.random() * 30 - 15;
+            particle.el.style.background = `linear-gradient(to bottom, 
+                hsla(${hue}, 100%, 70%, 0.9), 
+                hsla(${hue + 20}, 100%, 50%, 0.5))`;
+            particle.el.style.boxShadow = `0 0 5px hsla(${hue}, 100%, 70%, 0.8)`;
+        }
+    }
+
+    // 创建水晶爆炸效果
+    createCrystalBurst(x, y) {
+        const colors = ['#8a2be2', '#9932cc', '#ba55d3', '#da70d6', '#d8bfd8'];
+        const count = 50; // 爆炸粒子数量
+        
+        for (let i = 0; i < count; i++) {
+            const crystal = document.createElement('div');
+            crystal.className = 'crystal-burst';
+            crystal.style.left = `${x}px`;
+            crystal.style.top = `${y}px`;
+            crystal.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+            document.body.appendChild(crystal);
+            
+            // 设置粒子动画属性
+            const angle = Math.random() * Math.PI * 2;
+            const velocity = 0.5 + Math.random() * 2;
+            const lifetime = 800 + Math.random() * 400;
+            const size = 2 + Math.random() * 12;
+            const rotation = Math.random() * 360;
+            
+            crystal.style.width = `${size}px`;
+            crystal.style.height = `${size}px`;
+            crystal.style.transform = `rotate(${rotation}deg)`;
+            crystal.style.clipPath = 'polygon(50% 0%, 0% 100%, 100% 100%)';
+            
+            // 粒子动画函数
+            const animate = (startTime) => {
+                const now = Date.now();
+                const progress = (now - startTime) / lifetime;
+                
+                if (progress >= 1) {
+                    crystal.remove();
+                    return;
+                }
+                
+                // 计算粒子当前位置和状态
+                const distance = velocity * progress * 50;
+                const currentX = x + Math.cos(angle) * distance;
+                const currentY = y + Math.sin(angle) * distance;
+                const opacity = 1 - progress;
+                const scale = 0.5 + progress * 0.5;
+                
+                // 更新粒子样式
+                crystal.style.transform = `translate(${currentX - x}px, ${currentY - y}px) rotate(${rotation + progress * 360}deg) scale(${scale})`;
+                crystal.style.opacity = opacity;
+                
+                requestAnimationFrame(() => animate(startTime));
+            };
+            
+            requestAnimationFrame(() => animate(Date.now()));
+        }
+    }
+
+    // 创建冲击波效果
+    createShockwave(x, y) {
+        const wave = document.createElement('div');
+        wave.className = 'shockwave';
+        wave.style.left = `${x}px`;
+        wave.style.top = `${y}px`;
+        document.body.appendChild(wave);
+        
+        const startTime = Date.now();
+        const duration = 600;
+        
+        // 冲击波动画函数
+        const animate = () => {
+            const now = Date.now();
+            const progress = (now - startTime) / duration;
+            
+            if (progress >= 1) {
+                wave.remove();
+                return;
+            }
+            
+            // 计算冲击波大小和透明度
+            const size = progress * 50;
+            const opacity = 1 - progress;
+            
+            wave.style.width = `${size}px`;
+            wave.style.height = `${size}px`;
+            wave.style.opacity = opacity;
+            wave.style.borderWidth = `${1 - progress * 1}px`;
+            
+            requestAnimationFrame(animate);
+        };
+        
+        requestAnimationFrame(animate);
+    }
+
+    // 创建悬停时的涟漪效果
+    createRippleEffect(rect) {
+        const scrollX = window.scrollX || window.pageXOffset;
+        const scrollY = window.scrollY || window.pageYOffset;
+        const ripple = document.createElement('div');
+        ripple.className = 'ripple-effect';
+        ripple.style.left = `${rect.left + rect.width/2 + scrollX}px`;
+        ripple.style.top = `${rect.top + rect.height/2 + scrollY}px`;
+        document.body.appendChild(ripple);
+        
+        // 1秒后移除涟漪元素
+        setTimeout(() => {
+            ripple.remove();
+        }, 1000);
+    }
+
+    // 主渲染函数
+    render() {
+        if (this.pos.prev && this.pos.curr) {
+            // 使用线性插值平滑移动光标
+            this.pos.prev.x = this.lerp(this.pos.prev.x, this.pos.curr.x, 0.2);
+            this.pos.prev.y = this.lerp(this.pos.prev.y, this.pos.curr.y, 0.2);
+            this.move(this.pos.prev.x - 6, this.pos.prev.y - 6);
+            
+            // 更新拖尾粒子
+            this.trailParticles.forEach((p) => {
+                if (p.life > 0) {
+                    p.life -= p.speed * 0.02;
+                    
+                    // 根据角度移动粒子
+                    const distance = (1 - p.life) * 15;
+                    p.pos.x += Math.cos(p.angle) * distance * 0.1;
+                    p.pos.y += Math.sin(p.angle) * distance * 0.1;
+                    
+                    // 更新粒子位置和透明度
+                    p.el.style.left = `${p.pos.x}px`;
+                    p.el.style.top = `${p.pos.y}px`;
+                    p.el.style.opacity = p.life * 0.8;
+                    
+                    // 粒子拖尾长度变化
+                    const tailLength = 3 + (1 - p.life) * 2.5;
+                    p.el.style.height = `${p.size * tailLength}px`;
+                    
+                    if (p.life <= 0) {
+                        p.el.style.opacity = '0';
+                    }
+                }
+            });
+            
+            // 月亮发光强度变化
+            const glowIntensity = Math.abs(Math.sin(Date.now() * 0.003)) * 0.3 + 0.7;
+            this.cursor.querySelector('.moon-glow').style.opacity = glowIntensity;
+            
+            // 光环脉动效果
+            const pulse = Math.abs(Math.sin(Date.now() * 0.002)) * 0.2 + 0.8;
+            this.cursor.querySelector('.ring-1').style.transform = `translate(-50%, -50%) scale(${pulse})`;
+            this.cursor.querySelector('.ring-2').style.transform = `translate(-50%, -50%) scale(${pulse * 1.1})`;
+            this.cursor.querySelector('.ring-3').style.transform = `translate(-50%, -50%) scale(${pulse * 1.2})`;
+        } else {
+            this.pos.prev = this.pos.curr;
+        }
+        
+        // 继续渲染循环
+        this.raf = requestAnimationFrame(() => this.render());
+    }
+
+    // 销毁方法，清理所有资源和事件监听
+    destroy() {
+        cancelAnimationFrame(this.raf);
+        
+        // 移除所有事件监听
+        document.removeEventListener('mousemove', this.mouseMoveHandler);
+        document.removeEventListener('mouseenter', this.mouseEnterHandler);
+        document.removeEventListener('mouseleave', this.mouseLeaveHandler);
+        document.removeEventListener('mousedown', this.mouseDownHandler);
+        document.removeEventListener('mouseup', this.mouseUpHandler);
+        
+        this.hoverElements.forEach(el => {
+            el.removeEventListener('mouseenter', this.handleHoverEnter);
+            el.removeEventListener('mouseleave', this.handleHoverLeave);
+        });
+        
+        this.textElements.forEach(el => {
+            el.removeEventListener('mouseenter', () => this.setPointer('text'));
+            el.removeEventListener('mouseleave', () => this.setPointer('normal'));
+        });
+        
+        this.disabledElements.forEach(el => {
+            el.removeEventListener('mouseenter', () => this.setPointer('unavailable'));
+            el.removeEventListener('mouseleave', () => this.setPointer('normal'));
+        });
+        
+        this.draggableElements.forEach(el => {
+            el.removeEventListener('mouseenter', () => this.setPointer('move'));
+            el.removeEventListener('mouseleave', () => this.setPointer('normal'));
+        });
+        
+        // 移除所有DOM元素
+        this.cursor.remove();
+        this.trailParticles.forEach(p => p.el.remove());
+        document.body.style.cursor = '';
+    }
+}
+
+// 立即执行函数，创建并管理光标实例
+(() => {
+    const CRYSTAL_CURSOR = new CrystalCursor();
+    // 页面卸载前清理资源
+    window.addEventListener('beforeunload', () => {
+        CRYSTAL_CURSOR.destroy();
+    });
+})();

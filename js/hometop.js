@@ -1,1 +1,94 @@
-window.onload=function(){function e(e){return 1==arguments[1]?document.querySelectorAll(e):document.querySelector(e)}e(".hometop");for(var n=e(".hometop-1 ul li",!0),o=e(".hometop-2 ul"),l=e(".hometop-3"),r=n.length,c="",i=0;i<r;i++)c+=0==i?"<li class='on'>"+(i+1)+"</li>":"<li>"+(i+1)+"</li>";o.innerHTML=c;var t,s=0;function a(){for(var e=0;e<r;e++)n[e].style.display="none",o.children[e].className="";r==s&&(s=0),n[s].style.display="block",o.children[s].className="on",s++}t=setInterval(a,1e3);for(var u=0;u<r;u++)n[u].onmouseover=function(){clearInterval(t)},n[u].onmouseout=function(){t=setInterval(a,1e3)};for(var d=0;d<l.children.length;d++)l.children[d].onmouseover=function(){clearInterval(t)},l.children[d].onmouseout=function(){t=setInterval(a,1e3)};for(var h=0;h<r;h++)o.children[h].index=h,o.children[h].onmouseover=function(){clearInterval(t);for(var e=0;e<r;e++)n[e].style.display="none",o.children[e].className="";this.className="on",n[this.index].style.display="block",s=this.index+1},o.children[h].onmouseout=function(){t=setInterval(a,1e3)};l.children[0].onclick=function(){!function(){for(var e=0;e<r;e++)n[e].style.display="none",o.children[e].className="";0==s&&(s=r);n[s-1].style.display="block",o.children[s-1].className="on",s--}()},l.children[1].onclick=function(){a()}};
+window.onload = function(){
+    function $(param){
+        if(arguments[1] == true){
+            return document.querySelectorAll(param);
+        }else{
+            return document.querySelector(param);
+        }
+    }
+    var $box = $(".hometop");
+    var $box1 = $(".hometop-1 ul li",true);
+    var $box2 = $(".hometop-2 ul");
+    var $box3 = $(".hometop-3");
+    var $length = $box1.length;
+
+    var str = "";
+    for(var i =0;i<$length;i++){
+        if(i==0){
+            str +="<li class='on'>"+(i+1)+"</li>";
+        }else{
+            str += "<li>"+(i+1)+"</li>";
+        }
+    }
+    $box2.innerHTML = str;
+
+    var current = 0;
+
+    var timer;
+    timer = setInterval(go,1000);
+    function go(){
+        for(var j =0;j<$length;j++){
+            $box1[j].style.display = "none";
+            $box2.children[j].className = "";
+        }
+        if($length == current){
+            current = 0;
+        }
+        $box1[current].style.display = "block";
+        $box2.children[current].className = "on";
+        current++;
+    }
+
+    for(var k=0;k<$length;k++){
+        $box1[k].onmouseover = function(){
+            clearInterval(timer);
+        }
+        $box1[k].onmouseout = function(){
+            timer = setInterval(go,1000);
+        }
+    }
+    for(var p=0;p<$box3.children.length;p++){
+        $box3.children[p].onmouseover = function(){
+            clearInterval(timer);
+        };
+        $box3.children[p].onmouseout = function(){
+            timer = setInterval(go,1000);
+        }
+    }
+
+    for(var u =0;u<$length;u++){
+        $box2.children[u].index  = u;
+        $box2.children[u].onmouseover = function(){
+            clearInterval(timer);
+            for(var j=0;j<$length;j++){
+                $box1[j].style.display = "none";
+                $box2.children[j].className = "";
+            }
+            this.className = "on";
+            $box1[this.index].style.display = "block";
+            current = this.index +1;
+        }
+        $box2.children[u].onmouseout = function(){
+            timer = setInterval(go,1000);
+        }
+    }
+
+    $box3.children[0].onclick = function(){
+        back();
+    }
+    $box3.children[1].onclick = function(){
+        go();
+    }
+    function back(){
+        for(var j =0;j<$length;j++){
+            $box1[j].style.display = "none";
+            $box2.children[j].className = "";
+        }
+        if(current == 0){
+            current = $length;
+        }
+        $box1[current-1].style.display = "block";
+        $box2.children[current-1].className = "on";
+        current--;
+    }
+}
